@@ -2,7 +2,7 @@ CREATE DATABASE IF NOT EXISTS db_sales;
 
 USE db_sales;
 
-DROP TABLE IF NOT EXISTS OrderDetails;
+DROP TABLE IF EXISTS OrderDetails;
 
 CREATE TABLE IF NOT EXISTS OrderDetails 
 (

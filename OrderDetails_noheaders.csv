@@ -1,4 +1,4 @@
-10248,11,12,$14.00 ,0,168,4,Queso Cabrales,Dairy Products
+Ôªø10248,11,12,$14.00 ,0,168,4,Queso Cabrales,Dairy Products
 10248,72,5,$34.80 ,0,174,4,Mozzarella di Giovanni,Dairy Products
 10248,42,10,$9.80 ,0,98,5,Singaporean Hokkien Fried Mee,Grains/Cereals
 10249,14,9,$18.60 ,0,167.3999939,7,Tofu,Produce
@@ -7,7 +7,7 @@
 10250,51,35,$42.40 ,0.150000006,1261.400024,7,Manjimup Dried Apples,Produce
 10250,41,10,$7.70 ,0,77,8,Jack's New England Clam Chowder,Seafood
 10251,65,20,$16.80 ,0,336,2,Louisiana Fiery Hot Pepper Sauce,Condiments
-10251,22,6,$16.80 ,0.050000001,95.76000214,5,Gustaf's Kn‰ckebrˆd,Grains/Cereals
+10251,22,6,$16.80 ,0.050000001,95.76000214,5,Gustaf's Kn√§ckebr√∂d,Grains/Cereals
 10251,57,15,$15.60 ,0.050000001,222.3000031,5,Ravioli Angelo,Grains/Cereals
 10252,20,40,$64.80 ,0.050000001,2462.399902,3,Sir Rodney's Marmalade,Confections
 10252,33,25,$2.00 ,0.050000001,47.5,4,Geitost,Dairy Products
@@ -15,17 +15,17 @@
 10253,39,42,$14.40 ,0,604.7999878,1,Chartreuse verte,Beverages
 10253,49,40,$16.00 ,0,640,3,Maxilaku,Confections
 10253,31,20,$10.00 ,0,200,4,Gorgonzola Telino,Dairy Products
-10254,24,15,$3.60 ,0.150000006,45.90000153,1,Guaran· Fant·stica,Beverages
-10254,55,21,$19.20 ,0.150000006,342.7200317,6,P‚tÈ chinois,Meat/Poultry
+10254,24,15,$3.60 ,0.150000006,45.90000153,1,Guaran√° Fant√°stica,Beverages
+10254,55,21,$19.20 ,0.150000006,342.7200317,6,P√¢t√© chinois,Meat/Poultry
 10254,74,21,$8.00 ,0,168,7,Longlife Tofu,Produce
 10255,2,20,$15.20 ,0,304,1,Chang,Beverages
 10255,16,35,$13.90 ,0,486.5,3,Pavlova,Confections
 10255,59,30,$44.00 ,0,1320,4,Raclette Courdavault,Dairy Products
 10255,36,25,$15.20 ,0,380,8,Inlagd Sill,Seafood
-10256,77,12,$10.40 ,0,124.8000031,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10256,77,12,$10.40 ,0,124.8000031,2,Original Frankfurter gr√ºne So√üe,Condiments
 10256,53,15,$26.20 ,0,393,6,Perth Pasties,Meat/Poultry
 10257,39,6,$14.40 ,0,86.40000153,1,Chartreuse verte,Beverages
-10257,77,15,$10.40 ,0,156,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10257,77,15,$10.40 ,0,156,2,Original Frankfurter gr√ºne So√üe,Condiments
 10257,27,25,$35.10 ,0,877.5,3,Schoggi Schokolade,Confections
 10258,2,50,$15.20 ,0.200000003,608,1,Chang,Beverages
 10258,5,65,$17.00 ,0.200000003,884,2,Chef Anton's Gumbo Mix,Condiments
@@ -41,7 +41,7 @@
 10262,5,12,$17.00 ,0.200000003,163.1999969,2,Chef Anton's Gumbo Mix,Condiments
 10262,56,2,$30.40 ,0,60.79999924,5,Gnocchi di nonna Alice,Grains/Cereals
 10262,7,15,$24.00 ,0,360,7,Uncle Bob's Organic Dried Pears,Produce
-10263,24,28,$3.60 ,0,100.8000031,1,Guaran· Fant·stica,Beverages
+10263,24,28,$3.60 ,0,100.8000031,1,Guaran√° Fant√°stica,Beverages
 10263,16,60,$13.90 ,0.25,625.5,3,Pavlova,Confections
 10263,74,36,$8.00 ,0.25,216,7,Longlife Tofu,Produce
 10263,30,60,$20.70 ,0.25,931.5,8,Nord-Ost Matjeshering,Seafood
@@ -50,11 +50,11 @@
 10265,70,20,$12.00 ,0,240,1,Outback Lager,Beverages
 10265,17,30,$31.20 ,0,936,6,Alice Mutton,Meat/Poultry
 10266,12,12,$30.40 ,0.050000001,346.5599976,4,Queso Manchego La Pastora,Dairy Products
-10267,76,15,$14.40 ,0.150000006,183.6000061,1,Lakkalikˆˆri,Beverages
+10267,76,15,$14.40 ,0.150000006,183.6000061,1,Lakkalik√∂√∂ri,Beverages
 10267,59,70,$44.00 ,0.150000006,2618,4,Raclette Courdavault,Dairy Products
 10267,40,50,$14.70 ,0,735,8,Boston Crab Meat,Seafood
 10268,72,4,$27.80 ,0,111.1999969,4,Mozzarella di Giovanni,Dairy Products
-10268,29,10,$99.00 ,0,990,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10268,29,10,$99.00 ,0,990,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10269,33,60,$2.00 ,0.050000001,114,4,Geitost,Dairy Products
 10269,72,20,$27.80 ,0.050000001,528.2000122,4,Mozzarella di Giovanni,Dairy Products
 10270,43,25,$36.80 ,0,920,1,Ipoh Coffee,Beverages
@@ -63,28 +63,28 @@
 10272,20,6,$64.80 ,0,388.7999878,3,Sir Rodney's Marmalade,Confections
 10272,31,40,$10.00 ,0,400,4,Gorgonzola Telino,Dairy Products
 10272,72,24,$27.80 ,0,667.2000122,4,Mozzarella di Giovanni,Dairy Products
-10273,76,33,$14.40 ,0.050000001,451.4400024,1,Lakkalikˆˆri,Beverages
+10273,76,33,$14.40 ,0.050000001,451.4400024,1,Lakkalik√∂√∂ri,Beverages
 10273,31,15,$10.00 ,0.050000001,142.5,4,Gorgonzola Telino,Dairy Products
 10273,33,20,$2.00 ,0,40,4,Geitost,Dairy Products
 10273,10,24,$24.80 ,0.050000001,565.4400024,8,Ikura,Seafood
 10273,40,60,$14.70 ,0.050000001,837.8999634,8,Boston Crab Meat,Seafood
 10274,71,20,$17.20 ,0,344,4,Flotemysost,Dairy Products
 10274,72,7,$27.80 ,0,194.6000061,4,Mozzarella di Giovanni,Dairy Products
-10275,24,12,$3.60 ,0.050000001,41.04000092,1,Guaran· Fant·stica,Beverages
+10275,24,12,$3.60 ,0.050000001,41.04000092,1,Guaran√° Fant√°stica,Beverages
 10275,59,6,$44.00 ,0.050000001,250.8000031,4,Raclette Courdavault,Dairy Products
 10276,10,15,$24.80 ,0,372,8,Ikura,Seafood
 10276,13,10,$4.80 ,0,48,8,Konbu,Seafood
 10277,62,12,$39.40 ,0,472.7999878,3,Tarte au sucre,Confections
-10277,28,20,$36.40 ,0,728,7,Rˆssle Sauerkraut,Produce
+10277,28,20,$36.40 ,0,728,7,R√∂ssle Sauerkraut,Produce
 10278,44,16,$15.50 ,0,248,2,Gula Malacca,Condiments
 10278,63,8,$35.10 ,0,280.7999878,2,Vegie-spread,Condiments
 10278,59,15,$44.00 ,0,660,4,Raclette Courdavault,Dairy Products
-10278,73,25,$12.00 ,0,300,8,Rˆd Kaviar,Seafood
+10278,73,25,$12.00 ,0,300,8,R√∂d Kaviar,Seafood
 10279,17,15,$31.20 ,0.25,351,6,Alice Mutton,Meat/Poultry
-10280,24,12,$3.60 ,0,43.20000076,1,Guaran· Fant·stica,Beverages
-10280,75,30,$6.20 ,0,186,1,Rhˆnbr‰u Klosterbier,Beverages
-10280,55,20,$19.20 ,0,384,6,P‚tÈ chinois,Meat/Poultry
-10281,24,6,$3.60 ,0,21.60000038,1,Guaran· Fant·stica,Beverages
+10280,24,12,$3.60 ,0,43.20000076,1,Guaran√° Fant√°stica,Beverages
+10280,75,30,$6.20 ,0,186,1,Rh√∂nbr√§u Klosterbier,Beverages
+10280,55,20,$19.20 ,0,384,6,P√¢t√© chinois,Meat/Poultry
+10281,24,6,$3.60 ,0,21.60000038,1,Guaran√° Fant√°stica,Beverages
 10281,35,4,$14.40 ,0,57.59999847,1,Steeleye Stout,Beverages
 10281,19,1,$7.30 ,0,7.300000191,3,Teatime Chocolate Biscuits,Confections
 10282,57,2,$15.60 ,0,31.20000076,5,Ravioli Angelo,Grains/Cereals
@@ -106,24 +106,24 @@
 10287,16,40,$13.90 ,0.150000006,472.6000061,3,Pavlova,Confections
 10287,46,15,$9.60 ,0.150000006,122.4000015,8,Spegesild,Seafood
 10288,68,3,$10.00 ,0.100000001,27,3,Scottish Longbreads,Confections
-10288,54,10,$5.90 ,0.100000001,53.09999847,6,TourtiËre,Meat/Poultry
+10288,54,10,$5.90 ,0.100000001,53.09999847,6,Tourti√®re,Meat/Poultry
 10289,3,30,$8.00 ,0,240,2,Aniseed Syrup,Condiments
-10289,64,9,$26.60 ,0,239.3999939,5,Wimmers gute Semmelknˆdel,Grains/Cereals
+10289,64,9,$26.60 ,0,239.3999939,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
 10290,5,20,$17.00 ,0,340,2,Chef Anton's Gumbo Mix,Condiments
-10290,77,10,$10.40 ,0,104,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10290,77,10,$10.40 ,0,104,2,Original Frankfurter gr√ºne So√üe,Condiments
 10290,49,15,$16.00 ,0,240,3,Maxilaku,Confections
-10290,29,15,$99.00 ,0,1485,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10290,29,15,$99.00 ,0,1485,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10291,44,24,$15.50 ,0.100000001,334.7999878,2,Gula Malacca,Condiments
 10291,51,2,$42.40 ,0.100000001,76.31999969,7,Manjimup Dried Apples,Produce
 10291,13,20,$4.80 ,0.100000001,86.3999939,8,Konbu,Seafood
 10292,20,20,$64.80 ,0,1296,3,Sir Rodney's Marmalade,Confections
-10293,24,10,$3.60 ,0,36,1,Guaran· Fant·stica,Beverages
-10293,75,6,$6.20 ,0,37.20000076,1,Rhˆnbr‰u Klosterbier,Beverages
+10293,24,10,$3.60 ,0,36,1,Guaran√° Fant√°stica,Beverages
+10293,75,6,$6.20 ,0,37.20000076,1,Rh√∂nbr√§u Klosterbier,Beverages
 10293,63,5,$35.10 ,0,175.5,2,Vegie-spread,Condiments
 10293,18,12,$50.00 ,0,600,8,Carnarvon Tigers,Seafood
 10294,1,18,$14.40 ,0,259.2000122,1,Chai,Beverages
 10294,43,15,$36.80 ,0,552,1,Ipoh Coffee,Beverages
-10294,75,6,$6.20 ,0,37.20000076,1,Rhˆnbr‰u Klosterbier,Beverages
+10294,75,6,$6.20 ,0,37.20000076,1,Rh√∂nbr√§u Klosterbier,Beverages
 10294,60,21,$27.20 ,0,571.2000122,4,Camembert Pierrot,Dairy Products
 10294,17,15,$31.20 ,0,468,6,Alice Mutton,Meat/Poultry
 10295,56,4,$30.40 ,0,121.5999985,5,Gnocchi di nonna Alice,Grains/Cereals
@@ -144,7 +144,7 @@
 10301,40,10,$14.70 ,0,147,8,Boston Crab Meat,Seafood
 10302,43,12,$36.80 ,0,441.6000061,1,Ipoh Coffee,Beverages
 10302,17,40,$31.20 ,0,1248,6,Alice Mutton,Meat/Poultry
-10302,28,28,$36.40 ,0,1019.200012,7,Rˆssle Sauerkraut,Produce
+10302,28,28,$36.40 ,0,1019.200012,7,R√∂ssle Sauerkraut,Produce
 10303,65,30,$16.80 ,0.100000001,453.5999756,2,Louisiana Fiery Hot Pepper Sauce,Condiments
 10303,68,15,$10.00 ,0.100000001,135,3,Scottish Longbreads,Confections
 10303,40,40,$14.70 ,0.100000001,529.2000122,8,Boston Crab Meat,Seafood
@@ -152,10 +152,10 @@
 10304,59,10,$44.00 ,0,440,4,Raclette Courdavault,Dairy Products
 10304,71,2,$17.20 ,0,34.40000153,4,Flotemysost,Dairy Products
 10305,39,30,$14.40 ,0.100000001,388.7999878,1,Chartreuse verte,Beverages
-10305,29,25,$99.00 ,0.100000001,2227.5,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10305,29,25,$99.00 ,0.100000001,2227.5,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10305,18,25,$50.00 ,0.100000001,1125,8,Carnarvon Tigers,Seafood
 10306,53,10,$26.20 ,0,262,6,Perth Pasties,Meat/Poultry
-10306,54,5,$5.90 ,0,29.5,6,TourtiËre,Meat/Poultry
+10306,54,5,$5.90 ,0,29.5,6,Tourti√®re,Meat/Poultry
 10306,30,10,$20.70 ,0,207,8,Nord-Ost Matjeshering,Seafood
 10307,62,10,$39.40 ,0,394,3,Tarte au sucre,Confections
 10307,68,3,$10.00 ,0,30,3,Scottish Longbreads,Confections
@@ -171,9 +171,9 @@
 10311,69,7,$28.80 ,0,201.6000061,4,Gudbrandsdalsost,Dairy Products
 10311,42,6,$11.20 ,0,67.19999695,5,Singaporean Hokkien Fried Mee,Grains/Cereals
 10312,43,24,$36.80 ,0,883.2000122,1,Ipoh Coffee,Beverages
-10312,75,10,$6.20 ,0,62,1,Rhˆnbr‰u Klosterbier,Beverages
+10312,75,10,$6.20 ,0,62,1,Rh√∂nbr√§u Klosterbier,Beverages
 10312,53,20,$26.20 ,0,524,6,Perth Pasties,Meat/Poultry
-10312,28,4,$36.40 ,0,145.6000061,7,Rˆssle Sauerkraut,Produce
+10312,28,4,$36.40 ,0,145.6000061,7,R√∂ssle Sauerkraut,Produce
 10313,36,12,$15.20 ,0,182.3999939,8,Inlagd Sill,Seafood
 10314,62,25,$39.40 ,0.100000001,886.5,3,Tarte au sucre,Confections
 10314,32,40,$25.60 ,0.100000001,921.5999756,4,Mascarpone Fabioli,Dairy Products
@@ -183,17 +183,17 @@
 10316,62,70,$39.40 ,0,2758,3,Tarte au sucre,Confections
 10316,41,10,$7.70 ,0,77,8,Jack's New England Clam Chowder,Seafood
 10317,1,20,$14.40 ,0,288,1,Chai,Beverages
-10318,76,6,$14.40 ,0,86.40000153,1,Lakkalikˆˆri,Beverages
+10318,76,6,$14.40 ,0,86.40000153,1,Lakkalik√∂√∂ri,Beverages
 10318,41,20,$7.70 ,0,154,8,Jack's New England Clam Chowder,Seafood
-10319,76,30,$14.40 ,0,432,1,Lakkalikˆˆri,Beverages
+10319,76,30,$14.40 ,0,432,1,Lakkalik√∂√∂ri,Beverages
 10319,17,8,$31.20 ,0,249.6000061,6,Alice Mutton,Meat/Poultry
-10319,28,14,$36.40 ,0,509.6000061,7,Rˆssle Sauerkraut,Produce
+10319,28,14,$36.40 ,0,509.6000061,7,R√∂ssle Sauerkraut,Produce
 10320,71,30,$17.20 ,0,516,4,Flotemysost,Dairy Products
 10321,35,10,$14.40 ,0,144,1,Steeleye Stout,Beverages
 10322,52,20,$5.60 ,0,112,5,Filo Mix,Grains/Cereals
 10323,39,4,$14.40 ,0,57.59999847,1,Chartreuse verte,Beverages
 10323,15,5,$12.40 ,0,62,2,Genen Shouyu,Condiments
-10323,25,4,$11.20 ,0,44.79999924,3,NuNuCa Nuﬂ-Nougat-Creme,Confections
+10323,25,4,$11.20 ,0,44.79999924,3,NuNuCa Nu√ü-Nougat-Creme,Confections
 10324,35,70,$14.40 ,0.150000006,856.8000488,1,Steeleye Stout,Beverages
 10324,63,80,$35.10 ,0.150000006,2386.800049,2,Vegie-spread,Condiments
 10324,16,21,$13.90 ,0.150000006,248.1150055,3,Pavlova,Confections
@@ -204,7 +204,7 @@
 10325,72,40,$27.80 ,0,1112,4,Mozzarella di Giovanni,Dairy Products
 10325,14,9,$18.60 ,0,167.3999939,7,Tofu,Produce
 10325,13,12,$4.80 ,0,57.59999847,8,Konbu,Seafood
-10326,75,50,$6.20 ,0,310,1,Rhˆnbr‰u Klosterbier,Beverages
+10326,75,50,$6.20 ,0,310,1,Rh√∂nbr√§u Klosterbier,Beverages
 10326,4,24,$17.60 ,0,422.3999939,2,Chef Anton's Cajun Seasoning,Condiments
 10326,57,16,$15.60 ,0,249.6000061,5,Ravioli Angelo,Grains/Cereals
 10327,2,25,$15.20 ,0.200000003,304,1,Chang,Beverages
@@ -214,13 +214,13 @@
 10328,65,40,$16.80 ,0,672,2,Louisiana Fiery Hot Pepper Sauce,Condiments
 10328,68,10,$10.00 ,0,100,3,Scottish Longbreads,Confections
 10328,59,9,$44.00 ,0,396,4,Raclette Courdavault,Dairy Products
-10329,38,20,$210.80 ,0.050000001,4005.199951,1,CÙte de Blaye,Beverages
+10329,38,20,$210.80 ,0.050000001,4005.199951,1,C√¥te de Blaye,Beverages
 10329,19,10,$7.30 ,0.050000001,69.34999847,3,Teatime Chocolate Biscuits,Confections
 10329,56,12,$30.40 ,0.050000001,346.5599976,5,Gnocchi di nonna Alice,Grains/Cereals
 10329,30,8,$20.70 ,0.050000001,157.3200073,8,Nord-Ost Matjeshering,Seafood
-10330,26,50,$24.90 ,0.150000006,1058.25,3,Gumb‰r Gummib‰rchen,Confections
+10330,26,50,$24.90 ,0.150000006,1058.25,3,Gumb√§r Gummib√§rchen,Confections
 10330,72,25,$27.80 ,0.150000006,590.75,4,Mozzarella di Giovanni,Dairy Products
-10331,54,15,$5.90 ,0,88.5,6,TourtiËre,Meat/Poultry
+10331,54,15,$5.90 ,0,88.5,6,Tourti√®re,Meat/Poultry
 10332,47,16,$7.60 ,0.200000003,97.27999878,3,Zaanse koeken,Confections
 10332,42,10,$11.20 ,0.200000003,89.59999847,5,Singaporean Hokkien Fried Mee,Grains/Cereals
 10332,18,40,$50.00 ,0.200000003,1600,8,Carnarvon Tigers,Seafood
@@ -234,9 +234,9 @@
 10335,32,6,$25.60 ,0.200000003,122.8800049,4,Mascarpone Fabioli,Dairy Products
 10335,51,48,$42.40 ,0.200000003,1628.160034,7,Manjimup Dried Apples,Produce
 10336,4,18,$17.60 ,0.100000001,285.1199951,2,Chef Anton's Cajun Seasoning,Condiments
-10337,26,24,$24.90 ,0,597.5999756,3,Gumb‰r Gummib‰rchen,Confections
+10337,26,24,$24.90 ,0,597.5999756,3,Gumb√§r Gummib√§rchen,Confections
 10337,72,25,$27.80 ,0,695,4,Mozzarella di Giovanni,Dairy Products
-10337,23,40,$7.20 ,0,288,5,Tunnbrˆd,Grains/Cereals
+10337,23,40,$7.20 ,0,288,5,Tunnbr√∂d,Grains/Cereals
 10337,36,20,$15.20 ,0,304,8,Inlagd Sill,Seafood
 10337,37,28,$20.80 ,0,582.4000244,8,Gravad lax,Seafood
 10338,17,20,$31.20 ,0,624,6,Alice Mutton,Meat/Poultry
@@ -251,11 +251,11 @@
 10341,59,9,$44.00 ,0.150000006,336.6000061,4,Raclette Courdavault,Dairy Products
 10342,2,24,$15.20 ,0.200000003,291.8399963,1,Chang,Beverages
 10342,31,56,$10.00 ,0.200000003,448,4,Gorgonzola Telino,Dairy Products
-10342,55,40,$19.20 ,0.200000003,614.4000244,6,P‚tÈ chinois,Meat/Poultry
+10342,55,40,$19.20 ,0.200000003,614.4000244,6,P√¢t√© chinois,Meat/Poultry
 10342,36,40,$15.20 ,0.200000003,486.3999939,8,Inlagd Sill,Seafood
-10343,76,15,$14.40 ,0,216,1,Lakkalikˆˆri,Beverages
+10343,76,15,$14.40 ,0,216,1,Lakkalik√∂√∂ri,Beverages
 10343,68,4,$10.00 ,0.050000001,38,3,Scottish Longbreads,Confections
-10343,64,50,$26.60 ,0,1330,5,Wimmers gute Semmelknˆdel,Grains/Cereals
+10343,64,50,$26.60 ,0,1330,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
 10344,4,35,$17.60 ,0,616,2,Chef Anton's Cajun Seasoning,Condiments
 10344,8,70,$32.00 ,0.25,1680,2,Northwoods Cranberry Sauce,Condiments
 10345,8,70,$32.00 ,0,2240,2,Northwoods Cranberry Sauce,Condiments
@@ -264,71 +264,71 @@
 10346,56,20,$30.40 ,0,608,5,Gnocchi di nonna Alice,Grains/Cereals
 10346,17,36,$31.20 ,0.100000001,1010.879944,6,Alice Mutton,Meat/Poultry
 10347,39,50,$14.40 ,0.150000006,612,1,Chartreuse verte,Beverages
-10347,75,6,$6.20 ,0.150000006,31.62000084,1,Rhˆnbr‰u Klosterbier,Beverages
-10347,25,10,$11.20 ,0,112,3,NuNuCa Nuﬂ-Nougat-Creme,Confections
+10347,75,6,$6.20 ,0.150000006,31.62000084,1,Rh√∂nbr√§u Klosterbier,Beverages
+10347,25,10,$11.20 ,0,112,3,NuNuCa Nu√ü-Nougat-Creme,Confections
 10347,40,4,$14.70 ,0,58.79999924,8,Boston Crab Meat,Seafood
 10348,1,15,$14.40 ,0.150000006,183.6000061,1,Chai,Beverages
-10348,23,25,$7.20 ,0,180,5,Tunnbrˆd,Grains/Cereals
-10349,54,24,$5.90 ,0,141.6000061,6,TourtiËre,Meat/Poultry
+10348,23,25,$7.20 ,0,180,5,Tunnbr√∂d,Grains/Cereals
+10349,54,24,$5.90 ,0,141.6000061,6,Tourti√®re,Meat/Poultry
 10350,50,15,$13.00 ,0.100000001,175.5,3,Valkoinen suklaa,Confections
 10350,69,18,$28.80 ,0.100000001,466.5599976,4,Gudbrandsdalsost,Dairy Products
-10351,38,20,$210.80 ,0.050000001,4005.199951,1,CÙte de Blaye,Beverages
+10351,38,20,$210.80 ,0.050000001,4005.199951,1,C√¥te de Blaye,Beverages
 10351,44,77,$15.50 ,0.050000001,1133.824951,2,Gula Malacca,Condiments
 10351,65,10,$16.80 ,0.050000001,159.5999908,2,Louisiana Fiery Hot Pepper Sauce,Condiments
 10351,41,13,$7.70 ,0,100.0999985,8,Jack's New England Clam Chowder,Seafood
-10352,24,10,$3.60 ,0,36,1,Guaran· Fant·stica,Beverages
-10352,54,20,$5.90 ,0.150000006,100.3000031,6,TourtiËre,Meat/Poultry
-10353,38,50,$210.80 ,0.200000003,8432,1,CÙte de Blaye,Beverages
+10352,24,10,$3.60 ,0,36,1,Guaran√° Fant√°stica,Beverages
+10352,54,20,$5.90 ,0.150000006,100.3000031,6,Tourti√®re,Meat/Poultry
+10353,38,50,$210.80 ,0.200000003,8432,1,C√¥te de Blaye,Beverages
 10353,11,12,$16.80 ,0.200000003,161.280014,4,Queso Cabrales,Dairy Products
 10354,1,12,$14.40 ,0,172.8000031,1,Chai,Beverages
-10354,29,4,$99.00 ,0,396,6,Th¸ringer Rostbratwurst,Meat/Poultry
-10355,24,25,$3.60 ,0,90,1,Guaran· Fant·stica,Beverages
+10354,29,4,$99.00 ,0,396,6,Th√ºringer Rostbratwurst,Meat/Poultry
+10355,24,25,$3.60 ,0,90,1,Guaran√° Fant√°stica,Beverages
 10355,57,25,$15.60 ,0,390,5,Ravioli Angelo,Grains/Cereals
 10356,31,30,$10.00 ,0,300,4,Gorgonzola Telino,Dairy Products
 10356,69,20,$28.80 ,0,576,4,Gudbrandsdalsost,Dairy Products
-10356,55,12,$19.20 ,0,230.3999939,6,P‚tÈ chinois,Meat/Poultry
-10357,26,16,$24.90 ,0,398.3999939,3,Gumb‰r Gummib‰rchen,Confections
+10356,55,12,$19.20 ,0,230.3999939,6,P√¢t√© chinois,Meat/Poultry
+10357,26,16,$24.90 ,0,398.3999939,3,Gumb√§r Gummib√§rchen,Confections
 10357,60,8,$27.20 ,0.200000003,174.0800018,4,Camembert Pierrot,Dairy Products
 10357,10,30,$24.80 ,0.200000003,595.2000122,8,Ikura,Seafood
-10358,24,10,$3.60 ,0.050000001,34.20000076,1,Guaran· Fant·stica,Beverages
+10358,24,10,$3.60 ,0.050000001,34.20000076,1,Guaran√° Fant√°stica,Beverages
 10358,34,10,$11.20 ,0.050000001,106.4000015,1,Sasquatch Ale,Beverages
 10358,36,20,$15.20 ,0.050000001,288.7999878,8,Inlagd Sill,Seafood
 10359,16,56,$13.90 ,0.050000001,739.4800415,3,Pavlova,Confections
 10359,31,70,$10.00 ,0.050000001,665,4,Gorgonzola Telino,Dairy Products
 10359,60,80,$27.20 ,0.050000001,2067.199951,4,Camembert Pierrot,Dairy Products
-10360,38,10,$210.80 ,0,2108,1,CÙte de Blaye,Beverages
+10360,38,10,$210.80 ,0,2108,1,C√¥te de Blaye,Beverages
 10360,49,35,$16.00 ,0,560,3,Maxilaku,Confections
-10360,29,35,$99.00 ,0,3465,6,Th¸ringer Rostbratwurst,Meat/Poultry
-10360,54,28,$5.90 ,0,165.1999969,6,TourtiËre,Meat/Poultry
-10360,28,30,$36.40 ,0,1092,7,Rˆssle Sauerkraut,Produce
+10360,29,35,$99.00 ,0,3465,6,Th√ºringer Rostbratwurst,Meat/Poultry
+10360,54,28,$5.90 ,0,165.1999969,6,Tourti√®re,Meat/Poultry
+10360,28,30,$36.40 ,0,1092,7,R√∂ssle Sauerkraut,Produce
 10361,39,54,$14.40 ,0.100000001,699.8399658,1,Chartreuse verte,Beverages
 10361,60,55,$27.20 ,0.100000001,1346.400024,4,Camembert Pierrot,Dairy Products
-10362,25,50,$11.20 ,0,560,3,NuNuCa Nuﬂ-Nougat-Creme,Confections
-10362,54,24,$5.90 ,0,141.6000061,6,TourtiËre,Meat/Poultry
+10362,25,50,$11.20 ,0,560,3,NuNuCa Nu√ü-Nougat-Creme,Confections
+10362,54,24,$5.90 ,0,141.6000061,6,Tourti√®re,Meat/Poultry
 10362,51,20,$42.40 ,0,848,7,Manjimup Dried Apples,Produce
-10363,75,12,$6.20 ,0,74.40000153,1,Rhˆnbr‰u Klosterbier,Beverages
-10363,76,12,$14.40 ,0,172.8000031,1,Lakkalikˆˆri,Beverages
+10363,75,12,$6.20 ,0,74.40000153,1,Rh√∂nbr√§u Klosterbier,Beverages
+10363,76,12,$14.40 ,0,172.8000031,1,Lakkalik√∂√∂ri,Beverages
 10363,31,20,$10.00 ,0,200,4,Gorgonzola Telino,Dairy Products
 10364,69,30,$28.80 ,0,864,4,Gudbrandsdalsost,Dairy Products
 10364,71,5,$17.20 ,0,86,4,Flotemysost,Dairy Products
 10365,11,24,$16.80 ,0,403.2000122,4,Queso Cabrales,Dairy Products
 10366,65,5,$16.80 ,0,84,2,Louisiana Fiery Hot Pepper Sauce,Condiments
-10366,77,5,$10.40 ,0,52,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10366,77,5,$10.40 ,0,52,2,Original Frankfurter gr√ºne So√üe,Condiments
 10367,34,36,$11.20 ,0,403.2000122,1,Sasquatch Ale,Beverages
 10367,65,15,$16.80 ,0,252,2,Louisiana Fiery Hot Pepper Sauce,Condiments
-10367,77,7,$10.40 ,0,72.80000305,2,Original Frankfurter gr¸ne Soﬂe,Condiments
-10367,54,18,$5.90 ,0,106.1999969,6,TourtiËre,Meat/Poultry
+10367,77,7,$10.40 ,0,72.80000305,2,Original Frankfurter gr√ºne So√üe,Condiments
+10367,54,18,$5.90 ,0,106.1999969,6,Tourti√®re,Meat/Poultry
 10368,21,5,$8.00 ,0.100000001,36,3,Sir Rodney's Scones,Confections
 10368,57,25,$15.60 ,0,390,5,Ravioli Angelo,Grains/Cereals
-10368,64,35,$26.60 ,0.100000001,837.8999634,5,Wimmers gute Semmelknˆdel,Grains/Cereals
-10368,28,13,$36.40 ,0.100000001,425.8800049,7,Rˆssle Sauerkraut,Produce
+10368,64,35,$26.60 ,0.100000001,837.8999634,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
+10368,28,13,$36.40 ,0.100000001,425.8800049,7,R√∂ssle Sauerkraut,Produce
 10369,56,18,$30.40 ,0.25,410.4000244,5,Gnocchi di nonna Alice,Grains/Cereals
-10369,29,20,$99.00 ,0,1980,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10369,29,20,$99.00 ,0,1980,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10370,1,15,$14.40 ,0.150000006,183.6000061,1,Chai,Beverages
-10370,64,30,$26.60 ,0,798,5,Wimmers gute Semmelknˆdel,Grains/Cereals
+10370,64,30,$26.60 ,0,798,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
 10370,74,20,$8.00 ,0.150000006,136,7,Longlife Tofu,Produce
 10371,36,6,$15.20 ,0.200000003,72.95999908,8,Inlagd Sill,Seafood
-10372,38,40,$210.80 ,0.25,6324,1,CÙte de Blaye,Beverages
+10372,38,40,$210.80 ,0.25,6324,1,C√¥te de Blaye,Beverages
 10372,20,12,$64.80 ,0.25,583.1999512,3,Sir Rodney's Marmalade,Confections
 10372,60,70,$27.20 ,0.25,1428,4,Camembert Pierrot,Dairy Products
 10372,72,42,$27.80 ,0.25,875.6999512,4,Mozzarella di Giovanni,Dairy Products
@@ -336,11 +336,11 @@
 10373,58,80,$10.60 ,0.200000003,678.4000244,8,Escargots de Bourgogne,Seafood
 10374,31,30,$10.00 ,0,300,4,Gorgonzola Telino,Dairy Products
 10374,58,15,$10.60 ,0,159,8,Escargots de Bourgogne,Seafood
-10375,54,10,$5.90 ,0,59,6,TourtiËre,Meat/Poultry
+10375,54,10,$5.90 ,0,59,6,Tourti√®re,Meat/Poultry
 10375,14,15,$18.60 ,0,279,7,Tofu,Produce
 10376,31,42,$10.00 ,0.050000001,399,4,Gorgonzola Telino,Dairy Products
 10377,39,20,$14.40 ,0.150000006,244.8000031,1,Chartreuse verte,Beverages
-10377,28,20,$36.40 ,0.150000006,618.7999878,7,Rˆssle Sauerkraut,Produce
+10377,28,20,$36.40 ,0.150000006,618.7999878,7,R√∂ssle Sauerkraut,Produce
 10378,71,6,$17.20 ,0,103.1999969,4,Flotemysost,Dairy Products
 10379,63,16,$35.10 ,0.100000001,505.4399719,2,Vegie-spread,Condiments
 10379,65,20,$16.80 ,0.100000001,302.3999939,2,Louisiana Fiery Hot Pepper Sauce,Condiments
@@ -352,7 +352,7 @@
 10381,74,14,$8.00 ,0,112,7,Longlife Tofu,Produce
 10382,5,32,$17.00 ,0,544,2,Chef Anton's Gumbo Mix,Condiments
 10382,33,60,$2.00 ,0,120,4,Geitost,Dairy Products
-10382,29,14,$99.00 ,0,1386,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10382,29,14,$99.00 ,0,1386,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10382,74,50,$8.00 ,0,400,7,Longlife Tofu,Produce
 10382,18,9,$50.00 ,0,450,8,Carnarvon Tigers,Seafood
 10383,50,15,$13.00 ,0,195,3,Valkoinen suklaa,Confections
@@ -363,18 +363,18 @@
 10385,68,8,$10.00 ,0.200000003,64,3,Scottish Longbreads,Confections
 10385,60,20,$27.20 ,0.200000003,435.2000122,4,Camembert Pierrot,Dairy Products
 10385,7,10,$24.00 ,0.200000003,192,7,Uncle Bob's Organic Dried Pears,Produce
-10386,24,15,$3.60 ,0,54,1,Guaran· Fant·stica,Beverages
+10386,24,15,$3.60 ,0,54,1,Guaran√° Fant√°stica,Beverages
 10386,34,10,$11.20 ,0,112,1,Sasquatch Ale,Beverages
-10387,24,15,$3.60 ,0,54,1,Guaran· Fant·stica,Beverages
+10387,24,15,$3.60 ,0,54,1,Guaran√° Fant√°stica,Beverages
 10387,59,12,$44.00 ,0,528,4,Raclette Courdavault,Dairy Products
 10387,71,15,$17.20 ,0,258,4,Flotemysost,Dairy Products
-10387,28,6,$36.40 ,0,218.3999939,7,Rˆssle Sauerkraut,Produce
+10387,28,6,$36.40 ,0,218.3999939,7,R√∂ssle Sauerkraut,Produce
 10388,52,20,$5.60 ,0.200000003,89.59999847,5,Filo Mix,Grains/Cereals
 10388,53,40,$26.20 ,0,1048,6,Perth Pasties,Meat/Poultry
 10388,45,15,$7.60 ,0.200000003,91.20000458,8,Rogede sild,Seafood
 10389,70,30,$12.00 ,0,360,1,Outback Lager,Beverages
 10389,62,20,$39.40 ,0,788,3,Tarte au sucre,Confections
-10389,55,15,$19.20 ,0,288,6,P‚tÈ chinois,Meat/Poultry
+10389,55,15,$19.20 ,0,288,6,P√¢t√© chinois,Meat/Poultry
 10389,10,16,$24.80 ,0,396.7999878,8,Ikura,Seafood
 10390,35,40,$14.40 ,0.100000001,518.3999634,1,Steeleye Stout,Beverages
 10390,31,60,$10.00 ,0.100000001,540,4,Gorgonzola Telino,Dairy Products
@@ -383,8 +383,8 @@
 10391,13,18,$4.80 ,0,86.40000153,8,Konbu,Seafood
 10392,69,50,$28.80 ,0,1440,4,Gudbrandsdalsost,Dairy Products
 10393,2,25,$15.20 ,0.25,285,1,Chang,Beverages
-10393,25,7,$11.20 ,0.25,58.80000305,3,NuNuCa Nuﬂ-Nougat-Creme,Confections
-10393,26,70,$24.90 ,0.25,1307.25,3,Gumb‰r Gummib‰rchen,Confections
+10393,25,7,$11.20 ,0.25,58.80000305,3,NuNuCa Nu√ü-Nougat-Creme,Confections
+10393,26,70,$24.90 ,0.25,1307.25,3,Gumb√§r Gummib√§rchen,Confections
 10393,31,32,$10.00 ,0,320,4,Gorgonzola Telino,Dairy Products
 10393,14,42,$18.60 ,0.25,585.9000244,7,Tofu,Produce
 10394,62,10,$39.40 ,0,394,3,Tarte au sucre,Confections
@@ -394,40 +394,40 @@
 10395,46,28,$9.60 ,0.100000001,241.9199829,8,Spegesild,Seafood
 10396,71,60,$17.20 ,0,1032,4,Flotemysost,Dairy Products
 10396,72,21,$27.80 ,0,583.7999878,4,Mozzarella di Giovanni,Dairy Products
-10396,23,40,$7.20 ,0,288,5,Tunnbrˆd,Grains/Cereals
+10396,23,40,$7.20 ,0,288,5,Tunnbr√∂d,Grains/Cereals
 10397,21,10,$8.00 ,0.150000006,68,3,Sir Rodney's Scones,Confections
 10397,51,18,$42.40 ,0.150000006,648.7200317,7,Manjimup Dried Apples,Produce
 10398,35,30,$14.40 ,0,432,1,Steeleye Stout,Beverages
-10398,55,120,$19.20 ,0.100000001,2073.599854,6,P‚tÈ chinois,Meat/Poultry
-10399,76,35,$14.40 ,0,504,1,Lakkalikˆˆri,Beverages
-10399,77,14,$10.40 ,0,145.6000061,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10398,55,120,$19.20 ,0.100000001,2073.599854,6,P√¢t√© chinois,Meat/Poultry
+10399,76,35,$14.40 ,0,504,1,Lakkalik√∂√∂ri,Beverages
+10399,77,14,$10.40 ,0,145.6000061,2,Original Frankfurter gr√ºne So√üe,Condiments
 10399,68,60,$10.00 ,0,600,3,Scottish Longbreads,Confections
 10399,71,30,$17.20 ,0,516,4,Flotemysost,Dairy Products
 10400,35,35,$14.40 ,0,504,1,Steeleye Stout,Beverages
 10400,49,30,$16.00 ,0,480,3,Maxilaku,Confections
-10400,29,21,$99.00 ,0,2079,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10400,29,21,$99.00 ,0,2079,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10401,65,20,$16.80 ,0,336,2,Louisiana Fiery Hot Pepper Sauce,Condiments
 10401,71,60,$17.20 ,0,1032,4,Flotemysost,Dairy Products
 10401,56,70,$30.40 ,0,2128,5,Gnocchi di nonna Alice,Grains/Cereals
 10401,30,18,$20.70 ,0,372.6000061,8,Nord-Ost Matjeshering,Seafood
 10402,63,65,$35.10 ,0,2281.5,2,Vegie-spread,Condiments
-10402,23,60,$7.20 ,0,432,5,Tunnbrˆd,Grains/Cereals
+10402,23,60,$7.20 ,0,432,5,Tunnbr√∂d,Grains/Cereals
 10403,16,21,$13.90 ,0.150000006,248.1150055,3,Pavlova,Confections
 10403,48,70,$10.20 ,0.150000006,606.9000244,3,Chocolade,Confections
-10404,26,30,$24.90 ,0.050000001,709.6499634,3,Gumb‰r Gummib‰rchen,Confections
+10404,26,30,$24.90 ,0.050000001,709.6499634,3,Gumb√§r Gummib√§rchen,Confections
 10404,49,30,$16.00 ,0.050000001,456,3,Maxilaku,Confections
 10404,42,40,$11.20 ,0.050000001,425.6000061,5,Singaporean Hokkien Fried Mee,Grains/Cereals
 10405,3,50,$8.00 ,0,400,2,Aniseed Syrup,Condiments
 10406,1,10,$14.40 ,0,144,1,Chai,Beverages
 10406,21,30,$8.00 ,0.100000001,216,3,Sir Rodney's Scones,Confections
-10406,28,42,$36.40 ,0.100000001,1375.920044,7,Rˆssle Sauerkraut,Produce
+10406,28,42,$36.40 ,0.100000001,1375.920044,7,R√∂ssle Sauerkraut,Produce
 10406,36,5,$15.20 ,0.100000001,68.40000153,8,Inlagd Sill,Seafood
 10406,40,2,$14.70 ,0.100000001,26.45999908,8,Boston Crab Meat,Seafood
 10407,11,30,$16.80 ,0,504,4,Queso Cabrales,Dairy Products
 10407,69,15,$28.80 ,0,432,4,Gudbrandsdalsost,Dairy Products
 10407,71,15,$17.20 ,0,258,4,Flotemysost,Dairy Products
 10408,62,35,$39.40 ,0,1379,3,Tarte au sucre,Confections
-10408,54,6,$5.90 ,0,35.40000153,6,TourtiËre,Meat/Poultry
+10408,54,6,$5.90 ,0,35.40000153,6,Tourti√®re,Meat/Poultry
 10408,37,10,$20.80 ,0,208,8,Gravad lax,Seafood
 10409,21,12,$8.00 ,0,96,3,Sir Rodney's Scones,Confections
 10409,14,12,$18.60 ,0,223.1999969,7,Tofu,Produce
@@ -438,7 +438,7 @@
 10411,41,25,$7.70 ,0.200000003,154,8,Jack's New England Clam Chowder,Seafood
 10412,14,20,$18.60 ,0.100000001,334.7999878,7,Tofu,Produce
 10413,1,24,$14.40 ,0,345.6000061,1,Chai,Beverages
-10413,76,14,$14.40 ,0,201.6000061,1,Lakkalikˆˆri,Beverages
+10413,76,14,$14.40 ,0,201.6000061,1,Lakkalik√∂√∂ri,Beverages
 10413,62,40,$39.40 ,0,1576,3,Tarte au sucre,Confections
 10414,19,18,$7.30 ,0.050000001,124.8299942,3,Teatime Chocolate Biscuits,Confections
 10414,33,50,$2.00 ,0,100,4,Geitost,Dairy Products
@@ -447,12 +447,12 @@
 10416,19,20,$7.30 ,0,146,3,Teatime Chocolate Biscuits,Confections
 10416,57,20,$15.60 ,0,312,5,Ravioli Angelo,Grains/Cereals
 10416,53,10,$26.20 ,0,262,6,Perth Pasties,Meat/Poultry
-10417,38,50,$210.80 ,0,10540,1,CÙte de Blaye,Beverages
-10417,77,35,$10.40 ,0,364,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10417,38,50,$210.80 ,0,10540,1,C√¥te de Blaye,Beverages
+10417,77,35,$10.40 ,0,364,2,Original Frankfurter gr√ºne So√üe,Condiments
 10417,68,36,$10.00 ,0.25,270,3,Scottish Longbreads,Confections
 10417,46,2,$9.60 ,0.25,14.40000057,8,Spegesild,Seafood
 10418,2,60,$15.20 ,0,912,1,Chang,Beverages
-10418,61,16,$22.80 ,0,364.7999878,2,Sirop d'Èrable,Condiments
+10418,61,16,$22.80 ,0,364.7999878,2,Sirop d'√©rable,Condiments
 10418,47,55,$7.60 ,0,418,3,Zaanse koeken,Confections
 10418,74,15,$8.00 ,0,120,7,Longlife Tofu,Produce
 10419,60,60,$27.20 ,0.050000001,1550.400024,4,Camembert Pierrot,Dairy Products
@@ -460,21 +460,21 @@
 10420,70,8,$12.00 ,0.100000001,86.3999939,1,Outback Lager,Beverages
 10420,9,20,$77.60 ,0.100000001,1396.799927,6,Mishi Kobe Niku,Meat/Poultry
 10420,13,2,$4.80 ,0.100000001,8.640000343,8,Konbu,Seafood
-10420,73,20,$12.00 ,0.100000001,216,8,Rˆd Kaviar,Seafood
-10421,77,10,$10.40 ,0.150000006,88.40000153,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10420,73,20,$12.00 ,0.100000001,216,8,R√∂d Kaviar,Seafood
+10421,77,10,$10.40 ,0.150000006,88.40000153,2,Original Frankfurter gr√ºne So√üe,Condiments
 10421,19,4,$7.30 ,0.150000006,24.8200016,3,Teatime Chocolate Biscuits,Confections
-10421,26,30,$24.90 ,0,747,3,Gumb‰r Gummib‰rchen,Confections
+10421,26,30,$24.90 ,0,747,3,Gumb√§r Gummib√§rchen,Confections
 10421,53,15,$26.20 ,0.150000006,334.0500183,6,Perth Pasties,Meat/Poultry
-10422,26,2,$24.90 ,0,49.79999924,3,Gumb‰r Gummib‰rchen,Confections
+10422,26,2,$24.90 ,0,49.79999924,3,Gumb√§r Gummib√§rchen,Confections
 10423,31,14,$10.00 ,0,140,4,Gorgonzola Telino,Dairy Products
 10423,59,20,$44.00 ,0,880,4,Raclette Courdavault,Dairy Products
 10424,35,60,$14.40 ,0.200000003,691.2000122,1,Steeleye Stout,Beverages
-10424,38,49,$210.80 ,0.200000003,8263.360352,1,CÙte de Blaye,Beverages
+10424,38,49,$210.80 ,0.200000003,8263.360352,1,C√¥te de Blaye,Beverages
 10424,68,30,$10.00 ,0.200000003,240,3,Scottish Longbreads,Confections
-10425,76,20,$14.40 ,0.25,216,1,Lakkalikˆˆri,Beverages
-10425,55,10,$19.20 ,0.25,144,6,P‚tÈ chinois,Meat/Poultry
+10425,76,20,$14.40 ,0.25,216,1,Lakkalik√∂√∂ri,Beverages
+10425,55,10,$19.20 ,0.25,144,6,P√¢t√© chinois,Meat/Poultry
 10426,56,5,$30.40 ,0,152,5,Gnocchi di nonna Alice,Grains/Cereals
-10426,64,7,$26.60 ,0,186.1999969,5,Wimmers gute Semmelknˆdel,Grains/Cereals
+10426,64,7,$26.60 ,0,186.1999969,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
 10427,14,35,$18.60 ,0,651,7,Tofu,Produce
 10428,46,20,$9.60 ,0,192,8,Spegesild,Seafood
 10429,63,35,$35.10 ,0.25,921.375,2,Vegie-spread,Condiments
@@ -486,17 +486,17 @@
 10431,47,30,$7.60 ,0.25,171,3,Zaanse koeken,Confections
 10431,17,50,$31.20 ,0.25,1170,6,Alice Mutton,Meat/Poultry
 10431,40,50,$14.70 ,0.25,551.25,8,Boston Crab Meat,Seafood
-10432,26,10,$24.90 ,0,249,3,Gumb‰r Gummib‰rchen,Confections
-10432,54,40,$5.90 ,0,236,6,TourtiËre,Meat/Poultry
+10432,26,10,$24.90 ,0,249,3,Gumb√§r Gummib√§rchen,Confections
+10432,54,40,$5.90 ,0,236,6,Tourti√®re,Meat/Poultry
 10433,56,28,$30.40 ,0,851.2000122,5,Gnocchi di nonna Alice,Grains/Cereals
-10434,76,18,$14.40 ,0.150000006,220.3200226,1,Lakkalikˆˆri,Beverages
+10434,76,18,$14.40 ,0.150000006,220.3200226,1,Lakkalik√∂√∂ri,Beverages
 10434,11,6,$16.80 ,0,100.8000031,4,Queso Cabrales,Dairy Products
 10435,2,10,$15.20 ,0,152,1,Chang,Beverages
 10435,72,10,$27.80 ,0,278,4,Mozzarella di Giovanni,Dairy Products
-10435,22,12,$16.80 ,0,201.6000061,5,Gustaf's Kn‰ckebrˆd,Grains/Cereals
-10436,75,24,$6.20 ,0.100000001,133.9199982,1,Rhˆnbr‰u Klosterbier,Beverages
+10435,22,12,$16.80 ,0,201.6000061,5,Gustaf's Kn√§ckebr√∂d,Grains/Cereals
+10436,75,24,$6.20 ,0.100000001,133.9199982,1,Rh√∂nbr√§u Klosterbier,Beverages
 10436,56,40,$30.40 ,0.100000001,1094.400024,5,Gnocchi di nonna Alice,Grains/Cereals
-10436,64,30,$26.60 ,0.100000001,718.1999512,5,Wimmers gute Semmelknˆdel,Grains/Cereals
+10436,64,30,$26.60 ,0.100000001,718.1999512,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
 10436,46,5,$9.60 ,0,48,8,Spegesild,Seafood
 10437,53,15,$26.20 ,0,393,6,Perth Pasties,Meat/Poultry
 10438,34,20,$11.20 ,0.200000003,179.1999969,1,Sasquatch Ale,Beverages
@@ -504,70 +504,70 @@
 10438,57,15,$15.60 ,0.200000003,187.1999969,5,Ravioli Angelo,Grains/Cereals
 10439,16,16,$13.90 ,0,222.3999939,3,Pavlova,Confections
 10439,12,15,$30.40 ,0,456,4,Queso Manchego La Pastora,Dairy Products
-10439,64,6,$26.60 ,0,159.6000061,5,Wimmers gute Semmelknˆdel,Grains/Cereals
+10439,64,6,$26.60 ,0,159.6000061,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
 10439,74,30,$8.00 ,0,240,7,Longlife Tofu,Produce
 10440,2,45,$15.20 ,0.150000006,581.4000244,1,Chang,Beverages
-10440,61,90,$22.80 ,0.150000006,1744.200073,2,Sirop d'Èrable,Condiments
+10440,61,90,$22.80 ,0.150000006,1744.200073,2,Sirop d'√©rable,Condiments
 10440,16,49,$13.90 ,0.150000006,578.9349976,3,Pavlova,Confections
-10440,29,24,$99.00 ,0.150000006,2019.600098,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10440,29,24,$99.00 ,0.150000006,2019.600098,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10441,27,50,$35.10 ,0,1755,3,Schoggi Schokolade,Confections
 10442,66,60,$13.60 ,0,816,2,Louisiana Hot Spiced Okra,Condiments
 10442,11,30,$16.80 ,0,504,4,Queso Cabrales,Dairy Products
-10442,54,80,$5.90 ,0,472,6,TourtiËre,Meat/Poultry
+10442,54,80,$5.90 ,0,472,6,Tourti√®re,Meat/Poultry
 10443,11,6,$16.80 ,0.200000003,80.64000702,4,Queso Cabrales,Dairy Products
-10443,28,12,$36.40 ,0,436.7999878,7,Rˆssle Sauerkraut,Produce
+10443,28,12,$36.40 ,0,436.7999878,7,R√∂ssle Sauerkraut,Produce
 10444,35,8,$14.40 ,0,115.1999969,1,Steeleye Stout,Beverages
-10444,26,15,$24.90 ,0,373.5,3,Gumb‰r Gummib‰rchen,Confections
+10444,26,15,$24.90 ,0,373.5,3,Gumb√§r Gummib√§rchen,Confections
 10444,17,10,$31.20 ,0,312,6,Alice Mutton,Meat/Poultry
 10444,41,30,$7.70 ,0,231,8,Jack's New England Clam Chowder,Seafood
 10445,39,6,$14.40 ,0,86.40000153,1,Chartreuse verte,Beverages
-10445,54,15,$5.90 ,0,88.5,6,TourtiËre,Meat/Poultry
-10446,24,20,$3.60 ,0.100000001,64.79999542,1,Guaran· Fant·stica,Beverages
+10445,54,15,$5.90 ,0,88.5,6,Tourti√®re,Meat/Poultry
+10446,24,20,$3.60 ,0.100000001,64.79999542,1,Guaran√° Fant√°stica,Beverages
 10446,19,12,$7.30 ,0.100000001,78.83999634,3,Teatime Chocolate Biscuits,Confections
 10446,31,3,$10.00 ,0.100000001,27,4,Gorgonzola Telino,Dairy Products
 10446,52,15,$5.60 ,0.100000001,75.59999847,5,Filo Mix,Grains/Cereals
 10447,65,35,$16.80 ,0,588,2,Louisiana Fiery Hot Pepper Sauce,Condiments
 10447,19,40,$7.30 ,0,292,3,Teatime Chocolate Biscuits,Confections
 10447,71,2,$17.20 ,0,34.40000153,4,Flotemysost,Dairy Products
-10448,26,6,$24.90 ,0,149.3999939,3,Gumb‰r Gummib‰rchen,Confections
+10448,26,6,$24.90 ,0,149.3999939,3,Gumb√§r Gummib√§rchen,Confections
 10448,40,20,$14.70 ,0,294,8,Boston Crab Meat,Seafood
 10449,62,35,$39.40 ,0,1379,3,Tarte au sucre,Confections
 10449,52,20,$5.60 ,0,112,5,Filo Mix,Grains/Cereals
 10449,10,14,$24.80 ,0,347.2000122,8,Ikura,Seafood
-10450,54,6,$5.90 ,0.200000003,28.3200016,6,TourtiËre,Meat/Poultry
+10450,54,6,$5.90 ,0.200000003,28.3200016,6,Tourti√®re,Meat/Poultry
 10450,10,20,$24.80 ,0.200000003,396.8000183,8,Ikura,Seafood
 10451,65,28,$16.80 ,0.100000001,423.3599854,2,Louisiana Fiery Hot Pepper Sauce,Condiments
-10451,77,55,$10.40 ,0.100000001,514.7999878,2,Original Frankfurter gr¸ne Soﬂe,Condiments
-10451,64,35,$26.60 ,0.100000001,837.8999634,5,Wimmers gute Semmelknˆdel,Grains/Cereals
-10451,55,120,$19.20 ,0.100000001,2073.599854,6,P‚tÈ chinois,Meat/Poultry
+10451,77,55,$10.40 ,0.100000001,514.7999878,2,Original Frankfurter gr√ºne So√üe,Condiments
+10451,64,35,$26.60 ,0.100000001,837.8999634,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
+10451,55,120,$19.20 ,0.100000001,2073.599854,6,P√¢t√© chinois,Meat/Poultry
 10452,44,100,$15.50 ,0.050000001,1472.5,2,Gula Malacca,Condiments
-10452,28,15,$36.40 ,0,546,7,Rˆssle Sauerkraut,Produce
+10452,28,15,$36.40 ,0,546,7,R√∂ssle Sauerkraut,Produce
 10453,70,25,$12.00 ,0.100000001,270,1,Outback Lager,Beverages
 10453,48,15,$10.20 ,0.100000001,137.6999969,3,Chocolade,Confections
 10454,16,20,$13.90 ,0.200000003,222.4000092,3,Pavlova,Confections
 10454,33,20,$2.00 ,0.200000003,32,4,Geitost,Dairy Products
 10454,46,10,$9.60 ,0.200000003,76.80000305,8,Spegesild,Seafood
 10455,39,20,$14.40 ,0,288,1,Chartreuse verte,Beverages
-10455,61,25,$22.80 ,0,570,2,Sirop d'Èrable,Condiments
+10455,61,25,$22.80 ,0,570,2,Sirop d'√©rable,Condiments
 10455,71,30,$17.20 ,0,516,4,Flotemysost,Dairy Products
 10455,53,50,$26.20 ,0,1310,6,Perth Pasties,Meat/Poultry
 10456,21,40,$8.00 ,0.150000006,272,3,Sir Rodney's Scones,Confections
 10456,49,21,$16.00 ,0.150000006,285.6000061,3,Maxilaku,Confections
 10457,59,36,$44.00 ,0,1584,4,Raclette Courdavault,Dairy Products
 10458,43,20,$36.80 ,0,736,1,Ipoh Coffee,Beverages
-10458,26,30,$24.90 ,0,747,3,Gumb‰r Gummib‰rchen,Confections
+10458,26,30,$24.90 ,0,747,3,Gumb√§r Gummib√§rchen,Confections
 10458,71,50,$17.20 ,0,860,4,Flotemysost,Dairy Products
 10458,56,15,$30.40 ,0,456,5,Gnocchi di nonna Alice,Grains/Cereals
-10458,28,30,$36.40 ,0,1092,7,Rˆssle Sauerkraut,Produce
+10458,28,30,$36.40 ,0,1092,7,R√∂ssle Sauerkraut,Produce
 10459,72,40,$27.80 ,0,1112,4,Mozzarella di Giovanni,Dairy Products
 10459,7,16,$24.00 ,0.050000001,364.7999878,7,Uncle Bob's Organic Dried Pears,Produce
 10459,46,20,$9.60 ,0.050000001,182.3999939,8,Spegesild,Seafood
-10460,75,4,$6.20 ,0.25,18.59999847,1,Rhˆnbr‰u Klosterbier,Beverages
+10460,75,4,$6.20 ,0.25,18.59999847,1,Rh√∂nbr√§u Klosterbier,Beverages
 10460,68,21,$10.00 ,0.25,157.5,3,Scottish Longbreads,Confections
 10461,21,40,$8.00 ,0.25,240,3,Sir Rodney's Scones,Confections
-10461,55,60,$19.20 ,0.25,864,6,P‚tÈ chinois,Meat/Poultry
+10461,55,60,$19.20 ,0.25,864,6,P√¢t√© chinois,Meat/Poultry
 10461,30,28,$20.70 ,0.25,434.6999817,8,Nord-Ost Matjeshering,Seafood
-10462,23,21,$7.20 ,0,151.1999969,5,Tunnbrˆd,Grains/Cereals
+10462,23,21,$7.20 ,0,151.1999969,5,Tunnbr√∂d,Grains/Cereals
 10462,13,1,$4.80 ,0,4.800000191,8,Konbu,Seafood
 10463,19,21,$7.30 ,0,153.3000031,3,Teatime Chocolate Biscuits,Confections
 10463,42,50,$11.20 ,0,560,5,Singaporean Hokkien Fried Mee,Grains/Cereals
@@ -575,45 +575,45 @@
 10464,4,16,$17.60 ,0.200000003,225.280014,2,Chef Anton's Cajun Seasoning,Condiments
 10464,60,20,$27.20 ,0,544,4,Camembert Pierrot,Dairy Products
 10464,56,30,$30.40 ,0.200000003,729.6000366,5,Gnocchi di nonna Alice,Grains/Cereals
-10465,24,25,$3.60 ,0,90,1,Guaran· Fant·stica,Beverages
+10465,24,25,$3.60 ,0,90,1,Guaran√° Fant√°stica,Beverages
 10465,50,25,$13.00 ,0,325,3,Valkoinen suklaa,Confections
-10465,29,18,$99.00 ,0.100000001,1603.799927,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10465,29,18,$99.00 ,0.100000001,1603.799927,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10465,40,20,$14.70 ,0,294,8,Boston Crab Meat,Seafood
 10465,45,30,$7.60 ,0.100000001,205.1999969,8,Rogede sild,Seafood
 10466,11,10,$16.80 ,0,168,4,Queso Cabrales,Dairy Products
 10466,46,5,$9.60 ,0,48,8,Spegesild,Seafood
-10467,24,28,$3.60 ,0,100.8000031,1,Guaran· Fant·stica,Beverages
-10467,25,12,$11.20 ,0,134.3999939,3,NuNuCa Nuﬂ-Nougat-Creme,Confections
+10467,24,28,$3.60 ,0,100.8000031,1,Guaran√° Fant√°stica,Beverages
+10467,25,12,$11.20 ,0,134.3999939,3,NuNuCa Nu√ü-Nougat-Creme,Confections
 10468,43,15,$36.80 ,0,552,1,Ipoh Coffee,Beverages
 10468,30,8,$20.70 ,0,165.6000061,8,Nord-Ost Matjeshering,Seafood
 10469,2,40,$15.20 ,0.150000006,516.7999878,1,Chang,Beverages
 10469,44,2,$15.50 ,0.150000006,26.35000038,2,Gula Malacca,Condiments
 10469,16,35,$13.90 ,0.150000006,413.5250244,3,Pavlova,Confections
-10470,23,15,$7.20 ,0,108,5,Tunnbrˆd,Grains/Cereals
-10470,64,8,$26.60 ,0,212.8000031,5,Wimmers gute Semmelknˆdel,Grains/Cereals
+10470,23,15,$7.20 ,0,108,5,Tunnbr√∂d,Grains/Cereals
+10470,64,8,$26.60 ,0,212.8000031,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
 10470,18,30,$50.00 ,0,1500,8,Carnarvon Tigers,Seafood
 10471,56,20,$30.40 ,0,608,5,Gnocchi di nonna Alice,Grains/Cereals
 10471,7,30,$24.00 ,0,720,7,Uncle Bob's Organic Dried Pears,Produce
-10472,24,80,$3.60 ,0.050000001,273.6000061,1,Guaran· Fant·stica,Beverages
+10472,24,80,$3.60 ,0.050000001,273.6000061,1,Guaran√° Fant√°stica,Beverages
 10472,51,18,$42.40 ,0,763.2000122,7,Manjimup Dried Apples,Produce
 10473,33,12,$2.00 ,0,24,4,Geitost,Dairy Products
 10473,71,12,$17.20 ,0,206.3999939,4,Flotemysost,Dairy Products
-10474,75,10,$6.20 ,0,62,1,Rhˆnbr‰u Klosterbier,Beverages
+10474,75,10,$6.20 ,0,62,1,Rh√∂nbr√§u Klosterbier,Beverages
 10474,14,12,$18.60 ,0,223.1999969,7,Tofu,Produce
-10474,28,18,$36.40 ,0,655.2000122,7,Rˆssle Sauerkraut,Produce
+10474,28,18,$36.40 ,0,655.2000122,7,R√∂ssle Sauerkraut,Produce
 10474,40,21,$14.70 ,0,308.7000122,8,Boston Crab Meat,Seafood
-10475,76,42,$14.40 ,0.150000006,514.0800171,1,Lakkalikˆˆri,Beverages
+10475,76,42,$14.40 ,0.150000006,514.0800171,1,Lakkalik√∂√∂ri,Beverages
 10475,66,60,$13.60 ,0.150000006,693.6000366,2,Louisiana Hot Spiced Okra,Condiments
 10475,31,35,$10.00 ,0.150000006,297.5,4,Gorgonzola Telino,Dairy Products
 10476,70,12,$12.00 ,0,144,1,Outback Lager,Beverages
-10476,55,2,$19.20 ,0.050000001,36.47999954,6,P‚tÈ chinois,Meat/Poultry
+10476,55,2,$19.20 ,0.050000001,36.47999954,6,P√¢t√© chinois,Meat/Poultry
 10477,1,15,$14.40 ,0,216,1,Chai,Beverages
 10477,39,20,$14.40 ,0.25,216,1,Chartreuse verte,Beverages
 10477,21,21,$8.00 ,0.25,126,3,Sir Rodney's Scones,Confections
 10478,10,20,$24.80 ,0.050000001,471.1999817,8,Ikura,Seafood
-10479,38,30,$210.80 ,0,6324,1,CÙte de Blaye,Beverages
+10479,38,30,$210.80 ,0,6324,1,C√¥te de Blaye,Beverages
 10479,59,60,$44.00 ,0,2640,4,Raclette Courdavault,Dairy Products
-10479,64,30,$26.60 ,0,798,5,Wimmers gute Semmelknˆdel,Grains/Cereals
+10479,64,30,$26.60 ,0,798,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
 10479,53,28,$26.20 ,0,733.5999756,6,Perth Pasties,Meat/Poultry
 10480,47,30,$7.60 ,0,228,3,Zaanse koeken,Confections
 10480,59,12,$44.00 ,0,528,4,Raclette Courdavault,Dairy Products
@@ -621,84 +621,84 @@
 10481,60,40,$27.20 ,0,1088,4,Camembert Pierrot,Dairy Products
 10482,40,10,$14.70 ,0,147,8,Boston Crab Meat,Seafood
 10483,34,35,$11.20 ,0.050000001,372.3999939,1,Sasquatch Ale,Beverages
-10483,77,30,$10.40 ,0.050000001,296.3999939,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10483,77,30,$10.40 ,0.050000001,296.3999939,2,Original Frankfurter gr√ºne So√üe,Condiments
 10484,21,14,$8.00 ,0,112,3,Sir Rodney's Scones,Confections
 10484,51,3,$42.40 ,0,127.1999969,7,Manjimup Dried Apples,Produce
 10484,40,10,$14.70 ,0,147,8,Boston Crab Meat,Seafood
 10485,2,20,$15.20 ,0.100000001,273.6000061,1,Chang,Beverages
 10485,70,60,$12.00 ,0.100000001,648,1,Outback Lager,Beverages
 10485,3,20,$8.00 ,0.100000001,144,2,Aniseed Syrup,Condiments
-10485,55,30,$19.20 ,0.100000001,518.3999634,6,P‚tÈ chinois,Meat/Poultry
+10485,55,30,$19.20 ,0.100000001,518.3999634,6,P√¢t√© chinois,Meat/Poultry
 10486,11,5,$16.80 ,0,84,4,Queso Cabrales,Dairy Products
 10486,51,25,$42.40 ,0,1060,7,Manjimup Dried Apples,Produce
 10486,74,16,$8.00 ,0,128,7,Longlife Tofu,Produce
 10487,19,5,$7.30 ,0,36.5,3,Teatime Chocolate Biscuits,Confections
-10487,26,30,$24.90 ,0,747,3,Gumb‰r Gummib‰rchen,Confections
-10487,54,24,$5.90 ,0.25,106.2000046,6,TourtiËre,Meat/Poultry
+10487,26,30,$24.90 ,0,747,3,Gumb√§r Gummib√§rchen,Confections
+10487,54,24,$5.90 ,0.25,106.2000046,6,Tourti√®re,Meat/Poultry
 10488,59,30,$44.00 ,0,1320,4,Raclette Courdavault,Dairy Products
-10488,73,20,$12.00 ,0.200000003,192,8,Rˆd Kaviar,Seafood
+10488,73,20,$12.00 ,0.200000003,192,8,R√∂d Kaviar,Seafood
 10489,16,18,$13.90 ,0,250.1999969,3,Pavlova,Confections
 10489,11,15,$16.80 ,0.25,189,4,Queso Cabrales,Dairy Products
-10490,75,36,$6.20 ,0,223.1999969,1,Rhˆnbr‰u Klosterbier,Beverages
+10490,75,36,$6.20 ,0,223.1999969,1,Rh√∂nbr√§u Klosterbier,Beverages
 10490,68,30,$10.00 ,0,300,3,Scottish Longbreads,Confections
 10490,59,60,$44.00 ,0,2640,4,Raclette Courdavault,Dairy Products
 10491,44,15,$15.50 ,0.150000006,197.625,2,Gula Malacca,Condiments
-10491,77,7,$10.40 ,0.150000006,61.88000488,2,Original Frankfurter gr¸ne Soﬂe,Condiments
-10492,25,60,$11.20 ,0.050000001,638.3999634,3,NuNuCa Nuﬂ-Nougat-Creme,Confections
+10491,77,7,$10.40 ,0.150000006,61.88000488,2,Original Frankfurter gr√ºne So√üe,Condiments
+10492,25,60,$11.20 ,0.050000001,638.3999634,3,NuNuCa Nu√ü-Nougat-Creme,Confections
 10492,42,20,$11.20 ,0.050000001,212.8000031,5,Singaporean Hokkien Fried Mee,Grains/Cereals
 10493,65,15,$16.80 ,0.100000001,226.7999878,2,Louisiana Fiery Hot Pepper Sauce,Condiments
 10493,66,10,$13.60 ,0.100000001,122.3999939,2,Louisiana Hot Spiced Okra,Condiments
 10493,69,10,$28.80 ,0.100000001,259.1999817,4,Gudbrandsdalsost,Dairy Products
 10494,56,30,$30.40 ,0,912,5,Gnocchi di nonna Alice,Grains/Cereals
-10495,77,5,$10.40 ,0,52,2,Original Frankfurter gr¸ne Soﬂe,Condiments
-10495,23,10,$7.20 ,0,72,5,Tunnbrˆd,Grains/Cereals
+10495,77,5,$10.40 ,0,52,2,Original Frankfurter gr√ºne So√üe,Condiments
+10495,23,10,$7.20 ,0,72,5,Tunnbr√∂d,Grains/Cereals
 10495,41,20,$7.70 ,0,154,8,Jack's New England Clam Chowder,Seafood
 10496,31,20,$10.00 ,0.050000001,190,4,Gorgonzola Telino,Dairy Products
-10497,77,25,$10.40 ,0,260,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10497,77,25,$10.40 ,0,260,2,Original Frankfurter gr√ºne So√üe,Condiments
 10497,72,25,$27.80 ,0,695,4,Mozzarella di Giovanni,Dairy Products
 10497,56,14,$30.40 ,0,425.6000061,5,Gnocchi di nonna Alice,Grains/Cereals
-10498,24,14,$4.50 ,0,63,1,Guaran· Fant·stica,Beverages
+10498,24,14,$4.50 ,0,63,1,Guaran√° Fant√°stica,Beverages
 10498,42,30,$14.00 ,0,420,5,Singaporean Hokkien Fried Mee,Grains/Cereals
 10498,40,5,$18.40 ,0,92,8,Boston Crab Meat,Seafood
 10499,49,25,$20.00 ,0,500,3,Maxilaku,Confections
-10499,28,20,$45.60 ,0,912,7,Rˆssle Sauerkraut,Produce
+10499,28,20,$45.60 ,0,912,7,R√∂ssle Sauerkraut,Produce
 10500,15,12,$15.50 ,0.050000001,176.6999969,2,Genen Shouyu,Condiments
-10500,28,8,$45.60 ,0.050000001,346.5599976,7,Rˆssle Sauerkraut,Produce
-10501,54,20,$7.45 ,0,149,6,TourtiËre,Meat/Poultry
+10500,28,8,$45.60 ,0.050000001,346.5599976,7,R√∂ssle Sauerkraut,Produce
+10501,54,20,$7.45 ,0,149,6,Tourti√®re,Meat/Poultry
 10502,67,30,$14.00 ,0,420,1,Laughing Lumberjack Lager,Beverages
 10502,53,6,$32.80 ,0,196.8000031,6,Perth Pasties,Meat/Poultry
 10502,45,21,$9.50 ,0,199.5,8,Rogede sild,Seafood
 10503,65,20,$21.05 ,0,421,2,Louisiana Fiery Hot Pepper Sauce,Condiments
 10503,14,70,$23.25 ,0,1627.5,7,Tofu,Produce
 10504,2,12,$19.00 ,0,228,1,Chang,Beverages
-10504,61,25,$28.50 ,0,712.5,2,Sirop d'Èrable,Condiments
+10504,61,25,$28.50 ,0,712.5,2,Sirop d'√©rable,Condiments
 10504,21,12,$10.00 ,0,120,3,Sir Rodney's Scones,Confections
 10504,53,10,$32.80 ,0,328,6,Perth Pasties,Meat/Poultry
 10505,62,3,$49.30 ,0,147.8999939,3,Tarte au sucre,Confections
 10506,70,14,$15.00 ,0.100000001,189,1,Outback Lager,Beverages
-10506,25,18,$14.00 ,0.100000001,226.7999878,3,NuNuCa Nuﬂ-Nougat-Creme,Confections
+10506,25,18,$14.00 ,0.100000001,226.7999878,3,NuNuCa Nu√ü-Nougat-Creme,Confections
 10507,43,15,$46.00 ,0.150000006,586.5,1,Ipoh Coffee,Beverages
 10507,48,15,$12.75 ,0.150000006,162.5625,3,Chocolade,Confections
 10508,39,10,$18.00 ,0,180,1,Chartreuse verte,Beverages
 10508,13,10,$6.00 ,0,60,8,Konbu,Seafood
-10509,28,3,$45.60 ,0,136.8000031,7,Rˆssle Sauerkraut,Produce
-10510,75,36,$7.75 ,0.100000001,251.0999908,1,Rhˆnbr‰u Klosterbier,Beverages
-10510,29,36,$123.79 ,0,4456.439941,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10509,28,3,$45.60 ,0,136.8000031,7,R√∂ssle Sauerkraut,Produce
+10510,75,36,$7.75 ,0.100000001,251.0999908,1,Rh√∂nbr√§u Klosterbier,Beverages
+10510,29,36,$123.79 ,0,4456.439941,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10511,4,50,$22.00 ,0.150000006,935,2,Chef Anton's Cajun Seasoning,Condiments
 10511,8,10,$40.00 ,0.150000006,340,2,Northwoods Cranberry Sauce,Condiments
 10511,7,50,$30.00 ,0.150000006,1275,7,Uncle Bob's Organic Dried Pears,Produce
-10512,24,10,$4.50 ,0.150000006,38.25,1,Guaran· Fant·stica,Beverages
+10512,24,10,$4.50 ,0.150000006,38.25,1,Guaran√° Fant√°stica,Beverages
 10512,47,6,$9.50 ,0.150000006,48.45000076,3,Zaanse koeken,Confections
 10512,60,12,$34.00 ,0.150000006,346.8000183,4,Camembert Pierrot,Dairy Products
 10512,46,9,$12.00 ,0.150000006,91.80000305,8,Spegesild,Seafood
-10513,61,15,$28.50 ,0.200000003,342,2,Sirop d'Èrable,Condiments
+10513,61,15,$28.50 ,0.200000003,342,2,Sirop d'√©rable,Condiments
 10513,21,40,$10.00 ,0.200000003,320,3,Sir Rodney's Scones,Confections
 10513,32,50,$32.00 ,0.200000003,1280,4,Mascarpone Fabioli,Dairy Products
-10514,75,50,$7.75 ,0,387.5,1,Rhˆnbr‰u Klosterbier,Beverages
+10514,75,50,$7.75 ,0,387.5,1,Rh√∂nbr√§u Klosterbier,Beverages
 10514,65,39,$21.05 ,0,820.9500122,2,Louisiana Fiery Hot Pepper Sauce,Condiments
 10514,20,39,$81.00 ,0,3159,3,Sir Rodney's Marmalade,Confections
 10514,56,70,$38.00 ,0,2660,5,Gnocchi di nonna Alice,Grains/Cereals
-10514,28,35,$45.60 ,0,1596,7,Rˆssle Sauerkraut,Produce
+10514,28,35,$45.60 ,0,1596,7,R√∂ssle Sauerkraut,Produce
 10515,16,50,$17.45 ,0,872.5,3,Pavlova,Confections
 10515,27,120,$43.90 ,0,5268,3,Schoggi Schokolade,Confections
 10515,33,16,$2.50 ,0.150000006,34,4,Geitost,Dairy Products
@@ -710,13 +710,13 @@
 10517,70,6,$15.00 ,0,90,1,Outback Lager,Beverages
 10517,59,4,$55.00 ,0,220,4,Raclette Courdavault,Dairy Products
 10517,52,6,$7.00 ,0,42,5,Filo Mix,Grains/Cereals
-10518,24,5,$4.50 ,0,22.5,1,Guaran· Fant·stica,Beverages
-10518,38,15,$263.50 ,0,3952.5,1,CÙte de Blaye,Beverages
+10518,24,5,$4.50 ,0,22.5,1,Guaran√° Fant√°stica,Beverages
+10518,38,15,$263.50 ,0,3952.5,1,C√¥te de Blaye,Beverages
 10518,44,9,$19.45 ,0,175.0500031,2,Gula Malacca,Condiments
 10519,60,10,$34.00 ,0.050000001,323,4,Camembert Pierrot,Dairy Products
 10519,56,40,$38.00 ,0,1520,5,Gnocchi di nonna Alice,Grains/Cereals
 10519,10,16,$31.00 ,0.050000001,471.1999817,8,Ikura,Seafood
-10520,24,8,$4.50 ,0,36,1,Guaran· Fant·stica,Beverages
+10520,24,8,$4.50 ,0,36,1,Guaran√° Fant√°stica,Beverages
 10520,53,5,$32.80 ,0,164,6,Perth Pasties,Meat/Poultry
 10521,35,3,$18.00 ,0,54,1,Steeleye Stout,Beverages
 10521,68,6,$12.50 ,0,75,3,Scottish Longbreads,Confections
@@ -730,7 +730,7 @@
 10523,37,18,$26.00 ,0.100000001,421.1999817,8,Gravad lax,Seafood
 10523,41,6,$9.65 ,0.100000001,52.11000061,8,Jack's New England Clam Chowder,Seafood
 10524,43,60,$46.00 ,0,2760,1,Ipoh Coffee,Beverages
-10524,54,15,$7.45 ,0,111.75,6,TourtiËre,Meat/Poultry
+10524,54,15,$7.45 ,0,111.75,6,Tourti√®re,Meat/Poultry
 10524,10,2,$31.00 ,0,62,8,Ikura,Seafood
 10524,30,10,$25.89 ,0,258.8999939,8,Nord-Ost Matjeshering,Seafood
 10525,36,30,$19.00 ,0,570,8,Inlagd Sill,Seafood
@@ -745,18 +745,18 @@
 10528,72,9,$34.80 ,0,313.2000122,4,Mozzarella di Giovanni,Dairy Products
 10529,68,20,$12.50 ,0,250,3,Scottish Longbreads,Confections
 10529,69,10,$36.00 ,0,360,4,Gudbrandsdalsost,Dairy Products
-10529,55,14,$24.00 ,0,336,6,P‚tÈ chinois,Meat/Poultry
+10529,55,14,$24.00 ,0,336,6,P√¢t√© chinois,Meat/Poultry
 10530,43,25,$46.00 ,0,1150,1,Ipoh Coffee,Beverages
-10530,76,50,$18.00 ,0,900,1,Lakkalikˆˆri,Beverages
-10530,61,20,$28.50 ,0,570,2,Sirop d'Èrable,Condiments
+10530,76,50,$18.00 ,0,900,1,Lakkalik√∂√∂ri,Beverages
+10530,61,20,$28.50 ,0,570,2,Sirop d'√©rable,Condiments
 10530,17,40,$39.00 ,0,1560,6,Alice Mutton,Meat/Poultry
 10531,59,2,$55.00 ,0,110,4,Raclette Courdavault,Dairy Products
 10532,66,24,$17.00 ,0,408,2,Louisiana Hot Spiced Okra,Condiments
 10532,30,15,$25.89 ,0,388.3500061,8,Nord-Ost Matjeshering,Seafood
 10533,4,50,$22.00 ,0.050000001,1045,2,Chef Anton's Cajun Seasoning,Condiments
 10533,72,24,$34.80 ,0,835.2000122,4,Mozzarella di Giovanni,Dairy Products
-10533,73,24,$15.00 ,0.050000001,342,8,Rˆd Kaviar,Seafood
-10534,54,10,$7.45 ,0.200000003,59.60000229,6,TourtiËre,Meat/Poultry
+10533,73,24,$15.00 ,0.050000001,342,8,R√∂d Kaviar,Seafood
+10534,54,10,$7.45 ,0.200000003,59.60000229,6,Tourti√®re,Meat/Poultry
 10534,30,10,$25.89 ,0,258.8999939,8,Nord-Ost Matjeshering,Seafood
 10534,40,10,$18.40 ,0.200000003,147.1999969,8,Boston Crab Meat,Seafood
 10535,11,50,$21.00 ,0.100000001,945,4,Queso Cabrales,Dairy Products
@@ -771,27 +771,27 @@
 10537,72,21,$34.80 ,0,730.7999878,4,Mozzarella di Giovanni,Dairy Products
 10537,51,6,$53.00 ,0,318,7,Manjimup Dried Apples,Produce
 10537,58,20,$13.25 ,0,265,8,Escargots de Bourgogne,Seafood
-10537,73,9,$15.00 ,0,135,8,Rˆd Kaviar,Seafood
+10537,73,9,$15.00 ,0,135,8,R√∂d Kaviar,Seafood
 10538,70,7,$15.00 ,0,105,1,Outback Lager,Beverages
 10538,72,1,$34.80 ,0,34.79999924,4,Mozzarella di Giovanni,Dairy Products
 10539,21,15,$10.00 ,0,150,3,Sir Rodney's Scones,Confections
 10539,49,6,$20.00 ,0,120,3,Maxilaku,Confections
 10539,33,15,$2.50 ,0,37.5,4,Geitost,Dairy Products
 10539,13,8,$6.00 ,0,48,8,Konbu,Seafood
-10540,38,30,$263.50 ,0,7905,1,CÙte de Blaye,Beverages
+10540,38,30,$263.50 ,0,7905,1,C√¥te de Blaye,Beverages
 10540,3,60,$10.00 ,0,600,2,Aniseed Syrup,Condiments
-10540,26,40,$31.23 ,0,1249.199951,3,Gumb‰r Gummib‰rchen,Confections
+10540,26,40,$31.23 ,0,1249.199951,3,Gumb√§r Gummib√§rchen,Confections
 10540,68,35,$12.50 ,0,437.5,3,Scottish Longbreads,Confections
-10541,24,35,$4.50 ,0.100000001,141.75,1,Guaran· Fant·stica,Beverages
-10541,38,4,$263.50 ,0.100000001,948.5999756,1,CÙte de Blaye,Beverages
+10541,24,35,$4.50 ,0.100000001,141.75,1,Guaran√° Fant√°stica,Beverages
+10541,38,4,$263.50 ,0.100000001,948.5999756,1,C√¥te de Blaye,Beverages
 10541,65,36,$21.05 ,0.100000001,682.0199585,2,Louisiana Fiery Hot Pepper Sauce,Condiments
 10541,71,9,$21.50 ,0.100000001,174.1499939,4,Flotemysost,Dairy Products
 10542,11,15,$21.00 ,0.050000001,299.25,4,Queso Cabrales,Dairy Products
-10542,54,24,$7.45 ,0.050000001,169.8600006,6,TourtiËre,Meat/Poultry
+10542,54,24,$7.45 ,0.050000001,169.8600006,6,Tourti√®re,Meat/Poultry
 10543,12,30,$38.00 ,0.150000006,969,4,Queso Manchego La Pastora,Dairy Products
-10543,23,70,$9.00 ,0.150000006,535.5,5,Tunnbrˆd,Grains/Cereals
+10543,23,70,$9.00 ,0.150000006,535.5,5,Tunnbr√∂d,Grains/Cereals
 10544,67,7,$14.00 ,0,98,1,Laughing Lumberjack Lager,Beverages
-10544,28,7,$45.60 ,0,319.2000122,7,Rˆssle Sauerkraut,Produce
+10544,28,7,$45.60 ,0,319.2000122,7,R√∂ssle Sauerkraut,Produce
 10545,11,10,$21.00 ,0,210,4,Queso Cabrales,Dairy Products
 10546,35,30,$18.00 ,0,540,1,Steeleye Stout,Beverages
 10546,62,40,$49.30 ,0,1972,3,Tarte au sucre,Confections
@@ -803,38 +803,38 @@
 10549,31,55,$12.50 ,0.150000006,584.375,4,Gorgonzola Telino,Dairy Products
 10549,51,48,$53.00 ,0.150000006,2162.400146,7,Manjimup Dried Apples,Produce
 10549,45,100,$9.50 ,0.150000006,807.5,8,Rogede sild,Seafood
-10550,61,10,$28.50 ,0.100000001,256.5,2,Sirop d'Èrable,Condiments
+10550,61,10,$28.50 ,0.100000001,256.5,2,Sirop d'√©rable,Condiments
 10550,19,10,$9.20 ,0,92,3,Teatime Chocolate Biscuits,Confections
 10550,21,6,$10.00 ,0.100000001,54,3,Sir Rodney's Scones,Confections
 10550,17,8,$39.00 ,0.100000001,280.7999878,6,Alice Mutton,Meat/Poultry
 10551,35,20,$18.00 ,0.150000006,306,1,Steeleye Stout,Beverages
 10551,44,40,$19.45 ,0,778,2,Gula Malacca,Condiments
 10551,16,40,$17.45 ,0.150000006,593.2999878,3,Pavlova,Confections
-10552,75,30,$7.75 ,0,232.5,1,Rhˆnbr‰u Klosterbier,Beverages
+10552,75,30,$7.75 ,0,232.5,1,Rh√∂nbr√§u Klosterbier,Beverages
 10552,69,18,$36.00 ,0,648,4,Gudbrandsdalsost,Dairy Products
 10553,35,6,$18.00 ,0,108,1,Steeleye Stout,Beverages
 10553,16,14,$17.45 ,0,244.3000031,3,Pavlova,Confections
 10553,11,15,$21.00 ,0,315,4,Queso Cabrales,Dairy Products
 10553,31,30,$12.50 ,0,375,4,Gorgonzola Telino,Dairy Products
-10553,22,24,$21.00 ,0,504,5,Gustaf's Kn‰ckebrˆd,Grains/Cereals
-10554,77,10,$13.00 ,0.050000001,123.5,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10553,22,24,$21.00 ,0,504,5,Gustaf's Kn√§ckebr√∂d,Grains/Cereals
+10554,77,10,$13.00 ,0.050000001,123.5,2,Original Frankfurter gr√ºne So√üe,Condiments
 10554,16,30,$17.45 ,0.050000001,497.3249817,3,Pavlova,Confections
 10554,62,20,$49.30 ,0.050000001,936.7000122,3,Tarte au sucre,Confections
-10554,23,20,$9.00 ,0.050000001,171,5,Tunnbrˆd,Grains/Cereals
-10555,24,18,$4.50 ,0.200000003,64.80000305,1,Guaran· Fant·stica,Beverages
+10554,23,20,$9.00 ,0.050000001,171,5,Tunnbr√∂d,Grains/Cereals
+10555,24,18,$4.50 ,0.200000003,64.80000305,1,Guaran√° Fant√°stica,Beverages
 10555,19,35,$9.20 ,0.200000003,257.6000061,3,Teatime Chocolate Biscuits,Confections
 10555,56,40,$38.00 ,0.200000003,1216,5,Gnocchi di nonna Alice,Grains/Cereals
 10555,14,30,$23.25 ,0.200000003,558,7,Tofu,Produce
 10555,51,20,$53.00 ,0.200000003,848,7,Manjimup Dried Apples,Produce
 10556,72,24,$34.80 ,0,835.2000122,4,Mozzarella di Giovanni,Dairy Products
-10557,75,20,$7.75 ,0,155,1,Rhˆnbr‰u Klosterbier,Beverages
-10557,64,30,$33.25 ,0,997.5,5,Wimmers gute Semmelknˆdel,Grains/Cereals
+10557,75,20,$7.75 ,0,155,1,Rh√∂nbr√§u Klosterbier,Beverages
+10557,64,30,$33.25 ,0,997.5,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
 10558,47,25,$9.50 ,0,237.5,3,Zaanse koeken,Confections
 10558,52,30,$7.00 ,0,210,5,Filo Mix,Grains/Cereals
 10558,53,18,$32.80 ,0,590.4000244,6,Perth Pasties,Meat/Poultry
 10558,51,20,$53.00 ,0,1060,7,Manjimup Dried Apples,Produce
-10558,73,3,$15.00 ,0,45,8,Rˆd Kaviar,Seafood
-10559,55,18,$24.00 ,0.050000001,410.3999939,6,P‚tÈ chinois,Meat/Poultry
+10558,73,3,$15.00 ,0,45,8,R√∂d Kaviar,Seafood
+10559,55,18,$24.00 ,0.050000001,410.3999939,6,P√¢t√© chinois,Meat/Poultry
 10559,41,12,$9.65 ,0.050000001,110.0100021,8,Jack's New England Clam Chowder,Seafood
 10560,62,15,$49.30 ,0.25,554.625,3,Tarte au sucre,Confections
 10560,30,20,$25.89 ,0,517.7999878,8,Nord-Ost Matjeshering,Seafood
@@ -846,23 +846,23 @@
 10563,36,25,$19.00 ,0,475,8,Inlagd Sill,Seafood
 10564,31,6,$12.50 ,0.050000001,71.25,4,Gorgonzola Telino,Dairy Products
 10564,17,16,$39.00 ,0.050000001,592.7999878,6,Alice Mutton,Meat/Poultry
-10564,55,25,$24.00 ,0.050000001,570,6,P‚tÈ chinois,Meat/Poultry
-10565,24,25,$4.50 ,0.100000001,101.25,1,Guaran· Fant·stica,Beverages
-10565,64,18,$33.25 ,0.100000001,538.6499634,5,Wimmers gute Semmelknˆdel,Grains/Cereals
-10566,76,10,$18.00 ,0,180,1,Lakkalikˆˆri,Beverages
+10564,55,25,$24.00 ,0.050000001,570,6,P√¢t√© chinois,Meat/Poultry
+10565,24,25,$4.50 ,0.100000001,101.25,1,Guaran√° Fant√°stica,Beverages
+10565,64,18,$33.25 ,0.100000001,538.6499634,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
+10566,76,10,$18.00 ,0,180,1,Lakkalik√∂√∂ri,Beverages
 10566,11,35,$21.00 ,0.150000006,624.75,4,Queso Cabrales,Dairy Products
 10566,18,18,$62.50 ,0.150000006,956.25,8,Carnarvon Tigers,Seafood
 10567,31,60,$12.50 ,0.200000003,600,4,Gorgonzola Telino,Dairy Products
 10567,59,40,$55.00 ,0.200000003,1760,4,Raclette Courdavault,Dairy Products
 10567,51,3,$53.00 ,0,159,7,Manjimup Dried Apples,Produce
 10568,10,5,$31.00 ,0,155,8,Ikura,Seafood
-10569,76,30,$18.00 ,0,540,1,Lakkalikˆˆri,Beverages
+10569,76,30,$18.00 ,0,540,1,Lakkalik√∂√∂ri,Beverages
 10569,31,35,$12.50 ,0.200000003,350,4,Gorgonzola Telino,Dairy Products
 10570,11,15,$21.00 ,0.050000001,299.25,4,Queso Cabrales,Dairy Products
 10570,56,60,$38.00 ,0.050000001,2166,5,Gnocchi di nonna Alice,Grains/Cereals
 10571,42,28,$14.00 ,0.150000006,333.2000122,5,Singaporean Hokkien Fried Mee,Grains/Cereals
 10571,14,11,$23.25 ,0.150000006,217.3875122,7,Tofu,Produce
-10572,75,15,$7.75 ,0.100000001,104.625,1,Rhˆnbr‰u Klosterbier,Beverages
+10572,75,15,$7.75 ,0.100000001,104.625,1,Rh√∂nbr√§u Klosterbier,Beverages
 10572,16,12,$17.45 ,0.100000001,188.4599915,3,Pavlova,Confections
 10572,32,10,$32.00 ,0.100000001,288,4,Mascarpone Fabioli,Dairy Products
 10572,40,50,$18.40 ,0,920,8,Boston Crab Meat,Seafood
@@ -871,9 +871,9 @@
 10573,53,25,$32.80 ,0,820,6,Perth Pasties,Meat/Poultry
 10574,62,10,$49.30 ,0,493,3,Tarte au sucre,Confections
 10574,33,14,$2.50 ,0,35,4,Geitost,Dairy Products
-10574,64,6,$33.25 ,0,199.5,5,Wimmers gute Semmelknˆdel,Grains/Cereals
+10574,64,6,$33.25 ,0,199.5,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
 10574,40,2,$18.40 ,0,36.79999924,8,Boston Crab Meat,Seafood
-10575,76,10,$18.00 ,0,180,1,Lakkalikˆˆri,Beverages
+10575,76,10,$18.00 ,0,180,1,Lakkalik√∂√∂ri,Beverages
 10575,63,6,$43.90 ,0,263.3999939,2,Vegie-spread,Condiments
 10575,59,12,$55.00 ,0,660,4,Raclette Courdavault,Dairy Products
 10575,72,30,$34.80 ,0,1044,4,Mozzarella di Giovanni,Dairy Products
@@ -881,62 +881,62 @@
 10576,44,21,$19.45 ,0,408.4500122,2,Gula Malacca,Condiments
 10576,31,20,$12.50 ,0,250,4,Gorgonzola Telino,Dairy Products
 10577,39,10,$18.00 ,0,180,1,Chartreuse verte,Beverages
-10577,75,20,$7.75 ,0,155,1,Rhˆnbr‰u Klosterbier,Beverages
-10577,77,18,$13.00 ,0,234,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10577,75,20,$7.75 ,0,155,1,Rh√∂nbr√§u Klosterbier,Beverages
+10577,77,18,$13.00 ,0,234,2,Original Frankfurter gr√ºne So√üe,Condiments
 10578,35,20,$18.00 ,0,360,1,Steeleye Stout,Beverages
 10578,57,6,$19.50 ,0,117,5,Ravioli Angelo,Grains/Cereals
-10579,75,21,$7.75 ,0,162.75,1,Rhˆnbr‰u Klosterbier,Beverages
+10579,75,21,$7.75 ,0,162.75,1,Rh√∂nbr√§u Klosterbier,Beverages
 10579,15,10,$15.50 ,0,155,2,Genen Shouyu,Condiments
 10580,65,30,$21.05 ,0.050000001,599.9249878,2,Louisiana Fiery Hot Pepper Sauce,Condiments
 10580,14,15,$23.25 ,0.050000001,331.3125,7,Tofu,Produce
 10580,41,9,$9.65 ,0.050000001,82.50749969,8,Jack's New England Clam Chowder,Seafood
-10581,75,50,$7.75 ,0.200000003,310,1,Rhˆnbr‰u Klosterbier,Beverages
-10582,76,14,$18.00 ,0,252,1,Lakkalikˆˆri,Beverages
+10581,75,50,$7.75 ,0.200000003,310,1,Rh√∂nbr√§u Klosterbier,Beverages
+10582,76,14,$18.00 ,0,252,1,Lakkalik√∂√∂ri,Beverages
 10582,57,4,$19.50 ,0,78,5,Ravioli Angelo,Grains/Cereals
 10583,60,24,$34.00 ,0.150000006,693.6000366,4,Camembert Pierrot,Dairy Products
 10583,69,10,$36.00 ,0.150000006,306,4,Gudbrandsdalsost,Dairy Products
-10583,29,10,$123.79 ,0,1237.900024,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10583,29,10,$123.79 ,0,1237.900024,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10584,31,50,$12.50 ,0.050000001,593.75,4,Gorgonzola Telino,Dairy Products
 10585,47,15,$9.50 ,0,142.5,3,Zaanse koeken,Confections
 10586,52,4,$7.00 ,0.150000006,23.80000114,5,Filo Mix,Grains/Cereals
 10587,35,20,$18.00 ,0,360,1,Steeleye Stout,Beverages
-10587,77,20,$13.00 ,0,260,2,Original Frankfurter gr¸ne Soﬂe,Condiments
-10587,26,6,$31.23 ,0,187.3800049,3,Gumb‰r Gummib‰rchen,Confections
+10587,77,20,$13.00 ,0,260,2,Original Frankfurter gr√ºne So√üe,Condiments
+10587,26,6,$31.23 ,0,187.3800049,3,Gumb√§r Gummib√§rchen,Confections
 10588,42,100,$14.00 ,0.200000003,1120,5,Singaporean Hokkien Fried Mee,Grains/Cereals
 10588,18,40,$62.50 ,0.200000003,2000,8,Carnarvon Tigers,Seafood
 10589,35,4,$18.00 ,0,72,1,Steeleye Stout,Beverages
 10590,1,20,$18.00 ,0,360,1,Chai,Beverages
-10590,77,60,$13.00 ,0.050000001,741,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10590,77,60,$13.00 ,0.050000001,741,2,Original Frankfurter gr√ºne So√üe,Condiments
 10591,3,14,$10.00 ,0,140,2,Aniseed Syrup,Condiments
-10591,54,50,$7.45 ,0,372.5,6,TourtiËre,Meat/Poultry
+10591,54,50,$7.45 ,0,372.5,6,Tourti√®re,Meat/Poultry
 10591,7,10,$30.00 ,0,300,7,Uncle Bob's Organic Dried Pears,Produce
 10592,15,25,$15.50 ,0.050000001,368.125,2,Genen Shouyu,Condiments
-10592,26,5,$31.23 ,0.050000001,148.3424988,3,Gumb‰r Gummib‰rchen,Confections
-10593,76,4,$18.00 ,0.200000003,57.60000229,1,Lakkalikˆˆri,Beverages
+10592,26,5,$31.23 ,0.050000001,148.3424988,3,Gumb√§r Gummib√§rchen,Confections
+10593,76,4,$18.00 ,0.200000003,57.60000229,1,Lakkalik√∂√∂ri,Beverages
 10593,20,21,$81.00 ,0.200000003,1360.800049,3,Sir Rodney's Marmalade,Confections
 10593,69,20,$36.00 ,0.200000003,576,4,Gudbrandsdalsost,Dairy Products
 10594,52,24,$7.00 ,0,168,5,Filo Mix,Grains/Cereals
 10594,58,30,$13.25 ,0,397.5,8,Escargots de Bourgogne,Seafood
 10595,35,30,$18.00 ,0.25,405,1,Steeleye Stout,Beverages
-10595,61,120,$28.50 ,0.25,2565,2,Sirop d'Èrable,Condiments
+10595,61,120,$28.50 ,0.25,2565,2,Sirop d'√©rable,Condiments
 10595,69,65,$36.00 ,0.25,1755,4,Gudbrandsdalsost,Dairy Products
-10596,75,30,$7.75 ,0.200000003,186,1,Rhˆnbr‰u Klosterbier,Beverages
+10596,75,30,$7.75 ,0.200000003,186,1,Rh√∂nbr√§u Klosterbier,Beverages
 10596,63,24,$43.90 ,0.200000003,842.8800049,2,Vegie-spread,Condiments
 10596,56,5,$38.00 ,0.200000003,152,5,Gnocchi di nonna Alice,Grains/Cereals
-10597,24,35,$4.50 ,0.200000003,126,1,Guaran· Fant·stica,Beverages
+10597,24,35,$4.50 ,0.200000003,126,1,Guaran√° Fant√°stica,Beverages
 10597,65,12,$21.05 ,0.200000003,202.0800018,2,Louisiana Fiery Hot Pepper Sauce,Condiments
 10597,57,20,$19.50 ,0,390,5,Ravioli Angelo,Grains/Cereals
 10598,27,50,$43.90 ,0,2195,3,Schoggi Schokolade,Confections
 10598,71,9,$21.50 ,0,193.5,4,Flotemysost,Dairy Products
 10599,62,10,$49.30 ,0,493,3,Tarte au sucre,Confections
-10600,54,4,$7.45 ,0,29.79999924,6,TourtiËre,Meat/Poultry
-10600,73,30,$15.00 ,0,450,8,Rˆd Kaviar,Seafood
+10600,54,4,$7.45 ,0,29.79999924,6,Tourti√®re,Meat/Poultry
+10600,73,30,$15.00 ,0,450,8,R√∂d Kaviar,Seafood
 10601,59,35,$55.00 ,0,1925,4,Raclette Courdavault,Dairy Products
 10601,13,60,$6.00 ,0,360,8,Konbu,Seafood
-10602,77,5,$13.00 ,0.25,48.75,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10602,77,5,$13.00 ,0.25,48.75,2,Original Frankfurter gr√ºne So√üe,Condiments
 10603,49,25,$20.00 ,0.050000001,475,3,Maxilaku,Confections
-10603,22,48,$21.00 ,0,1008,5,Gustaf's Kn‰ckebrˆd,Grains/Cereals
-10604,76,10,$18.00 ,0.100000001,162,1,Lakkalikˆˆri,Beverages
+10603,22,48,$21.00 ,0,1008,5,Gustaf's Kn√§ckebr√∂d,Grains/Cereals
+10604,76,10,$18.00 ,0.100000001,162,1,Lakkalik√∂√∂ri,Beverages
 10604,48,6,$12.75 ,0.100000001,68.84999847,3,Chocolade,Confections
 10605,16,30,$17.45 ,0.050000001,497.3249817,3,Pavlova,Confections
 10605,59,20,$55.00 ,0.050000001,1045,4,Raclette Courdavault,Dairy Products
@@ -944,7 +944,7 @@
 10605,71,15,$21.50 ,0.050000001,306.375,4,Flotemysost,Dairy Products
 10606,4,20,$22.00 ,0.200000003,352,2,Chef Anton's Cajun Seasoning,Condiments
 10606,62,10,$49.30 ,0.200000003,394.3999939,3,Tarte au sucre,Confections
-10606,55,20,$24.00 ,0.200000003,384,6,P‚tÈ chinois,Meat/Poultry
+10606,55,20,$24.00 ,0.200000003,384,6,P√¢t√© chinois,Meat/Poultry
 10607,33,14,$2.50 ,0,35,4,Geitost,Dairy Products
 10607,72,12,$34.80 ,0,417.6000061,4,Mozzarella di Giovanni,Dairy Products
 10607,17,100,$39.00 ,0,3900,6,Alice Mutton,Meat/Poultry
@@ -958,18 +958,18 @@
 10611,1,6,$18.00 ,0,108,1,Chai,Beverages
 10611,2,10,$19.00 ,0,190,1,Chang,Beverages
 10611,60,15,$34.00 ,0,510,4,Camembert Pierrot,Dairy Products
-10612,76,80,$18.00 ,0,1440,1,Lakkalikˆˆri,Beverages
+10612,76,80,$18.00 ,0,1440,1,Lakkalik√∂√∂ri,Beverages
 10612,49,18,$20.00 ,0,360,3,Maxilaku,Confections
 10612,60,40,$34.00 ,0,1360,4,Camembert Pierrot,Dairy Products
 10612,10,70,$31.00 ,0,2170,8,Ikura,Seafood
 10612,36,55,$19.00 ,0,1045,8,Inlagd Sill,Seafood
-10613,75,40,$7.75 ,0,310,1,Rhˆnbr‰u Klosterbier,Beverages
+10613,75,40,$7.75 ,0,310,1,Rh√∂nbr√§u Klosterbier,Beverages
 10613,13,8,$6.00 ,0.100000001,43.19999695,8,Konbu,Seafood
 10614,39,5,$18.00 ,0,90,1,Chartreuse verte,Beverages
 10614,21,8,$10.00 ,0,80,3,Sir Rodney's Scones,Confections
 10614,11,14,$21.00 ,0,294,4,Queso Cabrales,Dairy Products
-10615,55,5,$24.00 ,0,120,6,P‚tÈ chinois,Meat/Poultry
-10616,38,15,$263.50 ,0.050000001,3754.875,1,CÙte de Blaye,Beverages
+10615,55,5,$24.00 ,0,120,6,P√¢t√© chinois,Meat/Poultry
+10616,38,15,$263.50 ,0.050000001,3754.875,1,C√¥te de Blaye,Beverages
 10616,70,15,$15.00 ,0.050000001,213.75,1,Outback Lager,Beverages
 10616,71,15,$21.50 ,0.050000001,306.375,4,Flotemysost,Dairy Products
 10616,56,14,$38.00 ,0,532,5,Gnocchi di nonna Alice,Grains/Cereals
@@ -978,23 +978,23 @@
 10618,68,15,$12.50 ,0,187.5,3,Scottish Longbreads,Confections
 10618,56,20,$38.00 ,0,760,5,Gnocchi di nonna Alice,Grains/Cereals
 10619,21,42,$10.00 ,0,420,3,Sir Rodney's Scones,Confections
-10619,22,40,$21.00 ,0,840,5,Gustaf's Kn‰ckebrˆd,Grains/Cereals
-10620,24,5,$4.50 ,0,22.5,1,Guaran· Fant·stica,Beverages
+10619,22,40,$21.00 ,0,840,5,Gustaf's Kn√§ckebr√∂d,Grains/Cereals
+10620,24,5,$4.50 ,0,22.5,1,Guaran√° Fant√°stica,Beverages
 10620,52,5,$7.00 ,0,35,5,Filo Mix,Grains/Cereals
 10621,70,20,$15.00 ,0,300,1,Outback Lager,Beverages
 10621,19,5,$9.20 ,0,46,3,Teatime Chocolate Biscuits,Confections
 10621,71,15,$21.50 ,0,322.5,4,Flotemysost,Dairy Products
-10621,23,10,$9.00 ,0,90,5,Tunnbrˆd,Grains/Cereals
+10621,23,10,$9.00 ,0,90,5,Tunnbr√∂d,Grains/Cereals
 10622,2,20,$19.00 ,0,380,1,Chang,Beverages
 10622,68,18,$12.50 ,0.200000003,180,3,Scottish Longbreads,Confections
-10623,24,3,$4.50 ,0,13.5,1,Guaran· Fant·stica,Beverages
+10623,24,3,$4.50 ,0,13.5,1,Guaran√° Fant√°stica,Beverages
 10623,35,30,$18.00 ,0.100000001,486,1,Steeleye Stout,Beverages
 10623,19,15,$9.20 ,0.100000001,124.1999969,3,Teatime Chocolate Biscuits,Confections
 10623,21,25,$10.00 ,0.100000001,225,3,Sir Rodney's Scones,Confections
 10623,14,21,$23.25 ,0,488.25,7,Tofu,Produce
 10624,44,10,$19.45 ,0,194.5,2,Gula Malacca,Condiments
-10624,29,6,$123.79 ,0,742.7399902,6,Th¸ringer Rostbratwurst,Meat/Poultry
-10624,28,10,$45.60 ,0,456,7,Rˆssle Sauerkraut,Produce
+10624,29,6,$123.79 ,0,742.7399902,6,Th√ºringer Rostbratwurst,Meat/Poultry
+10624,28,10,$45.60 ,0,456,7,R√∂ssle Sauerkraut,Produce
 10625,60,10,$34.00 ,0,340,4,Camembert Pierrot,Dairy Products
 10625,42,5,$14.00 ,0,70,5,Singaporean Hokkien Fried Mee,Grains/Cereals
 10625,14,3,$23.25 ,0,69.75,7,Tofu,Produce
@@ -1002,26 +1002,26 @@
 10626,71,20,$21.50 ,0,430,4,Flotemysost,Dairy Products
 10626,53,12,$32.80 ,0,393.6000061,6,Perth Pasties,Meat/Poultry
 10627,62,15,$49.30 ,0,739.5,3,Tarte au sucre,Confections
-10627,73,35,$15.00 ,0.150000006,446.25,8,Rˆd Kaviar,Seafood
+10627,73,35,$15.00 ,0.150000006,446.25,8,R√∂d Kaviar,Seafood
 10628,1,25,$18.00 ,0,450,1,Chai,Beverages
-10629,64,9,$33.25 ,0,299.25,5,Wimmers gute Semmelknˆdel,Grains/Cereals
-10629,29,20,$123.79 ,0,2475.800049,6,Th¸ringer Rostbratwurst,Meat/Poultry
-10630,76,35,$18.00 ,0,630,1,Lakkalikˆˆri,Beverages
-10630,55,12,$24.00 ,0.050000001,273.6000061,6,P‚tÈ chinois,Meat/Poultry
-10631,75,8,$7.75 ,0.100000001,55.79999924,1,Rhˆnbr‰u Klosterbier,Beverages
+10629,64,9,$33.25 ,0,299.25,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
+10629,29,20,$123.79 ,0,2475.800049,6,Th√ºringer Rostbratwurst,Meat/Poultry
+10630,76,35,$18.00 ,0,630,1,Lakkalik√∂√∂ri,Beverages
+10630,55,12,$24.00 ,0.050000001,273.6000061,6,P√¢t√© chinois,Meat/Poultry
+10631,75,8,$7.75 ,0.100000001,55.79999924,1,Rh√∂nbr√§u Klosterbier,Beverages
 10632,2,30,$19.00 ,0.050000001,541.5,1,Chang,Beverages
 10632,33,20,$2.50 ,0.050000001,47.5,4,Geitost,Dairy Products
-10633,26,35,$31.23 ,0.150000006,929.0925903,3,Gumb‰r Gummib‰rchen,Confections
+10633,26,35,$31.23 ,0.150000006,929.0925903,3,Gumb√§r Gummib√§rchen,Confections
 10633,62,80,$49.30 ,0.150000006,3352.400146,3,Tarte au sucre,Confections
 10633,12,36,$38.00 ,0.150000006,1162.800049,4,Queso Manchego La Pastora,Dairy Products
 10633,13,13,$6.00 ,0.150000006,66.30000305,8,Konbu,Seafood
-10634,75,2,$7.75 ,0,15.5,1,Rhˆnbr‰u Klosterbier,Beverages
+10634,75,2,$7.75 ,0,15.5,1,Rh√∂nbr√§u Klosterbier,Beverages
 10634,7,35,$30.00 ,0,1050,7,Uncle Bob's Organic Dried Pears,Produce
 10634,51,15,$53.00 ,0,795,7,Manjimup Dried Apples,Produce
 10634,18,50,$62.50 ,0,3125,8,Carnarvon Tigers,Seafood
 10635,4,10,$22.00 ,0.100000001,198,2,Chef Anton's Cajun Seasoning,Condiments
 10635,5,15,$21.35 ,0.100000001,288.2250061,2,Chef Anton's Gumbo Mix,Condiments
-10635,22,40,$21.00 ,0,840,5,Gustaf's Kn‰ckebrˆd,Grains/Cereals
+10635,22,40,$21.00 ,0,840,5,Gustaf's Kn√§ckebr√∂d,Grains/Cereals
 10636,4,25,$22.00 ,0,550,2,Chef Anton's Cajun Seasoning,Condiments
 10636,58,6,$13.25 ,0,79.5,8,Escargots de Bourgogne,Seafood
 10637,50,25,$16.25 ,0.050000001,385.9375,3,Valkoinen suklaa,Confections
@@ -1035,10 +1035,10 @@
 10640,69,20,$36.00 ,0.25,540,4,Gudbrandsdalsost,Dairy Products
 10641,2,50,$19.00 ,0,950,1,Chang,Beverages
 10641,40,60,$18.40 ,0,1104,8,Boston Crab Meat,Seafood
-10642,61,20,$28.50 ,0.200000003,456,2,Sirop d'Èrable,Condiments
+10642,61,20,$28.50 ,0.200000003,456,2,Sirop d'√©rable,Condiments
 10642,21,30,$10.00 ,0.200000003,240,3,Sir Rodney's Scones,Confections
 10643,39,21,$18.00 ,0.25,283.5,1,Chartreuse verte,Beverages
-10643,28,15,$45.60 ,0.25,513,7,Rˆssle Sauerkraut,Produce
+10643,28,15,$45.60 ,0.25,513,7,R√∂ssle Sauerkraut,Produce
 10643,46,2,$12.00 ,0.25,18,8,Spegesild,Seafood
 10644,43,20,$46.00 ,0,920,1,Ipoh Coffee,Beverages
 10644,18,4,$62.50 ,0.100000001,225,8,Carnarvon Tigers,Seafood
@@ -1046,27 +1046,27 @@
 10645,18,20,$62.50 ,0,1250,8,Carnarvon Tigers,Seafood
 10645,36,15,$19.00 ,0,285,8,Inlagd Sill,Seafood
 10646,1,15,$18.00 ,0.25,202.5,1,Chai,Beverages
-10646,77,35,$13.00 ,0.25,341.25,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10646,77,35,$13.00 ,0.25,341.25,2,Original Frankfurter gr√ºne So√üe,Condiments
 10646,71,30,$21.50 ,0.25,483.75,4,Flotemysost,Dairy Products
 10646,10,18,$31.00 ,0.25,418.5,8,Ikura,Seafood
 10647,39,20,$18.00 ,0,360,1,Chartreuse verte,Beverages
 10647,19,30,$9.20 ,0,276,3,Teatime Chocolate Biscuits,Confections
-10648,24,15,$4.50 ,0.150000006,57.375,1,Guaran· Fant·stica,Beverages
-10648,22,15,$21.00 ,0,315,5,Gustaf's Kn‰ckebrˆd,Grains/Cereals
+10648,24,15,$4.50 ,0.150000006,57.375,1,Guaran√° Fant√°stica,Beverages
+10648,22,15,$21.00 ,0,315,5,Gustaf's Kn√§ckebr√∂d,Grains/Cereals
 10649,72,15,$34.80 ,0,522,4,Mozzarella di Giovanni,Dairy Products
-10649,28,20,$45.60 ,0,912,7,Rˆssle Sauerkraut,Produce
+10649,28,20,$45.60 ,0,912,7,R√∂ssle Sauerkraut,Produce
 10650,53,25,$32.80 ,0.050000001,779,6,Perth Pasties,Meat/Poultry
-10650,54,30,$7.45 ,0,223.5,6,TourtiËre,Meat/Poultry
+10650,54,30,$7.45 ,0,223.5,6,Tourti√®re,Meat/Poultry
 10650,30,30,$25.89 ,0,776.7000122,8,Nord-Ost Matjeshering,Seafood
 10651,19,12,$9.20 ,0.25,82.80000305,3,Teatime Chocolate Biscuits,Confections
-10651,22,20,$21.00 ,0.25,315,5,Gustaf's Kn‰ckebrˆd,Grains/Cereals
+10651,22,20,$21.00 ,0.25,315,5,Gustaf's Kn√§ckebr√∂d,Grains/Cereals
 10652,42,20,$14.00 ,0,280,5,Singaporean Hokkien Fried Mee,Grains/Cereals
 10652,30,2,$25.89 ,0.25,38.83499908,8,Nord-Ost Matjeshering,Seafood
 10653,16,30,$17.45 ,0.100000001,471.1499939,3,Pavlova,Confections
 10653,60,20,$34.00 ,0.100000001,612,4,Camembert Pierrot,Dairy Products
 10654,39,20,$18.00 ,0.100000001,324,1,Chartreuse verte,Beverages
 10654,4,12,$22.00 ,0.100000001,237.5999908,2,Chef Anton's Cajun Seasoning,Condiments
-10654,54,6,$7.45 ,0.100000001,40.22999954,6,TourtiËre,Meat/Poultry
+10654,54,6,$7.45 ,0.100000001,40.22999954,6,Tourti√®re,Meat/Poultry
 10655,41,20,$9.65 ,0.200000003,154.4000092,8,Jack's New England Clam Chowder,Seafood
 10656,44,28,$19.45 ,0.100000001,490.1399536,2,Gula Malacca,Condiments
 10656,47,6,$9.50 ,0.100000001,51.29999924,3,Zaanse koeken,Confections
@@ -1077,7 +1077,7 @@
 10657,56,45,$38.00 ,0,1710,5,Gnocchi di nonna Alice,Grains/Cereals
 10657,41,24,$9.65 ,0,231.6000061,8,Jack's New England Clam Chowder,Seafood
 10657,46,45,$12.00 ,0,540,8,Spegesild,Seafood
-10658,77,70,$13.00 ,0.050000001,864.5,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10658,77,70,$13.00 ,0.050000001,864.5,2,Original Frankfurter gr√ºne So√üe,Condiments
 10658,21,60,$10.00 ,0,600,3,Sir Rodney's Scones,Confections
 10658,60,55,$34.00 ,0.050000001,1776.5,4,Camembert Pierrot,Dairy Products
 10658,40,70,$18.40 ,0.050000001,1223.599976,8,Boston Crab Meat,Seafood
@@ -1094,42 +1094,42 @@
 10664,65,15,$21.05 ,0.150000006,268.3875122,2,Louisiana Fiery Hot Pepper Sauce,Condiments
 10664,56,12,$38.00 ,0.150000006,387.6000061,5,Gnocchi di nonna Alice,Grains/Cereals
 10664,10,24,$31.00 ,0.150000006,632.4000244,8,Ikura,Seafood
-10665,76,10,$18.00 ,0,180,1,Lakkalikˆˆri,Beverages
+10665,76,10,$18.00 ,0,180,1,Lakkalik√∂√∂ri,Beverages
 10665,59,1,$55.00 ,0,55,4,Raclette Courdavault,Dairy Products
 10665,51,20,$53.00 ,0,1060,7,Manjimup Dried Apples,Produce
 10666,65,10,$21.05 ,0,210.5,2,Louisiana Fiery Hot Pepper Sauce,Condiments
-10666,29,36,$123.79 ,0,4456.439941,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10666,29,36,$123.79 ,0,4456.439941,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10667,69,45,$36.00 ,0.200000003,1296,4,Gudbrandsdalsost,Dairy Products
 10667,71,14,$21.50 ,0.200000003,240.8000031,4,Flotemysost,Dairy Products
 10668,31,8,$12.50 ,0.100000001,90,4,Gorgonzola Telino,Dairy Products
-10668,64,15,$33.25 ,0.100000001,448.875,5,Wimmers gute Semmelknˆdel,Grains/Cereals
-10668,55,4,$24.00 ,0.100000001,86.3999939,6,P‚tÈ chinois,Meat/Poultry
+10668,64,15,$33.25 ,0.100000001,448.875,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
+10668,55,4,$24.00 ,0.100000001,86.3999939,6,P√¢t√© chinois,Meat/Poultry
 10669,36,30,$19.00 ,0,570,8,Inlagd Sill,Seafood
 10670,67,25,$14.00 ,0,350,1,Laughing Lumberjack Lager,Beverages
-10670,75,25,$7.75 ,0,193.75,1,Rhˆnbr‰u Klosterbier,Beverages
-10670,23,32,$9.00 ,0,288,5,Tunnbrˆd,Grains/Cereals
+10670,75,25,$7.75 ,0,193.75,1,Rh√∂nbr√§u Klosterbier,Beverages
+10670,23,32,$9.00 ,0,288,5,Tunnbr√∂d,Grains/Cereals
 10670,46,60,$12.00 ,0,720,8,Spegesild,Seafood
-10670,73,50,$15.00 ,0,750,8,Rˆd Kaviar,Seafood
+10670,73,50,$15.00 ,0,750,8,R√∂d Kaviar,Seafood
 10671,65,12,$21.05 ,0,252.6000061,2,Louisiana Fiery Hot Pepper Sauce,Condiments
 10671,16,10,$17.45 ,0,174.5,3,Pavlova,Confections
 10671,62,10,$49.30 ,0,493,3,Tarte au sucre,Confections
-10672,38,15,$263.50 ,0.100000001,3557.25,1,CÙte de Blaye,Beverages
+10672,38,15,$263.50 ,0.100000001,3557.25,1,C√¥te de Blaye,Beverages
 10672,71,12,$21.50 ,0,258,4,Flotemysost,Dairy Products
 10673,43,6,$46.00 ,0,276,1,Ipoh Coffee,Beverages
 10673,16,3,$17.45 ,0,52.34999847,3,Pavlova,Confections
 10673,42,6,$14.00 ,0,84,5,Singaporean Hokkien Fried Mee,Grains/Cereals
-10674,23,5,$9.00 ,0,45,5,Tunnbrˆd,Grains/Cereals
+10674,23,5,$9.00 ,0,45,5,Tunnbr√∂d,Grains/Cereals
 10675,53,10,$32.80 ,0,328,6,Perth Pasties,Meat/Poultry
 10675,14,30,$23.25 ,0,697.5,7,Tofu,Produce
 10675,58,30,$13.25 ,0,397.5,8,Escargots de Bourgogne,Seafood
 10676,44,21,$19.45 ,0,408.4500122,2,Gula Malacca,Condiments
 10676,19,7,$9.20 ,0,64.40000153,3,Teatime Chocolate Biscuits,Confections
 10676,10,2,$31.00 ,0,62,8,Ikura,Seafood
-10677,26,30,$31.23 ,0.150000006,796.3650513,3,Gumb‰r Gummib‰rchen,Confections
+10677,26,30,$31.23 ,0.150000006,796.3650513,3,Gumb√§r Gummib√§rchen,Confections
 10677,33,8,$2.50 ,0.150000006,17,4,Geitost,Dairy Products
 10678,12,100,$38.00 ,0,3800,4,Queso Manchego La Pastora,Dairy Products
 10678,33,30,$2.50 ,0,75,4,Geitost,Dairy Products
-10678,54,30,$7.45 ,0,223.5,6,TourtiËre,Meat/Poultry
+10678,54,30,$7.45 ,0,223.5,6,Tourti√®re,Meat/Poultry
 10678,41,120,$9.65 ,0,1158,8,Jack's New England Clam Chowder,Seafood
 10679,59,12,$55.00 ,0,660,4,Raclette Courdavault,Dairy Products
 10680,16,50,$17.45 ,0.25,654.375,3,Pavlova,Confections
@@ -1137,8 +1137,8 @@
 10680,42,40,$14.00 ,0.25,420,5,Singaporean Hokkien Fried Mee,Grains/Cereals
 10681,19,30,$9.20 ,0.100000001,248.3999939,3,Teatime Chocolate Biscuits,Confections
 10681,21,12,$10.00 ,0.100000001,108,3,Sir Rodney's Scones,Confections
-10681,64,28,$33.25 ,0,931,5,Wimmers gute Semmelknˆdel,Grains/Cereals
-10682,75,30,$7.75 ,0,232.5,1,Rhˆnbr‰u Klosterbier,Beverages
+10681,64,28,$33.25 ,0,931,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
+10682,75,30,$7.75 ,0,232.5,1,Rh√∂nbr√§u Klosterbier,Beverages
 10682,66,4,$17.00 ,0,68,2,Louisiana Hot Spiced Okra,Condiments
 10682,33,30,$2.50 ,0,75,4,Geitost,Dairy Products
 10683,52,9,$7.00 ,0,63,5,Filo Mix,Grains/Cereals
@@ -1148,31 +1148,31 @@
 10685,47,15,$9.50 ,0,142.5,3,Zaanse koeken,Confections
 10685,10,20,$31.00 ,0,620,8,Ikura,Seafood
 10685,41,4,$9.65 ,0,38.59999847,8,Jack's New England Clam Chowder,Seafood
-10686,26,15,$31.23 ,0,468.4500122,3,Gumb‰r Gummib‰rchen,Confections
+10686,26,15,$31.23 ,0,468.4500122,3,Gumb√§r Gummib√§rchen,Confections
 10686,17,30,$39.00 ,0.200000003,936,6,Alice Mutton,Meat/Poultry
 10687,9,50,$97.00 ,0.25,3637.5,6,Mishi Kobe Niku,Meat/Poultry
-10687,29,10,$123.79 ,0,1237.900024,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10687,29,10,$123.79 ,0,1237.900024,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10687,36,6,$19.00 ,0.25,85.5,8,Inlagd Sill,Seafood
 10688,34,14,$14.00 ,0,196,1,Sasquatch Ale,Beverages
-10688,28,60,$45.60 ,0.100000001,2462.399902,7,Rˆssle Sauerkraut,Produce
+10688,28,60,$45.60 ,0.100000001,2462.399902,7,R√∂ssle Sauerkraut,Produce
 10688,10,18,$31.00 ,0.100000001,502.1999817,8,Ikura,Seafood
 10689,1,35,$18.00 ,0.25,472.5,1,Chai,Beverages
-10690,77,30,$13.00 ,0.25,292.5,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10690,77,30,$13.00 ,0.25,292.5,2,Original Frankfurter gr√ºne So√üe,Condiments
 10690,56,20,$38.00 ,0.25,570,5,Gnocchi di nonna Alice,Grains/Cereals
 10691,1,30,$18.00 ,0,540,1,Chai,Beverages
 10691,43,40,$46.00 ,0,1840,1,Ipoh Coffee,Beverages
 10691,44,24,$19.45 ,0,466.7999878,2,Gula Malacca,Condiments
 10691,62,48,$49.30 ,0,2366.399902,3,Tarte au sucre,Confections
-10691,29,40,$123.79 ,0,4951.600098,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10691,29,40,$123.79 ,0,4951.600098,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10692,63,20,$43.90 ,0,878,2,Vegie-spread,Condiments
 10693,69,30,$36.00 ,0.150000006,918,4,Gudbrandsdalsost,Dairy Products
 10693,9,6,$97.00 ,0,582,6,Mishi Kobe Niku,Meat/Poultry
-10693,54,60,$7.45 ,0.150000006,379.9500122,6,TourtiËre,Meat/Poultry
-10693,73,15,$15.00 ,0.150000006,191.25,8,Rˆd Kaviar,Seafood
+10693,54,60,$7.45 ,0.150000006,379.9500122,6,Tourti√®re,Meat/Poultry
+10693,73,15,$15.00 ,0.150000006,191.25,8,R√∂d Kaviar,Seafood
 10694,70,50,$15.00 ,0,750,1,Outback Lager,Beverages
 10694,59,25,$55.00 ,0,1375,4,Raclette Courdavault,Dairy Products
 10694,7,90,$30.00 ,0,2700,7,Uncle Bob's Organic Dried Pears,Produce
-10695,24,20,$4.50 ,0,90,1,Guaran· Fant·stica,Beverages
+10695,24,20,$4.50 ,0,90,1,Guaran√° Fant√°stica,Beverages
 10695,8,10,$40.00 ,0,400,2,Northwoods Cranberry Sauce,Condiments
 10695,12,4,$38.00 ,0,152,4,Queso Manchego La Pastora,Dairy Products
 10696,17,20,$39.00 ,0,780,6,Alice Mutton,Meat/Poultry
@@ -1185,21 +1185,21 @@
 10698,65,65,$21.05 ,0.050000001,1299.837524,2,Louisiana Fiery Hot Pepper Sauce,Condiments
 10698,11,15,$21.00 ,0,315,4,Queso Cabrales,Dairy Products
 10698,17,8,$39.00 ,0.050000001,296.3999939,6,Alice Mutton,Meat/Poultry
-10698,29,12,$123.79 ,0.050000001,1411.205933,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10698,29,12,$123.79 ,0.050000001,1411.205933,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10699,47,12,$9.50 ,0,114,3,Zaanse koeken,Confections
 10700,1,5,$18.00 ,0.200000003,72,1,Chai,Beverages
 10700,34,12,$14.00 ,0.200000003,134.4000092,1,Sasquatch Ale,Beverages
 10700,68,40,$12.50 ,0.200000003,400,3,Scottish Longbreads,Confections
 10700,71,60,$21.50 ,0.200000003,1032,4,Flotemysost,Dairy Products
-10701,76,35,$18.00 ,0.150000006,535.5,1,Lakkalikˆˆri,Beverages
+10701,76,35,$18.00 ,0.150000006,535.5,1,Lakkalik√∂√∂ri,Beverages
 10701,59,42,$55.00 ,0.150000006,1963.5,4,Raclette Courdavault,Dairy Products
 10701,71,20,$21.50 ,0.150000006,365.5,4,Flotemysost,Dairy Products
-10702,76,15,$18.00 ,0,270,1,Lakkalikˆˆri,Beverages
+10702,76,15,$18.00 ,0,270,1,Lakkalik√∂√∂ri,Beverages
 10702,3,6,$10.00 ,0,60,2,Aniseed Syrup,Condiments
 10703,2,5,$19.00 ,0,95,1,Chang,Beverages
 10703,59,35,$55.00 ,0,1925,4,Raclette Courdavault,Dairy Products
-10703,73,35,$15.00 ,0,525,8,Rˆd Kaviar,Seafood
-10704,24,35,$4.50 ,0,157.5,1,Guaran· Fant·stica,Beverages
+10703,73,35,$15.00 ,0,525,8,R√∂d Kaviar,Seafood
+10704,24,35,$4.50 ,0,157.5,1,Guaran√° Fant√°stica,Beverages
 10704,4,6,$22.00 ,0,132,2,Chef Anton's Cajun Seasoning,Condiments
 10704,48,24,$12.75 ,0,306,3,Chocolade,Confections
 10705,31,20,$12.50 ,0,250,4,Gorgonzola Telino,Dairy Products
@@ -1209,7 +1209,7 @@
 10706,59,8,$55.00 ,0,440,4,Raclette Courdavault,Dairy Products
 10707,70,28,$15.00 ,0.150000006,357,1,Outback Lager,Beverages
 10707,57,40,$19.50 ,0,780,5,Ravioli Angelo,Grains/Cereals
-10707,55,21,$24.00 ,0,504,6,P‚tÈ chinois,Meat/Poultry
+10707,55,21,$24.00 ,0,504,6,P√¢t√© chinois,Meat/Poultry
 10708,5,4,$21.35 ,0,85.40000153,2,Chef Anton's Gumbo Mix,Condiments
 10708,36,5,$19.00 ,0,95,8,Inlagd Sill,Seafood
 10709,8,40,$40.00 ,0,1600,2,Northwoods Cranberry Sauce,Condiments
@@ -1222,7 +1222,7 @@
 10711,41,42,$9.65 ,0,405.2999878,8,Jack's New England Clam Chowder,Seafood
 10712,56,30,$38.00 ,0,1140,5,Gnocchi di nonna Alice,Grains/Cereals
 10712,53,3,$32.80 ,0.050000001,93.48000336,6,Perth Pasties,Meat/Poultry
-10713,26,30,$31.23 ,0,936.9000244,3,Gumb‰r Gummib‰rchen,Confections
+10713,26,30,$31.23 ,0,936.9000244,3,Gumb√§r Gummib√§rchen,Confections
 10713,10,18,$31.00 ,0,558,8,Ikura,Seafood
 10713,45,110,$9.50 ,0,1045,8,Rogede sild,Seafood
 10713,46,24,$12.00 ,0,288,8,Spegesild,Seafood
@@ -1233,31 +1233,31 @@
 10714,58,12,$13.25 ,0.25,119.25,8,Escargots de Bourgogne,Seafood
 10715,71,30,$21.50 ,0,645,4,Flotemysost,Dairy Products
 10715,10,21,$31.00 ,0,651,8,Ikura,Seafood
-10716,61,10,$28.50 ,0,285,2,Sirop d'Èrable,Condiments
+10716,61,10,$28.50 ,0,285,2,Sirop d'√©rable,Condiments
 10716,21,5,$10.00 ,0,50,3,Sir Rodney's Scones,Confections
 10716,51,7,$53.00 ,0,371,7,Manjimup Dried Apples,Produce
 10717,21,32,$10.00 ,0.050000001,304,3,Sir Rodney's Scones,Confections
 10717,69,25,$36.00 ,0.050000001,855,4,Gudbrandsdalsost,Dairy Products
-10717,54,15,$7.45 ,0,111.75,6,TourtiËre,Meat/Poultry
+10717,54,15,$7.45 ,0,111.75,6,Tourti√®re,Meat/Poultry
 10718,16,20,$17.45 ,0,349,3,Pavlova,Confections
 10718,62,20,$49.30 ,0,986,3,Tarte au sucre,Confections
 10718,12,36,$38.00 ,0,1368,4,Queso Manchego La Pastora,Dairy Products
 10718,36,40,$19.00 ,0,760,8,Inlagd Sill,Seafood
-10719,54,40,$7.45 ,0.25,223.5,6,TourtiËre,Meat/Poultry
+10719,54,40,$7.45 ,0.25,223.5,6,Tourti√®re,Meat/Poultry
 10719,18,12,$62.50 ,0.25,562.5,8,Carnarvon Tigers,Seafood
 10719,30,3,$25.89 ,0.25,58.25249863,8,Nord-Ost Matjeshering,Seafood
 10720,35,21,$18.00 ,0,378,1,Steeleye Stout,Beverages
 10720,71,8,$21.50 ,0,172,4,Flotemysost,Dairy Products
 10721,44,50,$19.45 ,0.050000001,923.875,2,Gula Malacca,Condiments
 10722,2,3,$19.00 ,0,57,1,Chang,Beverages
-10722,75,42,$7.75 ,0,325.5,1,Rhˆnbr‰u Klosterbier,Beverages
+10722,75,42,$7.75 ,0,325.5,1,Rh√∂nbr√§u Klosterbier,Beverages
 10722,68,45,$12.50 ,0,562.5,3,Scottish Longbreads,Confections
 10722,31,50,$12.50 ,0,625,4,Gorgonzola Telino,Dairy Products
-10723,26,15,$31.23 ,0,468.4500122,3,Gumb‰r Gummib‰rchen,Confections
-10724,61,5,$28.50 ,0,142.5,2,Sirop d'Èrable,Condiments
+10723,26,15,$31.23 ,0,468.4500122,3,Gumb√§r Gummib√§rchen,Confections
+10724,61,5,$28.50 ,0,142.5,2,Sirop d'√©rable,Condiments
 10724,10,16,$31.00 ,0,496,8,Ikura,Seafood
 10725,52,4,$7.00 ,0,28,5,Filo Mix,Grains/Cereals
-10725,55,6,$24.00 ,0,144,6,P‚tÈ chinois,Meat/Poultry
+10725,55,6,$24.00 ,0,144,6,P√¢t√© chinois,Meat/Poultry
 10725,41,12,$9.65 ,0,115.8000031,8,Jack's New England Clam Chowder,Seafood
 10726,4,25,$22.00 ,0,550,2,Chef Anton's Cajun Seasoning,Condiments
 10726,11,5,$21.00 ,0,105,4,Queso Cabrales,Dairy Products
@@ -1265,7 +1265,7 @@
 10727,56,10,$38.00 ,0.050000001,361,5,Gnocchi di nonna Alice,Grains/Cereals
 10727,17,20,$39.00 ,0.050000001,741,6,Alice Mutton,Meat/Poultry
 10728,60,15,$34.00 ,0,510,4,Camembert Pierrot,Dairy Products
-10728,55,12,$24.00 ,0,288,6,P‚tÈ chinois,Meat/Poultry
+10728,55,12,$24.00 ,0,288,6,P√¢t√© chinois,Meat/Poultry
 10728,30,15,$25.89 ,0,388.3500061,8,Nord-Ost Matjeshering,Seafood
 10728,40,6,$18.40 ,0,110.4000015,8,Boston Crab Meat,Seafood
 10729,1,50,$18.00 ,0,900,1,Chai,Beverages
@@ -1276,16 +1276,16 @@
 10730,31,3,$12.50 ,0.050000001,35.625,4,Gorgonzola Telino,Dairy Products
 10731,21,40,$10.00 ,0.050000001,380,3,Sir Rodney's Scones,Confections
 10731,51,30,$53.00 ,0.050000001,1510.5,7,Manjimup Dried Apples,Produce
-10732,76,20,$18.00 ,0,360,1,Lakkalikˆˆri,Beverages
+10732,76,20,$18.00 ,0,360,1,Lakkalik√∂√∂ri,Beverages
 10733,52,25,$7.00 ,0,175,5,Filo Mix,Grains/Cereals
 10733,14,16,$23.25 ,0,372,7,Tofu,Produce
-10733,28,20,$45.60 ,0,912,7,Rˆssle Sauerkraut,Produce
-10734,76,20,$18.00 ,0,360,1,Lakkalikˆˆri,Beverages
+10733,28,20,$45.60 ,0,912,7,R√∂ssle Sauerkraut,Produce
+10734,76,20,$18.00 ,0,360,1,Lakkalik√∂√∂ri,Beverages
 10734,6,30,$25.00 ,0,750,2,Grandma's Boysenberry Spread,Condiments
 10734,30,15,$25.89 ,0,388.3500061,8,Nord-Ost Matjeshering,Seafood
-10735,61,20,$28.50 ,0.100000001,513,2,Sirop d'Èrable,Condiments
-10735,77,2,$13.00 ,0.100000001,23.39999962,2,Original Frankfurter gr¸ne Soﬂe,Condiments
-10736,75,20,$7.75 ,0,155,1,Rhˆnbr‰u Klosterbier,Beverages
+10735,61,20,$28.50 ,0.100000001,513,2,Sirop d'√©rable,Condiments
+10735,77,2,$13.00 ,0.100000001,23.39999962,2,Original Frankfurter gr√ºne So√üe,Condiments
+10736,75,20,$7.75 ,0,155,1,Rh√∂nbr√§u Klosterbier,Beverages
 10736,65,40,$21.05 ,0,842,2,Louisiana Fiery Hot Pepper Sauce,Condiments
 10737,13,4,$6.00 ,0,24,8,Konbu,Seafood
 10737,41,12,$9.65 ,0,115.8000031,8,Jack's New England Clam Chowder,Seafood
@@ -1294,7 +1294,7 @@
 10739,36,6,$19.00 ,0,114,8,Inlagd Sill,Seafood
 10740,35,35,$18.00 ,0.200000003,504,1,Steeleye Stout,Beverages
 10740,56,14,$38.00 ,0.200000003,425.6000061,5,Gnocchi di nonna Alice,Grains/Cereals
-10740,28,5,$45.60 ,0.200000003,182.4000092,7,Rˆssle Sauerkraut,Produce
+10740,28,5,$45.60 ,0.200000003,182.4000092,7,R√∂ssle Sauerkraut,Produce
 10740,45,40,$9.50 ,0.200000003,304,8,Rogede sild,Seafood
 10741,2,15,$19.00 ,0.200000003,228,1,Chang,Beverages
 10742,3,20,$10.00 ,0,200,2,Aniseed Syrup,Condiments
@@ -1314,19 +1314,19 @@
 10747,31,8,$12.50 ,0,100,4,Gorgonzola Telino,Dairy Products
 10747,69,30,$36.00 ,0,1080,4,Gudbrandsdalsost,Dairy Products
 10747,41,35,$9.65 ,0,337.75,8,Jack's New England Clam Chowder,Seafood
-10748,23,44,$9.00 ,0,396,5,Tunnbrˆd,Grains/Cereals
+10748,23,44,$9.00 ,0,396,5,Tunnbr√∂d,Grains/Cereals
 10748,56,28,$38.00 ,0,1064,5,Gnocchi di nonna Alice,Grains/Cereals
 10748,40,40,$18.40 ,0,736,8,Boston Crab Meat,Seafood
-10749,76,10,$18.00 ,0,180,1,Lakkalikˆˆri,Beverages
+10749,76,10,$18.00 ,0,180,1,Lakkalik√∂√∂ri,Beverages
 10749,59,6,$55.00 ,0,330,4,Raclette Courdavault,Dairy Products
 10749,56,15,$38.00 ,0,570,5,Gnocchi di nonna Alice,Grains/Cereals
 10750,59,25,$55.00 ,0.150000006,1168.75,4,Raclette Courdavault,Dairy Products
 10750,14,5,$23.25 ,0.150000006,98.8125,7,Tofu,Produce
 10750,45,40,$9.50 ,0.150000006,323,8,Rogede sild,Seafood
-10751,26,12,$31.23 ,0.100000001,337.2839966,3,Gumb‰r Gummib‰rchen,Confections
+10751,26,12,$31.23 ,0.100000001,337.2839966,3,Gumb√§r Gummib√§rchen,Confections
 10751,50,20,$16.25 ,0.100000001,292.5,3,Valkoinen suklaa,Confections
 10751,30,30,$25.89 ,0,776.7000122,8,Nord-Ost Matjeshering,Seafood
-10751,73,15,$15.00 ,0,225,8,Rˆd Kaviar,Seafood
+10751,73,15,$15.00 ,0,225,8,R√∂d Kaviar,Seafood
 10752,1,8,$18.00 ,0,144,1,Chai,Beverages
 10752,69,3,$36.00 ,0,108,4,Gudbrandsdalsost,Dairy Products
 10753,74,5,$10.00 ,0,50,7,Longlife Tofu,Produce
@@ -1343,23 +1343,23 @@
 10757,34,30,$14.00 ,0,420,1,Sasquatch Ale,Beverages
 10757,62,30,$49.30 ,0,1479,3,Tarte au sucre,Confections
 10757,59,7,$55.00 ,0,385,4,Raclette Courdavault,Dairy Products
-10757,64,24,$33.25 ,0,798,5,Wimmers gute Semmelknˆdel,Grains/Cereals
+10757,64,24,$33.25 ,0,798,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
 10758,70,40,$15.00 ,0,600,1,Outback Lager,Beverages
-10758,26,20,$31.23 ,0,624.5999756,3,Gumb‰r Gummib‰rchen,Confections
+10758,26,20,$31.23 ,0,624.5999756,3,Gumb√§r Gummib√§rchen,Confections
 10758,52,60,$7.00 ,0,420,5,Filo Mix,Grains/Cereals
 10759,32,10,$32.00 ,0,320,4,Mascarpone Fabioli,Dairy Products
 10760,43,30,$46.00 ,0.25,1035,1,Ipoh Coffee,Beverages
-10760,25,12,$14.00 ,0.25,126,3,NuNuCa Nuﬂ-Nougat-Creme,Confections
+10760,25,12,$14.00 ,0.25,126,3,NuNuCa Nu√ü-Nougat-Creme,Confections
 10760,27,40,$43.90 ,0,1756,3,Schoggi Schokolade,Confections
-10761,75,18,$7.75 ,0,139.5,1,Rhˆnbr‰u Klosterbier,Beverages
-10761,25,35,$14.00 ,0.25,367.5,3,NuNuCa Nuﬂ-Nougat-Creme,Confections
+10761,75,18,$7.75 ,0,139.5,1,Rh√∂nbr√§u Klosterbier,Beverages
+10761,25,35,$14.00 ,0.25,367.5,3,NuNuCa Nu√ü-Nougat-Creme,Confections
 10762,39,16,$18.00 ,0,288,1,Chartreuse verte,Beverages
 10762,47,30,$9.50 ,0,285,3,Zaanse koeken,Confections
 10762,56,60,$38.00 ,0,2280,5,Gnocchi di nonna Alice,Grains/Cereals
 10762,51,28,$53.00 ,0,1484,7,Manjimup Dried Apples,Produce
-10763,24,20,$4.50 ,0,90,1,Guaran· Fant·stica,Beverages
+10763,24,20,$4.50 ,0,90,1,Guaran√° Fant√°stica,Beverages
 10763,21,40,$10.00 ,0,400,3,Sir Rodney's Scones,Confections
-10763,22,6,$21.00 ,0,126,5,Gustaf's Kn‰ckebrˆd,Grains/Cereals
+10763,22,6,$21.00 ,0,126,5,Gustaf's Kn√§ckebr√∂d,Grains/Cereals
 10764,39,130,$18.00 ,0.100000001,2106,1,Chartreuse verte,Beverages
 10764,3,20,$10.00 ,0.100000001,180,2,Aniseed Syrup,Condiments
 10765,65,80,$21.05 ,0.100000001,1515.599976,2,Louisiana Fiery Hot Pepper Sauce,Condiments
@@ -1370,16 +1370,16 @@
 10768,31,50,$12.50 ,0,625,4,Gorgonzola Telino,Dairy Products
 10768,60,15,$34.00 ,0,510,4,Camembert Pierrot,Dairy Products
 10768,71,12,$21.50 ,0,258,4,Flotemysost,Dairy Products
-10768,22,4,$21.00 ,0,84,5,Gustaf's Kn‰ckebrˆd,Grains/Cereals
-10769,61,20,$28.50 ,0,570,2,Sirop d'Èrable,Condiments
+10768,22,4,$21.00 ,0,84,5,Gustaf's Kn√§ckebr√∂d,Grains/Cereals
+10769,61,20,$28.50 ,0,570,2,Sirop d'√©rable,Condiments
 10769,62,15,$49.30 ,0,739.5,3,Tarte au sucre,Confections
 10769,52,15,$7.00 ,0.050000001,99.75,5,Filo Mix,Grains/Cereals
 10769,41,30,$9.65 ,0.050000001,275.0249939,8,Jack's New England Clam Chowder,Seafood
 10770,11,15,$21.00 ,0.25,236.25,4,Queso Cabrales,Dairy Products
 10771,71,16,$21.50 ,0,344,4,Flotemysost,Dairy Products
 10772,59,25,$55.00 ,0,1375,4,Raclette Courdavault,Dairy Products
-10772,29,18,$123.79 ,0,2228.219971,6,Th¸ringer Rostbratwurst,Meat/Poultry
-10773,75,7,$7.75 ,0.200000003,43.40000153,1,Rhˆnbr‰u Klosterbier,Beverages
+10772,29,18,$123.79 ,0,2228.219971,6,Th√ºringer Rostbratwurst,Meat/Poultry
+10773,75,7,$7.75 ,0.200000003,43.40000153,1,Rh√∂nbr√§u Klosterbier,Beverages
 10773,31,70,$12.50 ,0.200000003,700,4,Gorgonzola Telino,Dairy Products
 10773,17,33,$39.00 ,0,1287,6,Alice Mutton,Meat/Poultry
 10774,66,50,$17.00 ,0,850,2,Louisiana Hot Spiced Okra,Condiments
@@ -1395,24 +1395,24 @@
 10779,16,20,$17.45 ,0,349,3,Pavlova,Confections
 10779,62,20,$49.30 ,0,986,3,Tarte au sucre,Confections
 10780,70,35,$15.00 ,0,525,1,Outback Lager,Beverages
-10780,77,15,$13.00 ,0,195,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10780,77,15,$13.00 ,0,195,2,Original Frankfurter gr√ºne So√üe,Condiments
 10781,56,20,$38.00 ,0.200000003,608,5,Gnocchi di nonna Alice,Grains/Cereals
-10781,54,3,$7.45 ,0.200000003,17.88000107,6,TourtiËre,Meat/Poultry
+10781,54,3,$7.45 ,0.200000003,17.88000107,6,Tourti√®re,Meat/Poultry
 10781,74,35,$10.00 ,0,350,7,Longlife Tofu,Produce
 10782,31,1,$12.50 ,0,12.5,4,Gorgonzola Telino,Dairy Products
-10783,38,5,$263.50 ,0,1317.5,1,CÙte de Blaye,Beverages
+10783,38,5,$263.50 ,0,1317.5,1,C√¥te de Blaye,Beverages
 10783,31,10,$12.50 ,0,125,4,Gorgonzola Telino,Dairy Products
 10784,39,2,$18.00 ,0.150000006,30.60000038,1,Chartreuse verte,Beverages
 10784,72,30,$34.80 ,0.150000006,887.4000244,4,Mozzarella di Giovanni,Dairy Products
 10784,36,30,$19.00 ,0,570,8,Inlagd Sill,Seafood
-10785,75,10,$7.75 ,0,77.5,1,Rhˆnbr‰u Klosterbier,Beverages
+10785,75,10,$7.75 ,0,77.5,1,Rh√∂nbr√§u Klosterbier,Beverages
 10785,10,10,$31.00 ,0,310,8,Ikura,Seafood
-10786,75,42,$7.75 ,0.200000003,260.3999939,1,Rhˆnbr‰u Klosterbier,Beverages
+10786,75,42,$7.75 ,0.200000003,260.3999939,1,Rh√∂nbr√§u Klosterbier,Beverages
 10786,8,30,$40.00 ,0.200000003,960,2,Northwoods Cranberry Sauce,Condiments
 10786,30,15,$25.89 ,0.200000003,310.6800232,8,Nord-Ost Matjeshering,Seafood
 10787,2,15,$19.00 ,0.050000001,270.75,1,Chang,Beverages
-10787,29,20,$123.79 ,0.050000001,2352.01001,6,Th¸ringer Rostbratwurst,Meat/Poultry
-10788,75,40,$7.75 ,0.050000001,294.5,1,Rhˆnbr‰u Klosterbier,Beverages
+10787,29,20,$123.79 ,0.050000001,2352.01001,6,Th√ºringer Rostbratwurst,Meat/Poultry
+10788,75,40,$7.75 ,0.050000001,294.5,1,Rh√∂nbr√§u Klosterbier,Beverages
 10788,19,50,$9.20 ,0.050000001,437,3,Teatime Chocolate Biscuits,Confections
 10789,35,15,$18.00 ,0,270,1,Steeleye Stout,Beverages
 10789,63,30,$43.90 ,0,1317,2,Vegie-spread,Condiments
@@ -1420,95 +1420,95 @@
 10789,18,30,$62.50 ,0,1875,8,Carnarvon Tigers,Seafood
 10790,56,20,$38.00 ,0.150000006,646,5,Gnocchi di nonna Alice,Grains/Cereals
 10790,7,3,$30.00 ,0.150000006,76.5,7,Uncle Bob's Organic Dried Pears,Produce
-10791,29,14,$123.79 ,0.050000001,1646.406982,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10791,29,14,$123.79 ,0.050000001,1646.406982,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10791,41,20,$9.65 ,0.050000001,183.3499908,8,Jack's New England Clam Chowder,Seafood
 10792,2,10,$19.00 ,0,190,1,Chang,Beverages
 10792,68,15,$12.50 ,0,187.5,3,Scottish Longbreads,Confections
-10792,54,3,$7.45 ,0,22.35000038,6,TourtiËre,Meat/Poultry
+10792,54,3,$7.45 ,0,22.35000038,6,Tourti√®re,Meat/Poultry
 10793,52,8,$7.00 ,0,56,5,Filo Mix,Grains/Cereals
 10793,41,14,$9.65 ,0,135.1000061,8,Jack's New England Clam Chowder,Seafood
-10794,54,6,$7.45 ,0.200000003,35.76000214,6,TourtiËre,Meat/Poultry
+10794,54,6,$7.45 ,0.200000003,35.76000214,6,Tourti√®re,Meat/Poultry
 10794,14,15,$23.25 ,0.200000003,279,7,Tofu,Produce
 10795,16,65,$17.45 ,0,1134.25,3,Pavlova,Confections
 10795,17,35,$39.00 ,0.25,1023.75,6,Alice Mutton,Meat/Poultry
 10796,44,10,$19.45 ,0,194.5,2,Gula Malacca,Condiments
-10796,26,21,$31.23 ,0.200000003,524.6640015,3,Gumb‰r Gummib‰rchen,Confections
+10796,26,21,$31.23 ,0.200000003,524.6640015,3,Gumb√§r Gummib√§rchen,Confections
 10796,69,24,$36.00 ,0.200000003,691.2000122,4,Gudbrandsdalsost,Dairy Products
-10796,64,35,$33.25 ,0.200000003,931,5,Wimmers gute Semmelknˆdel,Grains/Cereals
+10796,64,35,$33.25 ,0.200000003,931,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
 10797,11,20,$21.00 ,0,420,4,Queso Cabrales,Dairy Products
 10798,62,2,$49.30 ,0,98.59999847,3,Tarte au sucre,Confections
 10798,72,10,$34.80 ,0,348,4,Mozzarella di Giovanni,Dairy Products
-10799,24,20,$4.50 ,0.150000006,76.5,1,Guaran· Fant·stica,Beverages
+10799,24,20,$4.50 ,0.150000006,76.5,1,Guaran√° Fant√°stica,Beverages
 10799,59,25,$55.00 ,0,1375,4,Raclette Courdavault,Dairy Products
 10799,13,20,$6.00 ,0.150000006,102,8,Konbu,Seafood
 10800,11,50,$21.00 ,0.100000001,945,4,Queso Cabrales,Dairy Products
-10800,54,7,$7.45 ,0.100000001,46.93500137,6,TourtiËre,Meat/Poultry
+10800,54,7,$7.45 ,0.100000001,46.93500137,6,Tourti√®re,Meat/Poultry
 10800,51,10,$53.00 ,0.100000001,477,7,Manjimup Dried Apples,Produce
 10801,17,40,$39.00 ,0.25,1170,6,Alice Mutton,Meat/Poultry
-10801,29,20,$123.79 ,0.25,1856.850098,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10801,29,20,$123.79 ,0.25,1856.850098,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10802,62,5,$49.30 ,0.25,184.875,3,Tarte au sucre,Confections
-10802,55,60,$24.00 ,0.25,1080,6,P‚tÈ chinois,Meat/Poultry
+10802,55,60,$24.00 ,0.25,1080,6,P√¢t√© chinois,Meat/Poultry
 10802,51,30,$53.00 ,0.25,1192.5,7,Manjimup Dried Apples,Produce
 10802,30,25,$25.89 ,0.25,485.4375,8,Nord-Ost Matjeshering,Seafood
 10803,19,24,$9.20 ,0.050000001,209.7599945,3,Teatime Chocolate Biscuits,Confections
-10803,25,15,$14.00 ,0.050000001,199.5,3,NuNuCa Nuﬂ-Nougat-Creme,Confections
+10803,25,15,$14.00 ,0.050000001,199.5,3,NuNuCa Nu√ü-Nougat-Creme,Confections
 10803,59,15,$55.00 ,0.050000001,783.75,4,Raclette Courdavault,Dairy Products
 10804,49,4,$20.00 ,0.150000006,68,3,Maxilaku,Confections
-10804,28,24,$45.60 ,0,1094.400024,7,Rˆssle Sauerkraut,Produce
+10804,28,24,$45.60 ,0,1094.400024,7,R√∂ssle Sauerkraut,Produce
 10804,10,36,$31.00 ,0,1116,8,Ikura,Seafood
 10805,34,10,$14.00 ,0,140,1,Sasquatch Ale,Beverages
-10805,38,10,$263.50 ,0,2635,1,CÙte de Blaye,Beverages
+10805,38,10,$263.50 ,0,2635,1,C√¥te de Blaye,Beverages
 10806,2,20,$19.00 ,0.25,285,1,Chang,Beverages
 10806,65,2,$21.05 ,0,42.09999847,2,Louisiana Fiery Hot Pepper Sauce,Condiments
 10806,74,15,$10.00 ,0.25,112.5,7,Longlife Tofu,Produce
 10807,40,1,$18.40 ,0,18.39999962,8,Boston Crab Meat,Seafood
-10808,76,50,$18.00 ,0.150000006,765,1,Lakkalikˆˆri,Beverages
+10808,76,50,$18.00 ,0.150000006,765,1,Lakkalik√∂√∂ri,Beverages
 10808,56,20,$38.00 ,0.150000006,646,5,Gnocchi di nonna Alice,Grains/Cereals
 10809,52,20,$7.00 ,0,140,5,Filo Mix,Grains/Cereals
 10810,70,5,$15.00 ,0,75,1,Outback Lager,Beverages
-10810,25,5,$14.00 ,0,70,3,NuNuCa Nuﬂ-Nougat-Creme,Confections
+10810,25,5,$14.00 ,0,70,3,NuNuCa Nu√ü-Nougat-Creme,Confections
 10810,13,7,$6.00 ,0,42,8,Konbu,Seafood
 10811,19,15,$9.20 ,0,138,3,Teatime Chocolate Biscuits,Confections
-10811,23,18,$9.00 ,0,162,5,Tunnbrˆd,Grains/Cereals
+10811,23,18,$9.00 ,0,162,5,Tunnbr√∂d,Grains/Cereals
 10811,40,30,$18.40 ,0,552,8,Boston Crab Meat,Seafood
-10812,77,20,$13.00 ,0,260,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10812,77,20,$13.00 ,0,260,2,Original Frankfurter gr√ºne So√üe,Condiments
 10812,31,16,$12.50 ,0.100000001,180,4,Gorgonzola Telino,Dairy Products
 10812,72,40,$34.80 ,0.100000001,1252.799927,4,Mozzarella di Giovanni,Dairy Products
 10813,2,12,$19.00 ,0.200000003,182.4000092,1,Chang,Beverages
 10813,46,35,$12.00 ,0,420,8,Spegesild,Seafood
 10814,43,20,$46.00 ,0.150000006,782,1,Ipoh Coffee,Beverages
-10814,61,30,$28.50 ,0.150000006,726.75,2,Sirop d'Èrable,Condiments
+10814,61,30,$28.50 ,0.150000006,726.75,2,Sirop d'√©rable,Condiments
 10814,48,8,$12.75 ,0.150000006,86.70000458,3,Chocolade,Confections
 10814,41,20,$9.65 ,0,193,8,Jack's New England Clam Chowder,Seafood
 10815,33,16,$2.50 ,0,40,4,Geitost,Dairy Products
-10816,38,30,$263.50 ,0.050000001,7509.75,1,CÙte de Blaye,Beverages
+10816,38,30,$263.50 ,0.050000001,7509.75,1,C√¥te de Blaye,Beverages
 10816,62,20,$49.30 ,0.050000001,936.7000122,3,Tarte au sucre,Confections
-10817,38,30,$263.50 ,0,7905,1,CÙte de Blaye,Beverages
-10817,26,40,$31.23 ,0.150000006,1061.819946,3,Gumb‰r Gummib‰rchen,Confections
+10817,38,30,$263.50 ,0,7905,1,C√¥te de Blaye,Beverages
+10817,26,40,$31.23 ,0.150000006,1061.819946,3,Gumb√§r Gummib√§rchen,Confections
 10817,62,25,$49.30 ,0.150000006,1047.625,3,Tarte au sucre,Confections
 10817,40,60,$18.40 ,0.150000006,938.4000244,8,Boston Crab Meat,Seafood
 10818,32,20,$32.00 ,0,640,4,Mascarpone Fabioli,Dairy Products
 10818,41,20,$9.65 ,0,193,8,Jack's New England Clam Chowder,Seafood
 10819,43,7,$46.00 ,0,322,1,Ipoh Coffee,Beverages
-10819,75,20,$7.75 ,0,155,1,Rhˆnbr‰u Klosterbier,Beverages
+10819,75,20,$7.75 ,0,155,1,Rh√∂nbr√§u Klosterbier,Beverages
 10820,56,30,$38.00 ,0,1140,5,Gnocchi di nonna Alice,Grains/Cereals
 10821,35,20,$18.00 ,0,360,1,Steeleye Stout,Beverages
 10821,51,6,$53.00 ,0,318,7,Manjimup Dried Apples,Produce
 10822,70,6,$15.00 ,0,90,1,Outback Lager,Beverages
 10822,62,3,$49.30 ,0,147.8999939,3,Tarte au sucre,Confections
-10823,77,15,$13.00 ,0.100000001,175.5,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10823,77,15,$13.00 ,0.100000001,175.5,2,Original Frankfurter gr√ºne So√üe,Condiments
 10823,11,20,$21.00 ,0.100000001,378,4,Queso Cabrales,Dairy Products
 10823,59,40,$55.00 ,0.100000001,1980,4,Raclette Courdavault,Dairy Products
 10823,57,15,$19.50 ,0,292.5,5,Ravioli Angelo,Grains/Cereals
 10824,70,9,$15.00 ,0,135,1,Outback Lager,Beverages
 10824,41,12,$9.65 ,0,115.8000031,8,Jack's New England Clam Chowder,Seafood
-10825,26,12,$31.23 ,0,374.7600098,3,Gumb‰r Gummib‰rchen,Confections
+10825,26,12,$31.23 ,0,374.7600098,3,Gumb√§r Gummib√§rchen,Confections
 10825,53,20,$32.80 ,0,656,6,Perth Pasties,Meat/Poultry
 10826,31,35,$12.50 ,0,437.5,4,Gorgonzola Telino,Dairy Products
 10826,57,15,$19.50 ,0,292.5,5,Ravioli Angelo,Grains/Cereals
 10827,39,21,$18.00 ,0,378,1,Chartreuse verte,Beverages
 10827,10,15,$31.00 ,0,465,8,Ikura,Seafood
-10828,38,2,$263.50 ,0,527,1,CÙte de Blaye,Beverages
+10828,38,2,$263.50 ,0,527,1,C√¥te de Blaye,Beverages
 10828,20,5,$81.00 ,0,405,3,Sir Rodney's Marmalade,Confections
 10829,2,10,$19.00 ,0,190,1,Chang,Beverages
 10829,8,20,$40.00 ,0,800,2,Northwoods Cranberry Sauce,Condiments
@@ -1519,26 +1519,26 @@
 10830,68,24,$12.50 ,0,300,3,Scottish Longbreads,Confections
 10830,60,30,$34.00 ,0,1020,4,Camembert Pierrot,Dairy Products
 10831,35,8,$18.00 ,0,144,1,Steeleye Stout,Beverages
-10831,38,8,$263.50 ,0,2108,1,CÙte de Blaye,Beverages
+10831,38,8,$263.50 ,0,2108,1,C√¥te de Blaye,Beverages
 10831,43,9,$46.00 ,0,414,1,Ipoh Coffee,Beverages
 10831,19,2,$9.20 ,0,18.39999962,3,Teatime Chocolate Biscuits,Confections
 10832,44,16,$19.45 ,0.200000003,248.9600067,2,Gula Malacca,Condiments
-10832,25,10,$14.00 ,0.200000003,112,3,NuNuCa Nuﬂ-Nougat-Creme,Confections
-10832,64,3,$33.25 ,0,99.75,5,Wimmers gute Semmelknˆdel,Grains/Cereals
+10832,25,10,$14.00 ,0.200000003,112,3,NuNuCa Nu√ü-Nougat-Creme,Confections
+10832,64,3,$33.25 ,0,99.75,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
 10832,13,3,$6.00 ,0.200000003,14.40000057,8,Konbu,Seafood
 10833,31,9,$12.50 ,0.100000001,101.25,4,Gorgonzola Telino,Dairy Products
 10833,53,9,$32.80 ,0.100000001,265.6799927,6,Perth Pasties,Meat/Poultry
 10833,7,20,$30.00 ,0.100000001,540,7,Uncle Bob's Organic Dried Pears,Produce
-10834,29,8,$123.79 ,0.050000001,940.8040161,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10834,29,8,$123.79 ,0.050000001,940.8040161,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10834,30,20,$25.89 ,0.050000001,491.9099731,8,Nord-Ost Matjeshering,Seafood
-10835,77,2,$13.00 ,0.200000003,20.80000114,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10835,77,2,$13.00 ,0.200000003,20.80000114,2,Original Frankfurter gr√ºne So√üe,Condiments
 10835,59,15,$55.00 ,0,825,4,Raclette Courdavault,Dairy Products
 10836,35,6,$18.00 ,0,108,1,Steeleye Stout,Beverages
 10836,60,60,$34.00 ,0,2040,4,Camembert Pierrot,Dairy Products
-10836,22,52,$21.00 ,0,1092,5,Gustaf's Kn‰ckebrˆd,Grains/Cereals
+10836,22,52,$21.00 ,0,1092,5,Gustaf's Kn√§ckebr√∂d,Grains/Cereals
 10836,57,24,$19.50 ,0,468,5,Ravioli Angelo,Grains/Cereals
-10836,64,30,$33.25 ,0,997.5,5,Wimmers gute Semmelknˆdel,Grains/Cereals
-10837,76,21,$18.00 ,0.25,283.5,1,Lakkalikˆˆri,Beverages
+10836,64,30,$33.25 ,0,997.5,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
+10837,76,21,$18.00 ,0.25,283.5,1,Lakkalik√∂√∂ri,Beverages
 10837,47,40,$9.50 ,0.25,285,3,Zaanse koeken,Confections
 10837,13,6,$6.00 ,0,36,8,Konbu,Seafood
 10837,40,25,$18.40 ,0,460,8,Boston Crab Meat,Seafood
@@ -1548,8 +1548,8 @@
 10839,72,15,$34.80 ,0.100000001,469.7999878,4,Mozzarella di Giovanni,Dairy Products
 10839,58,30,$13.25 ,0.100000001,357.75,8,Escargots de Bourgogne,Seafood
 10840,39,10,$18.00 ,0.200000003,144,1,Chartreuse verte,Beverages
-10840,25,6,$14.00 ,0.200000003,67.20000458,3,NuNuCa Nuﬂ-Nougat-Creme,Confections
-10841,77,15,$13.00 ,0,195,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10840,25,6,$14.00 ,0.200000003,67.20000458,3,NuNuCa Nu√ü-Nougat-Creme,Confections
+10841,77,15,$13.00 ,0,195,2,Original Frankfurter gr√ºne So√üe,Condiments
 10841,59,50,$55.00 ,0,2750,4,Raclette Courdavault,Dairy Products
 10841,56,30,$38.00 ,0,1140,5,Gnocchi di nonna Alice,Grains/Cereals
 10841,10,16,$31.00 ,0,496,8,Ikura,Seafood
@@ -1558,11 +1558,11 @@
 10842,68,20,$12.50 ,0,250,3,Scottish Longbreads,Confections
 10842,11,15,$21.00 ,0,315,4,Queso Cabrales,Dairy Products
 10843,51,4,$53.00 ,0.25,159,7,Manjimup Dried Apples,Produce
-10844,22,35,$21.00 ,0,735,5,Gustaf's Kn‰ckebrˆd,Grains/Cereals
+10844,22,35,$21.00 ,0,735,5,Gustaf's Kn√§ckebr√∂d,Grains/Cereals
 10845,35,25,$18.00 ,0.100000001,405,1,Steeleye Stout,Beverages
-10845,23,70,$9.00 ,0.100000001,567,5,Tunnbrˆd,Grains/Cereals
+10845,23,70,$9.00 ,0.100000001,567,5,Tunnbr√∂d,Grains/Cereals
 10845,42,42,$14.00 ,0.100000001,529.2000122,5,Singaporean Hokkien Fried Mee,Grains/Cereals
-10845,64,48,$33.25 ,0,1596,5,Wimmers gute Semmelknˆdel,Grains/Cereals
+10845,64,48,$33.25 ,0,1596,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
 10845,58,60,$13.25 ,0.100000001,715.5,8,Escargots de Bourgogne,Seafood
 10846,70,30,$15.00 ,0,450,1,Outback Lager,Beverages
 10846,4,21,$22.00 ,0,462,2,Chef Anton's Cajun Seasoning,Condiments
@@ -1576,12 +1576,12 @@
 10848,5,30,$21.35 ,0,640.5,2,Chef Anton's Gumbo Mix,Condiments
 10848,9,3,$97.00 ,0,291,6,Mishi Kobe Niku,Meat/Poultry
 10849,3,49,$10.00 ,0,490,2,Aniseed Syrup,Condiments
-10849,26,18,$31.23 ,0.150000006,477.8190308,3,Gumb‰r Gummib‰rchen,Confections
+10849,26,18,$31.23 ,0.150000006,477.8190308,3,Gumb√§r Gummib√§rchen,Confections
 10850,70,30,$15.00 ,0.150000006,382.5,1,Outback Lager,Beverages
-10850,25,20,$14.00 ,0.150000006,238,3,NuNuCa Nuﬂ-Nougat-Creme,Confections
+10850,25,20,$14.00 ,0.150000006,238,3,NuNuCa Nu√ü-Nougat-Creme,Confections
 10850,33,4,$2.50 ,0.150000006,8.5,4,Geitost,Dairy Products
 10851,2,5,$19.00 ,0.050000001,90.25,1,Chang,Beverages
-10851,25,10,$14.00 ,0.050000001,133,3,NuNuCa Nuﬂ-Nougat-Creme,Confections
+10851,25,10,$14.00 ,0.050000001,133,3,NuNuCa Nu√ü-Nougat-Creme,Confections
 10851,59,42,$55.00 ,0.050000001,2194.5,4,Raclette Courdavault,Dairy Products
 10851,57,10,$19.50 ,0.050000001,185.25,5,Ravioli Angelo,Grains/Cereals
 10852,2,15,$19.00 ,0,285,1,Chang,Beverages
@@ -1597,15 +1597,15 @@
 10856,2,20,$19.00 ,0,380,1,Chang,Beverages
 10856,42,20,$14.00 ,0,280,5,Singaporean Hokkien Fried Mee,Grains/Cereals
 10857,3,30,$10.00 ,0,300,2,Aniseed Syrup,Condiments
-10857,26,35,$31.23 ,0.25,819.7875366,3,Gumb‰r Gummib‰rchen,Confections
-10857,29,10,$123.79 ,0.25,928.4250488,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10857,26,35,$31.23 ,0.25,819.7875366,3,Gumb√§r Gummib√§rchen,Confections
+10857,29,10,$123.79 ,0.25,928.4250488,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10858,70,4,$15.00 ,0,60,1,Outback Lager,Beverages
 10858,27,10,$43.90 ,0,439,3,Schoggi Schokolade,Confections
 10858,7,5,$30.00 ,0,150,7,Uncle Bob's Organic Dried Pears,Produce
-10859,24,40,$4.50 ,0.25,135,1,Guaran· Fant·stica,Beverages
-10859,64,30,$33.25 ,0.25,748.125,5,Wimmers gute Semmelknˆdel,Grains/Cereals
-10859,54,35,$7.45 ,0.25,195.5625,6,TourtiËre,Meat/Poultry
-10860,76,20,$18.00 ,0,360,1,Lakkalikˆˆri,Beverages
+10859,24,40,$4.50 ,0.25,135,1,Guaran√° Fant√°stica,Beverages
+10859,64,30,$33.25 ,0.25,748.125,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
+10859,54,35,$7.45 ,0.25,195.5625,6,Tourti√®re,Meat/Poultry
+10860,76,20,$18.00 ,0,360,1,Lakkalik√∂√∂ri,Beverages
 10860,51,3,$53.00 ,0,159,7,Manjimup Dried Apples,Produce
 10861,21,40,$10.00 ,0,400,3,Sir Rodney's Scones,Confections
 10861,62,3,$49.30 ,0,147.8999939,3,Tarte au sucre,Confections
@@ -1618,19 +1618,19 @@
 10863,58,12,$13.25 ,0.150000006,135.1500092,8,Escargots de Bourgogne,Seafood
 10864,35,4,$18.00 ,0,72,1,Steeleye Stout,Beverages
 10864,67,15,$14.00 ,0,210,1,Laughing Lumberjack Lager,Beverages
-10865,38,60,$263.50 ,0.050000001,15019.5,1,CÙte de Blaye,Beverages
+10865,38,60,$263.50 ,0.050000001,15019.5,1,C√¥te de Blaye,Beverages
 10865,39,80,$18.00 ,0.050000001,1368,1,Chartreuse verte,Beverages
 10866,2,21,$19.00 ,0.25,299.25,1,Chang,Beverages
-10866,24,6,$4.50 ,0.25,20.25,1,Guaran· Fant·stica,Beverages
+10866,24,6,$4.50 ,0.25,20.25,1,Guaran√° Fant√°stica,Beverages
 10866,30,40,$25.89 ,0.25,776.6999512,8,Nord-Ost Matjeshering,Seafood
 10867,53,3,$32.80 ,0,98.40000153,6,Perth Pasties,Meat/Poultry
 10868,35,30,$18.00 ,0,540,1,Steeleye Stout,Beverages
-10868,26,20,$31.23 ,0,624.5999756,3,Gumb‰r Gummib‰rchen,Confections
+10868,26,20,$31.23 ,0,624.5999756,3,Gumb√§r Gummib√§rchen,Confections
 10868,49,42,$20.00 ,0.100000001,756,3,Maxilaku,Confections
 10869,1,40,$18.00 ,0,720,1,Chai,Beverages
 10869,68,20,$12.50 ,0,250,3,Scottish Longbreads,Confections
 10869,11,10,$21.00 ,0,210,4,Queso Cabrales,Dairy Products
-10869,23,50,$9.00 ,0,450,5,Tunnbrˆd,Grains/Cereals
+10869,23,50,$9.00 ,0,450,5,Tunnbr√∂d,Grains/Cereals
 10870,35,3,$18.00 ,0,54,1,Steeleye Stout,Beverages
 10870,51,2,$53.00 ,0,106,7,Manjimup Dried Apples,Produce
 10871,6,50,$25.00 ,0.050000001,1187.5,2,Grandma's Boysenberry Spread,Condiments
@@ -1638,65 +1638,65 @@
 10871,17,16,$39.00 ,0.050000001,592.7999878,6,Alice Mutton,Meat/Poultry
 10872,65,21,$21.05 ,0.050000001,419.9474792,2,Louisiana Fiery Hot Pepper Sauce,Condiments
 10872,62,20,$49.30 ,0.050000001,936.7000122,3,Tarte au sucre,Confections
-10872,64,15,$33.25 ,0.050000001,473.8125,5,Wimmers gute Semmelknˆdel,Grains/Cereals
-10872,55,10,$24.00 ,0.050000001,228,6,P‚tÈ chinois,Meat/Poultry
+10872,64,15,$33.25 ,0.050000001,473.8125,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
+10872,55,10,$24.00 ,0.050000001,228,6,P√¢t√© chinois,Meat/Poultry
 10873,21,20,$10.00 ,0,200,3,Sir Rodney's Scones,Confections
-10873,28,3,$45.60 ,0,136.8000031,7,Rˆssle Sauerkraut,Produce
+10873,28,3,$45.60 ,0,136.8000031,7,R√∂ssle Sauerkraut,Produce
 10874,10,10,$31.00 ,0,310,8,Ikura,Seafood
 10875,19,25,$9.20 ,0,230,3,Teatime Chocolate Biscuits,Confections
 10875,47,21,$9.50 ,0.100000001,179.5499878,3,Zaanse koeken,Confections
 10875,49,15,$20.00 ,0,300,3,Maxilaku,Confections
-10876,64,20,$33.25 ,0,665,5,Wimmers gute Semmelknˆdel,Grains/Cereals
+10876,64,20,$33.25 ,0,665,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
 10876,46,21,$12.00 ,0,252,8,Spegesild,Seafood
 10877,16,30,$17.45 ,0.25,392.625,3,Pavlova,Confections
 10877,18,25,$62.50 ,0,1562.5,8,Carnarvon Tigers,Seafood
 10878,20,20,$81.00 ,0.050000001,1539,3,Sir Rodney's Marmalade,Confections
-10879,76,10,$18.00 ,0,180,1,Lakkalikˆˆri,Beverages
+10879,76,10,$18.00 ,0,180,1,Lakkalik√∂√∂ri,Beverages
 10879,65,10,$21.05 ,0,210.5,2,Louisiana Fiery Hot Pepper Sauce,Condiments
 10879,40,12,$18.40 ,0,220.8000031,8,Boston Crab Meat,Seafood
 10880,70,50,$15.00 ,0.200000003,600,1,Outback Lager,Beverages
-10880,61,30,$28.50 ,0.200000003,684,2,Sirop d'Èrable,Condiments
-10880,23,30,$9.00 ,0.200000003,216,5,Tunnbrˆd,Grains/Cereals
-10881,73,10,$15.00 ,0,150,8,Rˆd Kaviar,Seafood
+10880,61,30,$28.50 ,0.200000003,684,2,Sirop d'√©rable,Condiments
+10880,23,30,$9.00 ,0.200000003,216,5,Tunnbr√∂d,Grains/Cereals
+10881,73,10,$15.00 ,0,150,8,R√∂d Kaviar,Seafood
 10882,49,20,$20.00 ,0.150000006,340,3,Maxilaku,Confections
 10882,42,25,$14.00 ,0,350,5,Singaporean Hokkien Fried Mee,Grains/Cereals
-10882,54,32,$7.45 ,0.150000006,202.6399994,6,TourtiËre,Meat/Poultry
-10883,24,8,$4.50 ,0,36,1,Guaran· Fant·stica,Beverages
+10882,54,32,$7.45 ,0.150000006,202.6399994,6,Tourti√®re,Meat/Poultry
+10883,24,8,$4.50 ,0,36,1,Guaran√° Fant√°stica,Beverages
 10884,65,12,$21.05 ,0.050000001,239.9700012,2,Louisiana Fiery Hot Pepper Sauce,Condiments
 10884,21,40,$10.00 ,0.050000001,380,3,Sir Rodney's Scones,Confections
 10884,56,21,$38.00 ,0.050000001,758.0999756,5,Gnocchi di nonna Alice,Grains/Cereals
 10885,2,20,$19.00 ,0,380,1,Chang,Beverages
-10885,24,12,$4.50 ,0,54,1,Guaran· Fant·stica,Beverages
+10885,24,12,$4.50 ,0,54,1,Guaran√° Fant√°stica,Beverages
 10885,70,30,$15.00 ,0,450,1,Outback Lager,Beverages
-10885,77,25,$13.00 ,0,325,2,Original Frankfurter gr¸ne Soﬂe,Condiments
-10886,77,40,$13.00 ,0,520,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10885,77,25,$13.00 ,0,325,2,Original Frankfurter gr√ºne So√üe,Condiments
+10886,77,40,$13.00 ,0,520,2,Original Frankfurter gr√ºne So√üe,Condiments
 10886,31,35,$12.50 ,0,437.5,4,Gorgonzola Telino,Dairy Products
 10886,10,70,$31.00 ,0,2170,8,Ikura,Seafood
-10887,25,5,$14.00 ,0,70,3,NuNuCa Nuﬂ-Nougat-Creme,Confections
+10887,25,5,$14.00 ,0,70,3,NuNuCa Nu√ü-Nougat-Creme,Confections
 10888,2,20,$19.00 ,0,380,1,Chang,Beverages
 10888,68,18,$12.50 ,0,225,3,Scottish Longbreads,Confections
-10889,38,40,$263.50 ,0,10540,1,CÙte de Blaye,Beverages
+10889,38,40,$263.50 ,0,10540,1,C√¥te de Blaye,Beverages
 10889,11,40,$21.00 ,0,840,4,Queso Cabrales,Dairy Products
 10890,34,10,$14.00 ,0,140,1,Sasquatch Ale,Beverages
 10890,17,15,$39.00 ,0,585,6,Alice Mutton,Meat/Poultry
 10890,41,14,$9.65 ,0,135.1000061,8,Jack's New England Clam Chowder,Seafood
 10891,30,15,$25.89 ,0.050000001,368.9324951,8,Nord-Ost Matjeshering,Seafood
 10892,59,40,$55.00 ,0.050000001,2090,4,Raclette Courdavault,Dairy Products
-10893,24,10,$4.50 ,0,45,1,Guaran· Fant·stica,Beverages
+10893,24,10,$4.50 ,0,45,1,Guaran√° Fant√°stica,Beverages
 10893,8,30,$40.00 ,0,1200,2,Northwoods Cranberry Sauce,Condiments
-10893,29,24,$123.79 ,0,2970.959961,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10893,29,24,$123.79 ,0,2970.959961,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10893,30,35,$25.89 ,0,906.1500244,8,Nord-Ost Matjeshering,Seafood
 10893,36,20,$19.00 ,0,380,8,Inlagd Sill,Seafood
-10894,75,120,$7.75 ,0.050000001,883.5,1,Rhˆnbr‰u Klosterbier,Beverages
+10894,75,120,$7.75 ,0.050000001,883.5,1,Rh√∂nbr√§u Klosterbier,Beverages
 10894,69,50,$36.00 ,0.050000001,1710,4,Gudbrandsdalsost,Dairy Products
 10894,13,28,$6.00 ,0.050000001,159.5999908,8,Konbu,Seafood
-10895,24,110,$4.50 ,0,495,1,Guaran· Fant·stica,Beverages
+10895,24,110,$4.50 ,0,495,1,Guaran√° Fant√°stica,Beverages
 10895,39,45,$18.00 ,0,810,1,Chartreuse verte,Beverages
 10895,60,100,$34.00 ,0,3400,4,Camembert Pierrot,Dairy Products
 10895,40,91,$18.40 ,0,1674.400024,8,Boston Crab Meat,Seafood
 10896,56,16,$38.00 ,0,608,5,Gnocchi di nonna Alice,Grains/Cereals
 10896,45,15,$9.50 ,0,142.5,8,Rogede sild,Seafood
-10897,29,80,$123.79 ,0,9903.200195,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10897,29,80,$123.79 ,0,9903.200195,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10897,30,36,$25.89 ,0,932.039978,8,Nord-Ost Matjeshering,Seafood
 10898,13,5,$6.00 ,0,30,8,Konbu,Seafood
 10899,39,8,$18.00 ,0.150000006,122.4000015,1,Chartreuse verte,Beverages
@@ -1704,35 +1704,35 @@
 10901,71,30,$21.50 ,0,645,4,Flotemysost,Dairy Products
 10901,41,30,$9.65 ,0,289.5,8,Jack's New England Clam Chowder,Seafood
 10902,62,6,$49.30 ,0.150000006,251.4299927,3,Tarte au sucre,Confections
-10902,55,30,$24.00 ,0.150000006,612,6,P‚tÈ chinois,Meat/Poultry
+10902,55,30,$24.00 ,0.150000006,612,6,P√¢t√© chinois,Meat/Poultry
 10903,65,21,$21.05 ,0,442.0499878,2,Louisiana Fiery Hot Pepper Sauce,Condiments
 10903,68,20,$12.50 ,0,250,3,Scottish Longbreads,Confections
 10903,13,40,$6.00 ,0,240,8,Konbu,Seafood
 10904,62,35,$49.30 ,0,1725.5,3,Tarte au sucre,Confections
 10904,58,15,$13.25 ,0,198.75,8,Escargots de Bourgogne,Seafood
 10905,1,20,$18.00 ,0.050000001,342,1,Chai,Beverages
-10906,61,15,$28.50 ,0,427.5,2,Sirop d'Èrable,Condiments
-10907,75,14,$7.75 ,0,108.5,1,Rhˆnbr‰u Klosterbier,Beverages
+10906,61,15,$28.50 ,0,427.5,2,Sirop d'√©rable,Condiments
+10907,75,14,$7.75 ,0,108.5,1,Rh√∂nbr√§u Klosterbier,Beverages
 10908,52,14,$7.00 ,0.050000001,93.09999847,5,Filo Mix,Grains/Cereals
 10908,7,20,$30.00 ,0.050000001,570,7,Uncle Bob's Organic Dried Pears,Produce
 10909,16,15,$17.45 ,0,261.75,3,Pavlova,Confections
 10909,7,12,$30.00 ,0,360,7,Uncle Bob's Organic Dried Pears,Produce
 10909,41,5,$9.65 ,0,48.25,8,Jack's New England Clam Chowder,Seafood
-10910,61,5,$28.50 ,0,142.5,2,Sirop d'Èrable,Condiments
+10910,61,5,$28.50 ,0,142.5,2,Sirop d'√©rable,Condiments
 10910,19,12,$9.20 ,0,110.4000015,3,Teatime Chocolate Biscuits,Confections
 10910,49,10,$20.00 ,0,200,3,Maxilaku,Confections
 10911,1,10,$18.00 ,0,180,1,Chai,Beverages
 10911,67,15,$14.00 ,0,210,1,Laughing Lumberjack Lager,Beverages
 10911,17,12,$39.00 ,0,468,6,Alice Mutton,Meat/Poultry
 10912,11,40,$21.00 ,0.25,630,4,Queso Cabrales,Dairy Products
-10912,29,60,$123.79 ,0.25,5570.549805,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10912,29,60,$123.79 ,0.25,5570.549805,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10913,4,30,$22.00 ,0.25,495,2,Chef Anton's Cajun Seasoning,Condiments
 10913,33,40,$2.50 ,0.25,75,4,Geitost,Dairy Products
 10913,58,15,$13.25 ,0,198.75,8,Escargots de Bourgogne,Seafood
 10914,71,25,$21.50 ,0,537.5,4,Flotemysost,Dairy Products
 10915,33,30,$2.50 ,0,75,4,Geitost,Dairy Products
 10915,17,10,$39.00 ,0,390,6,Alice Mutton,Meat/Poultry
-10915,54,10,$7.45 ,0,74.5,6,TourtiËre,Meat/Poultry
+10915,54,10,$7.45 ,0,74.5,6,Tourti√®re,Meat/Poultry
 10916,16,6,$17.45 ,0,104.6999969,3,Pavlova,Confections
 10916,32,6,$32.00 ,0,192,4,Mascarpone Fabioli,Dairy Products
 10916,57,20,$19.50 ,0,390,5,Ravioli Angelo,Grains/Cereals
@@ -1741,18 +1741,18 @@
 10918,1,60,$18.00 ,0.25,810,1,Chai,Beverages
 10918,60,25,$34.00 ,0.25,637.5,4,Camembert Pierrot,Dairy Products
 10919,16,24,$17.45 ,0,418.7999878,3,Pavlova,Confections
-10919,25,24,$14.00 ,0,336,3,NuNuCa Nuﬂ-Nougat-Creme,Confections
+10919,25,24,$14.00 ,0,336,3,NuNuCa Nu√ü-Nougat-Creme,Confections
 10919,40,20,$18.40 ,0,368,8,Boston Crab Meat,Seafood
 10920,50,24,$16.25 ,0,390,3,Valkoinen suklaa,Confections
 10921,35,10,$18.00 ,0,180,1,Steeleye Stout,Beverages
 10921,63,40,$43.90 ,0,1756,2,Vegie-spread,Condiments
-10922,24,35,$4.50 ,0,157.5,1,Guaran· Fant·stica,Beverages
+10922,24,35,$4.50 ,0,157.5,1,Guaran√° Fant√°stica,Beverages
 10922,17,15,$39.00 ,0,585,6,Alice Mutton,Meat/Poultry
 10923,43,10,$46.00 ,0.200000003,368,1,Ipoh Coffee,Beverages
 10923,67,24,$14.00 ,0.200000003,268.8000183,1,Laughing Lumberjack Lager,Beverages
 10923,42,10,$14.00 ,0.200000003,112,5,Singaporean Hokkien Fried Mee,Grains/Cereals
-10924,75,6,$7.75 ,0,46.5,1,Rhˆnbr‰u Klosterbier,Beverages
-10924,28,30,$45.60 ,0.100000001,1231.199951,7,Rˆssle Sauerkraut,Produce
+10924,75,6,$7.75 ,0,46.5,1,Rh√∂nbr√§u Klosterbier,Beverages
+10924,28,30,$45.60 ,0.100000001,1231.199951,7,R√∂ssle Sauerkraut,Produce
 10924,10,20,$31.00 ,0.100000001,558,8,Ikura,Seafood
 10925,52,12,$7.00 ,0.150000006,71.40000153,5,Filo Mix,Grains/Cereals
 10925,36,25,$19.00 ,0.150000006,403.75,8,Inlagd Sill,Seafood
@@ -1760,33 +1760,33 @@
 10926,11,2,$21.00 ,0,42,4,Queso Cabrales,Dairy Products
 10926,72,10,$34.80 ,0,348,4,Mozzarella di Giovanni,Dairy Products
 10926,13,10,$6.00 ,0,60,8,Konbu,Seafood
-10927,76,20,$18.00 ,0,360,1,Lakkalikˆˆri,Beverages
+10927,76,20,$18.00 ,0,360,1,Lakkalik√∂√∂ri,Beverages
 10927,20,5,$81.00 ,0,405,3,Sir Rodney's Marmalade,Confections
 10927,52,5,$7.00 ,0,35,5,Filo Mix,Grains/Cereals
-10928,76,5,$18.00 ,0,90,1,Lakkalikˆˆri,Beverages
+10928,76,5,$18.00 ,0,90,1,Lakkalik√∂√∂ri,Beverages
 10928,47,5,$9.50 ,0,47.5,3,Zaanse koeken,Confections
-10929,75,49,$7.75 ,0,379.75,1,Rhˆnbr‰u Klosterbier,Beverages
-10929,77,15,$13.00 ,0,195,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10929,75,49,$7.75 ,0,379.75,1,Rh√∂nbr√§u Klosterbier,Beverages
+10929,77,15,$13.00 ,0,195,2,Original Frankfurter gr√ºne So√üe,Condiments
 10929,21,60,$10.00 ,0,600,3,Sir Rodney's Scones,Confections
 10930,21,36,$10.00 ,0,360,3,Sir Rodney's Scones,Confections
 10930,27,25,$43.90 ,0,1097.5,3,Schoggi Schokolade,Confections
-10930,55,25,$24.00 ,0.200000003,480,6,P‚tÈ chinois,Meat/Poultry
+10930,55,25,$24.00 ,0.200000003,480,6,P√¢t√© chinois,Meat/Poultry
 10930,58,30,$13.25 ,0.200000003,318,8,Escargots de Bourgogne,Seafood
 10931,57,30,$19.50 ,0,585,5,Ravioli Angelo,Grains/Cereals
 10931,13,42,$6.00 ,0.150000006,214.2000122,8,Konbu,Seafood
-10932,75,20,$7.75 ,0.100000001,139.5,1,Rhˆnbr‰u Klosterbier,Beverages
+10932,75,20,$7.75 ,0.100000001,139.5,1,Rh√∂nbr√§u Klosterbier,Beverages
 10932,16,30,$17.45 ,0.100000001,471.1499939,3,Pavlova,Confections
 10932,62,14,$49.30 ,0.100000001,621.1799927,3,Tarte au sucre,Confections
 10932,72,16,$34.80 ,0,556.7999878,4,Mozzarella di Giovanni,Dairy Products
-10933,61,30,$28.50 ,0,855,2,Sirop d'Èrable,Condiments
+10933,61,30,$28.50 ,0,855,2,Sirop d'√©rable,Condiments
 10933,53,2,$32.80 ,0,65.59999847,6,Perth Pasties,Meat/Poultry
 10934,6,20,$25.00 ,0,500,2,Grandma's Boysenberry Spread,Condiments
 10935,1,21,$18.00 ,0,378,1,Chai,Beverages
-10935,23,8,$9.00 ,0.25,54,5,Tunnbrˆd,Grains/Cereals
+10935,23,8,$9.00 ,0.25,54,5,Tunnbr√∂d,Grains/Cereals
 10935,18,4,$62.50 ,0.25,187.5,8,Carnarvon Tigers,Seafood
 10936,36,30,$19.00 ,0.200000003,456,8,Inlagd Sill,Seafood
 10937,34,20,$14.00 ,0,280,1,Sasquatch Ale,Beverages
-10937,28,8,$45.60 ,0,364.7999878,7,Rˆssle Sauerkraut,Produce
+10937,28,8,$45.60 ,0,364.7999878,7,R√∂ssle Sauerkraut,Produce
 10938,43,24,$46.00 ,0.25,828,1,Ipoh Coffee,Beverages
 10938,60,49,$34.00 ,0.25,1249.5,4,Camembert Pierrot,Dairy Products
 10938,71,35,$21.50 ,0.25,564.375,4,Flotemysost,Dairy Products
@@ -1800,7 +1800,7 @@
 10941,31,44,$12.50 ,0.25,412.5,4,Gorgonzola Telino,Dairy Products
 10941,72,50,$34.80 ,0,1740,4,Mozzarella di Giovanni,Dairy Products
 10942,49,28,$20.00 ,0,560,3,Maxilaku,Confections
-10943,22,21,$21.00 ,0,441,5,Gustaf's Kn‰ckebrˆd,Grains/Cereals
+10943,22,21,$21.00 ,0,441,5,Gustaf's Kn√§ckebr√∂d,Grains/Cereals
 10943,13,15,$6.00 ,0,90,8,Konbu,Seafood
 10943,46,15,$12.00 ,0,180,8,Spegesild,Seafood
 10944,44,18,$19.45 ,0.25,262.5750122,2,Gula Malacca,Condiments
@@ -1808,51 +1808,51 @@
 10944,56,18,$38.00 ,0,684,5,Gnocchi di nonna Alice,Grains/Cereals
 10945,31,10,$12.50 ,0,125,4,Gorgonzola Telino,Dairy Products
 10945,13,20,$6.00 ,0,120,8,Konbu,Seafood
-10946,24,25,$4.50 ,0,112.5,1,Guaran· Fant·stica,Beverages
-10946,77,40,$13.00 ,0,520,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10946,24,25,$4.50 ,0,112.5,1,Guaran√° Fant√°stica,Beverages
+10946,77,40,$13.00 ,0,520,2,Original Frankfurter gr√ºne So√üe,Condiments
 10946,10,25,$31.00 ,0,775,8,Ikura,Seafood
 10947,59,4,$55.00 ,0,220,4,Raclette Courdavault,Dairy Products
 10948,50,9,$16.25 ,0,146.25,3,Valkoinen suklaa,Confections
-10948,55,4,$24.00 ,0,96,6,P‚tÈ chinois,Meat/Poultry
+10948,55,4,$24.00 ,0,96,6,P√¢t√© chinois,Meat/Poultry
 10948,51,40,$53.00 ,0,2120,7,Manjimup Dried Apples,Produce
 10949,6,12,$25.00 ,0,300,2,Grandma's Boysenberry Spread,Condiments
 10949,62,60,$49.30 ,0,2958,3,Tarte au sucre,Confections
 10949,17,6,$39.00 ,0,234,6,Alice Mutton,Meat/Poultry
 10949,10,30,$31.00 ,0,930,8,Ikura,Seafood
 10950,4,5,$22.00 ,0,110,2,Chef Anton's Cajun Seasoning,Condiments
-10951,75,50,$7.75 ,0.050000001,368.125,1,Rhˆnbr‰u Klosterbier,Beverages
+10951,75,50,$7.75 ,0.050000001,368.125,1,Rh√∂nbr√§u Klosterbier,Beverages
 10951,33,15,$2.50 ,0.050000001,35.625,4,Geitost,Dairy Products
 10951,41,6,$9.65 ,0.050000001,55.00500107,8,Jack's New England Clam Chowder,Seafood
 10952,6,16,$25.00 ,0.050000001,380,2,Grandma's Boysenberry Spread,Condiments
-10952,28,2,$45.60 ,0,91.19999695,7,Rˆssle Sauerkraut,Produce
+10952,28,2,$45.60 ,0,91.19999695,7,R√∂ssle Sauerkraut,Produce
 10953,20,50,$81.00 ,0.050000001,3847.5,3,Sir Rodney's Marmalade,Confections
 10953,31,50,$12.50 ,0.050000001,593.75,4,Gorgonzola Telino,Dairy Products
 10954,16,28,$17.45 ,0.150000006,415.3100281,3,Pavlova,Confections
 10954,31,25,$12.50 ,0.150000006,265.625,4,Gorgonzola Telino,Dairy Products
 10954,60,24,$34.00 ,0.150000006,693.6000366,4,Camembert Pierrot,Dairy Products
 10954,45,30,$9.50 ,0,285,8,Rogede sild,Seafood
-10955,75,12,$7.75 ,0.200000003,74.40000153,1,Rhˆnbr‰u Klosterbier,Beverages
+10955,75,12,$7.75 ,0.200000003,74.40000153,1,Rh√∂nbr√§u Klosterbier,Beverages
 10956,21,12,$10.00 ,0,120,3,Sir Rodney's Scones,Confections
 10956,47,14,$9.50 ,0,133,3,Zaanse koeken,Confections
 10956,51,8,$53.00 ,0,424,7,Manjimup Dried Apples,Produce
 10957,35,40,$18.00 ,0,720,1,Steeleye Stout,Beverages
-10957,64,8,$33.25 ,0,266,5,Wimmers gute Semmelknˆdel,Grains/Cereals
+10957,64,8,$33.25 ,0,266,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
 10957,30,30,$25.89 ,0,776.7000122,8,Nord-Ost Matjeshering,Seafood
 10958,5,20,$21.35 ,0,427,2,Chef Anton's Gumbo Mix,Condiments
 10958,72,5,$34.80 ,0,174,4,Mozzarella di Giovanni,Dairy Products
 10958,7,6,$30.00 ,0,180,7,Uncle Bob's Organic Dried Pears,Produce
-10959,75,20,$7.75 ,0.150000006,131.75,1,Rhˆnbr‰u Klosterbier,Beverages
-10960,24,10,$4.50 ,0.25,33.75,1,Guaran· Fant·stica,Beverages
+10959,75,20,$7.75 ,0.150000006,131.75,1,Rh√∂nbr√§u Klosterbier,Beverages
+10960,24,10,$4.50 ,0.25,33.75,1,Guaran√° Fant√°stica,Beverages
 10960,41,24,$9.65 ,0,231.6000061,8,Jack's New England Clam Chowder,Seafood
-10961,76,60,$18.00 ,0,1080,1,Lakkalikˆˆri,Beverages
+10961,76,60,$18.00 ,0,1080,1,Lakkalik√∂√∂ri,Beverages
 10961,52,6,$7.00 ,0.050000001,39.89999771,5,Filo Mix,Grains/Cereals
-10962,76,44,$18.00 ,0,792,1,Lakkalikˆˆri,Beverages
+10962,76,44,$18.00 ,0,792,1,Lakkalik√∂√∂ri,Beverages
 10962,69,9,$36.00 ,0,324,4,Gudbrandsdalsost,Dairy Products
 10962,53,20,$32.80 ,0,656,6,Perth Pasties,Meat/Poultry
 10962,7,45,$30.00 ,0,1350,7,Uncle Bob's Organic Dried Pears,Produce
 10962,13,77,$6.00 ,0,462,8,Konbu,Seafood
 10963,60,2,$34.00 ,0.150000006,57.80000305,4,Camembert Pierrot,Dairy Products
-10964,38,5,$263.50 ,0,1317.5,1,CÙte de Blaye,Beverages
+10964,38,5,$263.50 ,0,1317.5,1,C√¥te de Blaye,Beverages
 10964,69,10,$36.00 ,0,360,4,Gudbrandsdalsost,Dairy Products
 10964,18,6,$62.50 ,0,375,8,Carnarvon Tigers,Seafood
 10965,51,16,$53.00 ,0,848,7,Manjimup Dried Apples,Produce
@@ -1861,21 +1861,21 @@
 10966,37,8,$26.00 ,0,208,8,Gravad lax,Seafood
 10967,19,12,$9.20 ,0,110.4000015,3,Teatime Chocolate Biscuits,Confections
 10967,49,40,$20.00 ,0,800,3,Maxilaku,Confections
-10968,24,30,$4.50 ,0,135,1,Guaran· Fant·stica,Beverages
+10968,24,30,$4.50 ,0,135,1,Guaran√° Fant√°stica,Beverages
 10968,12,30,$38.00 ,0,1140,4,Queso Manchego La Pastora,Dairy Products
-10968,64,4,$33.25 ,0,133,5,Wimmers gute Semmelknˆdel,Grains/Cereals
+10968,64,4,$33.25 ,0,133,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
 10969,46,9,$12.00 ,0,108,8,Spegesild,Seafood
 10970,52,40,$7.00 ,0.200000003,224,5,Filo Mix,Grains/Cereals
-10971,29,14,$123.79 ,0,1733.060059,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10971,29,14,$123.79 ,0,1733.060059,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10972,33,7,$2.50 ,0,17.5,4,Geitost,Dairy Products
 10972,17,6,$39.00 ,0,234,6,Alice Mutton,Meat/Poultry
-10973,75,10,$7.75 ,0,77.5,1,Rhˆnbr‰u Klosterbier,Beverages
-10973,26,5,$31.23 ,0,156.1499939,3,Gumb‰r Gummib‰rchen,Confections
+10973,75,10,$7.75 ,0,77.5,1,Rh√∂nbr√§u Klosterbier,Beverages
+10973,26,5,$31.23 ,0,156.1499939,3,Gumb√§r Gummib√§rchen,Confections
 10973,41,6,$9.65 ,0,57.90000153,8,Jack's New England Clam Chowder,Seafood
 10974,63,10,$43.90 ,0,439,2,Vegie-spread,Condiments
-10975,75,10,$7.75 ,0,77.5,1,Rhˆnbr‰u Klosterbier,Beverages
+10975,75,10,$7.75 ,0,77.5,1,Rh√∂nbr√§u Klosterbier,Beverages
 10975,8,16,$40.00 ,0,640,2,Northwoods Cranberry Sauce,Condiments
-10976,28,20,$45.60 ,0,912,7,Rˆssle Sauerkraut,Produce
+10976,28,20,$45.60 ,0,912,7,R√∂ssle Sauerkraut,Produce
 10977,39,30,$18.00 ,0,540,1,Chartreuse verte,Beverages
 10977,63,20,$43.90 ,0,878,2,Vegie-spread,Condiments
 10977,47,30,$9.50 ,0,285,3,Zaanse koeken,Confections
@@ -1884,26 +1884,26 @@
 10978,44,6,$19.45 ,0.150000006,99.19499969,2,Gula Malacca,Condiments
 10978,21,40,$10.00 ,0.150000006,340,3,Sir Rodney's Scones,Confections
 10978,40,10,$18.40 ,0,184,8,Boston Crab Meat,Seafood
-10979,24,80,$4.50 ,0,360,1,Guaran· Fant·stica,Beverages
+10979,24,80,$4.50 ,0,360,1,Guaran√° Fant√°stica,Beverages
 10979,63,35,$43.90 ,0,1536.5,2,Vegie-spread,Condiments
 10979,27,30,$43.90 ,0,1317,3,Schoggi Schokolade,Confections
 10979,12,20,$38.00 ,0,760,4,Queso Manchego La Pastora,Dairy Products
 10979,31,24,$12.50 ,0,300,4,Gorgonzola Telino,Dairy Products
 10979,7,18,$30.00 ,0,540,7,Uncle Bob's Organic Dried Pears,Produce
-10980,75,40,$7.75 ,0.200000003,248,1,Rhˆnbr‰u Klosterbier,Beverages
-10981,38,60,$263.50 ,0,15810,1,CÙte de Blaye,Beverages
+10980,75,40,$7.75 ,0.200000003,248,1,Rh√∂nbr√§u Klosterbier,Beverages
+10981,38,60,$263.50 ,0,15810,1,C√¥te de Blaye,Beverages
 10982,43,9,$46.00 ,0,414,1,Ipoh Coffee,Beverages
 10982,7,20,$30.00 ,0,600,7,Uncle Bob's Organic Dried Pears,Produce
 10983,57,15,$19.50 ,0,292.5,5,Ravioli Angelo,Grains/Cereals
 10983,13,84,$6.00 ,0.150000006,428.4000244,8,Konbu,Seafood
-10984,24,20,$4.50 ,0,90,1,Guaran· Fant·stica,Beverages
+10984,24,20,$4.50 ,0,90,1,Guaran√° Fant√°stica,Beverages
 10984,16,55,$17.45 ,0,959.75,3,Pavlova,Confections
 10984,36,40,$19.00 ,0,760,8,Inlagd Sill,Seafood
 10985,16,36,$17.45 ,0.100000001,565.3800049,3,Pavlova,Confections
 10985,32,35,$32.00 ,0.100000001,1008,4,Mascarpone Fabioli,Dairy Products
 10985,18,8,$62.50 ,0.100000001,450,8,Carnarvon Tigers,Seafood
-10986,76,10,$18.00 ,0,180,1,Lakkalikˆˆri,Beverages
-10986,77,15,$13.00 ,0,195,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10986,76,10,$18.00 ,0,180,1,Lakkalik√∂√∂ri,Beverages
+10986,77,15,$13.00 ,0,195,2,Original Frankfurter gr√ºne So√üe,Condiments
 10986,20,15,$81.00 ,0,1215,3,Sir Rodney's Marmalade,Confections
 10986,11,30,$21.00 ,0,630,4,Queso Cabrales,Dairy Products
 10987,43,6,$46.00 ,0,276,1,Ipoh Coffee,Beverages
@@ -1915,14 +1915,14 @@
 10989,11,15,$21.00 ,0,315,4,Queso Cabrales,Dairy Products
 10989,41,4,$9.65 ,0,38.59999847,8,Jack's New England Clam Chowder,Seafood
 10990,34,60,$14.00 ,0.150000006,714,1,Sasquatch Ale,Beverages
-10990,61,66,$28.50 ,0.150000006,1598.850098,2,Sirop d'Èrable,Condiments
+10990,61,66,$28.50 ,0.150000006,1598.850098,2,Sirop d'√©rable,Condiments
 10990,21,65,$10.00 ,0,650,3,Sir Rodney's Scones,Confections
-10990,55,65,$24.00 ,0.150000006,1326,6,P‚tÈ chinois,Meat/Poultry
+10990,55,65,$24.00 ,0.150000006,1326,6,P√¢t√© chinois,Meat/Poultry
 10991,2,50,$19.00 ,0.200000003,760,1,Chang,Beverages
 10991,70,20,$15.00 ,0.200000003,240,1,Outback Lager,Beverages
-10991,76,90,$18.00 ,0.200000003,1296,1,Lakkalikˆˆri,Beverages
+10991,76,90,$18.00 ,0.200000003,1296,1,Lakkalik√∂√∂ri,Beverages
 10992,72,2,$34.80 ,0,69.59999847,4,Mozzarella di Giovanni,Dairy Products
-10993,29,50,$123.79 ,0.25,4642.125,6,Th¸ringer Rostbratwurst,Meat/Poultry
+10993,29,50,$123.79 ,0.25,4642.125,6,Th√ºringer Rostbratwurst,Meat/Poultry
 10993,41,35,$9.65 ,0.25,253.3125,8,Jack's New England Clam Chowder,Seafood
 10994,59,18,$55.00 ,0.050000001,940.5,4,Raclette Courdavault,Dairy Products
 10995,60,4,$34.00 ,0,136,4,Camembert Pierrot,Dairy Products
@@ -1931,43 +1931,43 @@
 10997,32,50,$32.00 ,0,1600,4,Mascarpone Fabioli,Dairy Products
 10997,52,20,$7.00 ,0.25,105,5,Filo Mix,Grains/Cereals
 10997,46,20,$12.00 ,0.25,180,8,Spegesild,Seafood
-10998,24,12,$4.50 ,0,54,1,Guaran· Fant·stica,Beverages
-10998,75,30,$7.75 ,0,232.5,1,Rhˆnbr‰u Klosterbier,Beverages
-10998,61,7,$28.50 ,0,199.5,2,Sirop d'Èrable,Condiments
+10998,24,12,$4.50 ,0,54,1,Guaran√° Fant√°stica,Beverages
+10998,75,30,$7.75 ,0,232.5,1,Rh√∂nbr√§u Klosterbier,Beverages
+10998,61,7,$28.50 ,0,199.5,2,Sirop d'√©rable,Condiments
 10998,74,20,$10.00 ,0,200,7,Longlife Tofu,Produce
-10999,77,21,$13.00 ,0.050000001,259.3500061,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+10999,77,21,$13.00 ,0.050000001,259.3500061,2,Original Frankfurter gr√ºne So√üe,Condiments
 10999,51,15,$53.00 ,0.050000001,755.25,7,Manjimup Dried Apples,Produce
 10999,41,20,$9.65 ,0.050000001,183.3499908,8,Jack's New England Clam Chowder,Seafood
-11000,24,30,$4.50 ,0.25,101.25,1,Guaran· Fant·stica,Beverages
+11000,24,30,$4.50 ,0.25,101.25,1,Guaran√° Fant√°stica,Beverages
 11000,4,25,$22.00 ,0.25,412.5,2,Chef Anton's Cajun Seasoning,Condiments
-11000,77,30,$13.00 ,0,390,2,Original Frankfurter gr¸ne Soﬂe,Condiments
-11001,22,25,$21.00 ,0,525,5,Gustaf's Kn‰ckebrˆd,Grains/Cereals
-11001,55,6,$24.00 ,0,144,6,P‚tÈ chinois,Meat/Poultry
+11000,77,30,$13.00 ,0,390,2,Original Frankfurter gr√ºne So√üe,Condiments
+11001,22,25,$21.00 ,0,525,5,Gustaf's Kn√§ckebr√∂d,Grains/Cereals
+11001,55,6,$24.00 ,0,144,6,P√¢t√© chinois,Meat/Poultry
 11001,7,60,$30.00 ,0,1800,7,Uncle Bob's Organic Dried Pears,Produce
 11001,46,25,$12.00 ,0,300,8,Spegesild,Seafood
 11002,35,15,$18.00 ,0.150000006,229.5,1,Steeleye Stout,Beverages
 11002,42,24,$14.00 ,0.150000006,285.6000061,5,Singaporean Hokkien Fried Mee,Grains/Cereals
-11002,55,40,$24.00 ,0,960,6,P‚tÈ chinois,Meat/Poultry
+11002,55,40,$24.00 ,0,960,6,P√¢t√© chinois,Meat/Poultry
 11002,13,56,$6.00 ,0,336,8,Konbu,Seafood
 11003,1,4,$18.00 ,0,72,1,Chai,Beverages
 11003,52,10,$7.00 ,0,70,5,Filo Mix,Grains/Cereals
 11003,40,10,$18.40 ,0,184,8,Boston Crab Meat,Seafood
-11004,76,6,$18.00 ,0,108,1,Lakkalikˆˆri,Beverages
-11004,26,6,$31.23 ,0,187.3800049,3,Gumb‰r Gummib‰rchen,Confections
+11004,76,6,$18.00 ,0,108,1,Lakkalik√∂√∂ri,Beverages
+11004,26,6,$31.23 ,0,187.3800049,3,Gumb√§r Gummib√§rchen,Confections
 11005,1,2,$18.00 ,0,36,1,Chai,Beverages
 11005,59,10,$55.00 ,0,550,4,Raclette Courdavault,Dairy Products
 11006,1,8,$18.00 ,0,144,1,Chai,Beverages
-11006,29,2,$123.79 ,0.25,185.6849976,6,Th¸ringer Rostbratwurst,Meat/Poultry
+11006,29,2,$123.79 ,0.25,185.6849976,6,Th√ºringer Rostbratwurst,Meat/Poultry
 11007,8,30,$40.00 ,0,1200,2,Northwoods Cranberry Sauce,Condiments
 11007,42,14,$14.00 ,0,196,5,Singaporean Hokkien Fried Mee,Grains/Cereals
-11007,29,10,$123.79 ,0,1237.900024,6,Th¸ringer Rostbratwurst,Meat/Poultry
+11007,29,10,$123.79 ,0,1237.900024,6,Th√ºringer Rostbratwurst,Meat/Poultry
 11008,34,90,$14.00 ,0.050000001,1197,1,Sasquatch Ale,Beverages
 11008,71,21,$21.50 ,0,451.5,4,Flotemysost,Dairy Products
-11008,28,70,$45.60 ,0.050000001,3032.399902,7,Rˆssle Sauerkraut,Produce
-11009,24,12,$4.50 ,0,54,1,Guaran· Fant·stica,Beverages
+11008,28,70,$45.60 ,0.050000001,3032.399902,7,R√∂ssle Sauerkraut,Produce
+11009,24,12,$4.50 ,0,54,1,Guaran√° Fant√°stica,Beverages
 11009,60,9,$34.00 ,0,306,4,Camembert Pierrot,Dairy Products
 11009,36,18,$19.00 ,0.25,256.5,8,Inlagd Sill,Seafood
-11010,24,10,$4.50 ,0,45,1,Guaran· Fant·stica,Beverages
+11010,24,10,$4.50 ,0,45,1,Guaran√° Fant√°stica,Beverages
 11010,7,20,$30.00 ,0,600,7,Uncle Bob's Organic Dried Pears,Produce
 11011,71,20,$21.50 ,0,430,4,Flotemysost,Dairy Products
 11011,58,40,$13.25 ,0.050000001,503.5,8,Escargots de Bourgogne,Seafood
@@ -1975,11 +1975,11 @@
 11012,60,36,$34.00 ,0.050000001,1162.799927,4,Camembert Pierrot,Dairy Products
 11012,71,60,$21.50 ,0.050000001,1225.5,4,Flotemysost,Dairy Products
 11013,68,2,$12.50 ,0,25,3,Scottish Longbreads,Confections
-11013,23,10,$9.00 ,0,90,5,Tunnbrˆd,Grains/Cereals
+11013,23,10,$9.00 ,0,90,5,Tunnbr√∂d,Grains/Cereals
 11013,42,4,$14.00 ,0,56,5,Singaporean Hokkien Fried Mee,Grains/Cereals
 11013,45,20,$9.50 ,0,190,8,Rogede sild,Seafood
 11014,41,28,$9.65 ,0.100000001,243.1800079,8,Jack's New England Clam Chowder,Seafood
-11015,77,18,$13.00 ,0,234,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+11015,77,18,$13.00 ,0,234,2,Original Frankfurter gr√ºne So√üe,Condiments
 11015,30,15,$25.89 ,0,388.3500061,8,Nord-Ost Matjeshering,Seafood
 11016,31,15,$12.50 ,0,187.5,4,Gorgonzola Telino,Dairy Products
 11016,36,16,$19.00 ,0,304,8,Inlagd Sill,Seafood
@@ -1994,7 +1994,7 @@
 11020,10,24,$31.00 ,0.150000006,632.4000244,8,Ikura,Seafood
 11021,2,11,$19.00 ,0.25,156.75,1,Chang,Beverages
 11021,20,15,$81.00 ,0,1215,3,Sir Rodney's Marmalade,Confections
-11021,26,63,$31.23 ,0,1967.48999,3,Gumb‰r Gummib‰rchen,Confections
+11021,26,63,$31.23 ,0,1967.48999,3,Gumb√§r Gummib√§rchen,Confections
 11021,72,35,$34.80 ,0,1218,4,Mozzarella di Giovanni,Dairy Products
 11021,51,44,$53.00 ,0.25,1749,7,Manjimup Dried Apples,Produce
 11022,19,35,$9.20 ,0,322,3,Teatime Chocolate Biscuits,Confections
@@ -2002,40 +2002,40 @@
 11023,43,30,$46.00 ,0,1380,1,Ipoh Coffee,Beverages
 11023,7,4,$30.00 ,0,120,7,Uncle Bob's Organic Dried Pears,Produce
 11024,65,21,$21.05 ,0,442.0499878,2,Louisiana Fiery Hot Pepper Sauce,Condiments
-11024,26,12,$31.23 ,0,374.7600098,3,Gumb‰r Gummib‰rchen,Confections
+11024,26,12,$31.23 ,0,374.7600098,3,Gumb√§r Gummib√§rchen,Confections
 11024,33,30,$2.50 ,0,75,4,Geitost,Dairy Products
 11024,71,50,$21.50 ,0,1075,4,Flotemysost,Dairy Products
 11025,1,10,$18.00 ,0.100000001,162,1,Chai,Beverages
 11025,13,20,$6.00 ,0.100000001,108,8,Konbu,Seafood
 11026,51,10,$53.00 ,0,530,7,Manjimup Dried Apples,Produce
 11026,18,8,$62.50 ,0,500,8,Carnarvon Tigers,Seafood
-11027,24,30,$4.50 ,0.25,101.25,1,Guaran· Fant·stica,Beverages
+11027,24,30,$4.50 ,0.25,101.25,1,Guaran√° Fant√°stica,Beverages
 11027,62,21,$49.30 ,0.25,776.4750366,3,Tarte au sucre,Confections
 11028,59,24,$55.00 ,0,1320,4,Raclette Courdavault,Dairy Products
-11028,55,35,$24.00 ,0,840,6,P‚tÈ chinois,Meat/Poultry
+11028,55,35,$24.00 ,0,840,6,P√¢t√© chinois,Meat/Poultry
 11029,63,12,$43.90 ,0,526.7999878,2,Vegie-spread,Condiments
 11029,56,20,$38.00 ,0,760,5,Gnocchi di nonna Alice,Grains/Cereals
 11030,2,100,$19.00 ,0.25,1425,1,Chang,Beverages
 11030,5,70,$21.35 ,0,1494.5,2,Chef Anton's Gumbo Mix,Condiments
 11030,59,100,$55.00 ,0.25,4125,4,Raclette Courdavault,Dairy Products
-11030,29,60,$123.79 ,0.25,5570.549805,6,Th¸ringer Rostbratwurst,Meat/Poultry
+11030,29,60,$123.79 ,0.25,5570.549805,6,Th√ºringer Rostbratwurst,Meat/Poultry
 11031,1,45,$18.00 ,0,810,1,Chai,Beverages
-11031,24,21,$4.50 ,0,94.5,1,Guaran· Fant·stica,Beverages
+11031,24,21,$4.50 ,0,94.5,1,Guaran√° Fant√°stica,Beverages
 11031,71,16,$21.50 ,0,344,4,Flotemysost,Dairy Products
-11031,64,20,$33.25 ,0,665,5,Wimmers gute Semmelknˆdel,Grains/Cereals
+11031,64,20,$33.25 ,0,665,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
 11031,13,80,$6.00 ,0,480,8,Konbu,Seafood
-11032,38,25,$263.50 ,0,6587.5,1,CÙte de Blaye,Beverages
+11032,38,25,$263.50 ,0,6587.5,1,C√¥te de Blaye,Beverages
 11032,59,30,$55.00 ,0,1650,4,Raclette Courdavault,Dairy Products
 11032,36,35,$19.00 ,0,665,8,Inlagd Sill,Seafood
 11033,69,36,$36.00 ,0.100000001,1166.400024,4,Gudbrandsdalsost,Dairy Products
 11033,53,70,$32.80 ,0.100000001,2066.399902,6,Perth Pasties,Meat/Poultry
 11034,44,12,$19.45 ,0,233.3999939,2,Gula Malacca,Condiments
-11034,61,6,$28.50 ,0,171,2,Sirop d'Èrable,Condiments
+11034,61,6,$28.50 ,0,171,2,Sirop d'√©rable,Condiments
 11034,21,15,$10.00 ,0.100000001,135,3,Sir Rodney's Scones,Confections
 11035,1,10,$18.00 ,0,180,1,Chai,Beverages
 11035,35,60,$18.00 ,0,1080,1,Steeleye Stout,Beverages
 11035,42,30,$14.00 ,0,420,5,Singaporean Hokkien Fried Mee,Grains/Cereals
-11035,54,10,$7.45 ,0,74.5,6,TourtiËre,Meat/Poultry
+11035,54,10,$7.45 ,0,74.5,6,Tourti√®re,Meat/Poultry
 11036,59,30,$55.00 ,0,1650,4,Raclette Courdavault,Dairy Products
 11036,13,7,$6.00 ,0,42,8,Konbu,Seafood
 11037,70,4,$15.00 ,0,60,1,Outback Lager,Beverages
@@ -2045,12 +2045,12 @@
 11039,35,24,$18.00 ,0,432,1,Steeleye Stout,Beverages
 11039,49,60,$20.00 ,0,1200,3,Maxilaku,Confections
 11039,57,28,$19.50 ,0,546,5,Ravioli Angelo,Grains/Cereals
-11039,28,20,$45.60 ,0,912,7,Rˆssle Sauerkraut,Produce
+11039,28,20,$45.60 ,0,912,7,R√∂ssle Sauerkraut,Produce
 11040,21,20,$10.00 ,0,200,3,Sir Rodney's Scones,Confections
 11041,2,30,$19.00 ,0.200000003,456,1,Chang,Beverages
 11041,63,30,$43.90 ,0,1317,2,Vegie-spread,Condiments
 11042,44,15,$19.45 ,0,291.75,2,Gula Malacca,Condiments
-11042,61,4,$28.50 ,0,114,2,Sirop d'Èrable,Condiments
+11042,61,4,$28.50 ,0,114,2,Sirop d'√©rable,Condiments
 11043,11,10,$21.00 ,0,210,4,Queso Cabrales,Dairy Products
 11044,62,12,$49.30 ,0,591.5999756,3,Tarte au sucre,Confections
 11045,33,15,$2.50 ,0,37.5,4,Geitost,Dairy Products
@@ -2063,30 +2063,30 @@
 11048,68,42,$12.50 ,0,525,3,Scottish Longbreads,Confections
 11049,2,10,$19.00 ,0.200000003,152,1,Chang,Beverages
 11049,12,4,$38.00 ,0.200000003,121.5999985,4,Queso Manchego La Pastora,Dairy Products
-11050,76,50,$18.00 ,0.100000001,810,1,Lakkalikˆˆri,Beverages
-11051,24,10,$4.50 ,0.200000003,36,1,Guaran· Fant·stica,Beverages
+11050,76,50,$18.00 ,0.100000001,810,1,Lakkalik√∂√∂ri,Beverages
+11051,24,10,$4.50 ,0.200000003,36,1,Guaran√° Fant√°stica,Beverages
 11052,43,30,$46.00 ,0.200000003,1104,1,Ipoh Coffee,Beverages
-11052,61,10,$28.50 ,0.200000003,228,2,Sirop d'Èrable,Condiments
+11052,61,10,$28.50 ,0.200000003,228,2,Sirop d'√©rable,Condiments
 11053,32,20,$32.00 ,0,640,4,Mascarpone Fabioli,Dairy Products
-11053,64,25,$33.25 ,0.200000003,665,5,Wimmers gute Semmelknˆdel,Grains/Cereals
+11053,64,25,$33.25 ,0.200000003,665,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
 11053,18,35,$62.50 ,0.200000003,1750,8,Carnarvon Tigers,Seafood
 11054,67,20,$14.00 ,0,280,1,Laughing Lumberjack Lager,Beverages
 11054,33,10,$2.50 ,0,25,4,Geitost,Dairy Products
-11055,24,15,$4.50 ,0,67.5,1,Guaran· Fant·stica,Beverages
-11055,25,15,$14.00 ,0,210,3,NuNuCa Nuﬂ-Nougat-Creme,Confections
+11055,24,15,$4.50 ,0,67.5,1,Guaran√° Fant√°stica,Beverages
+11055,25,15,$14.00 ,0,210,3,NuNuCa Nu√ü-Nougat-Creme,Confections
 11055,57,20,$19.50 ,0,390,5,Ravioli Angelo,Grains/Cereals
 11055,51,20,$53.00 ,0,1060,7,Manjimup Dried Apples,Produce
 11056,60,50,$34.00 ,0,1700,4,Camembert Pierrot,Dairy Products
-11056,55,35,$24.00 ,0,840,6,P‚tÈ chinois,Meat/Poultry
+11056,55,35,$24.00 ,0,840,6,P√¢t√© chinois,Meat/Poultry
 11056,7,40,$30.00 ,0,1200,7,Uncle Bob's Organic Dried Pears,Produce
 11057,70,3,$15.00 ,0,45,1,Outback Lager,Beverages
-11058,61,4,$28.50 ,0,114,2,Sirop d'Èrable,Condiments
+11058,61,4,$28.50 ,0,114,2,Sirop d'√©rable,Condiments
 11058,21,3,$10.00 ,0,30,3,Sir Rodney's Scones,Confections
 11058,60,21,$34.00 ,0,714,4,Camembert Pierrot,Dairy Products
 11059,60,35,$34.00 ,0,1190,4,Camembert Pierrot,Dairy Products
 11059,17,12,$39.00 ,0,468,6,Alice Mutton,Meat/Poultry
 11059,13,30,$6.00 ,0,180,8,Konbu,Seafood
-11060,77,10,$13.00 ,0,130,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+11060,77,10,$13.00 ,0,130,2,Original Frankfurter gr√ºne So√üe,Condiments
 11060,60,4,$34.00 ,0,136,4,Camembert Pierrot,Dairy Products
 11061,60,15,$34.00 ,0,510,4,Camembert Pierrot,Dairy Products
 11062,70,12,$15.00 ,0.200000003,144,1,Outback Lager,Beverages
@@ -2097,17 +2097,17 @@
 11064,68,55,$12.50 ,0,687.5,3,Scottish Longbreads,Confections
 11064,17,77,$39.00 ,0.100000001,2702.699951,6,Alice Mutton,Meat/Poultry
 11064,53,25,$32.80 ,0.100000001,738,6,Perth Pasties,Meat/Poultry
-11064,55,4,$24.00 ,0.100000001,86.3999939,6,P‚tÈ chinois,Meat/Poultry
+11064,55,4,$24.00 ,0.100000001,86.3999939,6,P√¢t√© chinois,Meat/Poultry
 11064,41,12,$9.65 ,0,115.8000031,8,Jack's New England Clam Chowder,Seafood
-11065,54,20,$7.45 ,0.25,111.75,6,TourtiËre,Meat/Poultry
+11065,54,20,$7.45 ,0.25,111.75,6,Tourti√®re,Meat/Poultry
 11065,30,4,$25.89 ,0.25,77.66999817,8,Nord-Ost Matjeshering,Seafood
 11066,34,35,$14.00 ,0,490,1,Sasquatch Ale,Beverages
 11066,16,3,$17.45 ,0,52.34999847,3,Pavlova,Confections
 11066,19,42,$9.20 ,0,386.3999939,3,Teatime Chocolate Biscuits,Confections
 11067,41,9,$9.65 ,0,86.84999847,8,Jack's New England Clam Chowder,Seafood
 11068,43,36,$46.00 ,0.150000006,1407.600098,1,Ipoh Coffee,Beverages
-11068,77,28,$13.00 ,0.150000006,309.3999939,2,Original Frankfurter gr¸ne Soﬂe,Condiments
-11068,28,8,$45.60 ,0.150000006,310.0799866,7,Rˆssle Sauerkraut,Produce
+11068,77,28,$13.00 ,0.150000006,309.3999939,2,Original Frankfurter gr√ºne So√üe,Condiments
+11068,28,8,$45.60 ,0.150000006,310.0799866,7,R√∂ssle Sauerkraut,Produce
 11069,39,20,$18.00 ,0,360,1,Chartreuse verte,Beverages
 11070,1,40,$18.00 ,0.150000006,612,1,Chai,Beverages
 11070,2,20,$19.00 ,0.150000006,323,1,Chang,Beverages
@@ -2117,39 +2117,39 @@
 11071,13,10,$6.00 ,0.050000001,57,8,Konbu,Seafood
 11072,2,8,$19.00 ,0,152,1,Chang,Beverages
 11072,50,22,$16.25 ,0,357.5,3,Valkoinen suklaa,Confections
-11072,64,130,$33.25 ,0,4322.5,5,Wimmers gute Semmelknˆdel,Grains/Cereals
+11072,64,130,$33.25 ,0,4322.5,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
 11072,41,40,$9.65 ,0,386,8,Jack's New England Clam Chowder,Seafood
-11073,24,20,$4.50 ,0,90,1,Guaran· Fant·stica,Beverages
+11073,24,20,$4.50 ,0,90,1,Guaran√° Fant√°stica,Beverages
 11073,11,10,$21.00 ,0,210,4,Queso Cabrales,Dairy Products
 11074,16,14,$17.45 ,0.050000001,232.0850067,3,Pavlova,Confections
 11075,2,10,$19.00 ,0.150000006,161.5,1,Chang,Beverages
-11075,76,2,$18.00 ,0.150000006,30.60000038,1,Lakkalikˆˆri,Beverages
+11075,76,2,$18.00 ,0.150000006,30.60000038,1,Lakkalik√∂√∂ri,Beverages
 11075,46,30,$12.00 ,0.150000006,306,8,Spegesild,Seafood
 11076,6,20,$25.00 ,0.25,375,2,Grandma's Boysenberry Spread,Condiments
 11076,19,10,$9.20 ,0.25,69,3,Teatime Chocolate Biscuits,Confections
 11076,14,20,$23.25 ,0.25,348.75,7,Tofu,Produce
 11077,2,24,$19.00 ,0.200000003,364.8000183,1,Chang,Beverages
 11077,39,2,$18.00 ,0.050000001,34.20000076,1,Chartreuse verte,Beverages
-11077,75,4,$7.75 ,0,31,1,Rhˆnbr‰u Klosterbier,Beverages
+11077,75,4,$7.75 ,0,31,1,Rh√∂nbr√§u Klosterbier,Beverages
 11077,3,4,$10.00 ,0,40,2,Aniseed Syrup,Condiments
 11077,4,1,$22.00 ,0,22,2,Chef Anton's Cajun Seasoning,Condiments
 11077,6,1,$25.00 ,0.02,24.5,2,Grandma's Boysenberry Spread,Condiments
 11077,8,2,$40.00 ,0.100000001,72,2,Northwoods Cranberry Sauce,Condiments
 11077,66,1,$17.00 ,0,17,2,Louisiana Hot Spiced Okra,Condiments
-11077,77,2,$13.00 ,0,26,2,Original Frankfurter gr¸ne Soﬂe,Condiments
+11077,77,2,$13.00 ,0,26,2,Original Frankfurter gr√ºne So√üe,Condiments
 11077,16,2,$17.45 ,0.029999999,33.85300064,3,Pavlova,Confections
 11077,20,1,$81.00 ,0.039999999,77.75999451,3,Sir Rodney's Marmalade,Confections
 11077,12,2,$38.00 ,0.050000001,72.19999695,4,Queso Manchego La Pastora,Dairy Products
 11077,32,1,$32.00 ,0,32,4,Mascarpone Fabioli,Dairy Products
 11077,60,2,$34.00 ,0.059999999,63.91999817,4,Camembert Pierrot,Dairy Products
-11077,23,2,$9.00 ,0,18,5,Tunnbrˆd,Grains/Cereals
+11077,23,2,$9.00 ,0,18,5,Tunnbr√∂d,Grains/Cereals
 11077,52,2,$7.00 ,0,14,5,Filo Mix,Grains/Cereals
-11077,64,2,$33.25 ,0.029999999,64.50500488,5,Wimmers gute Semmelknˆdel,Grains/Cereals
-11077,55,2,$24.00 ,0,48,6,P‚tÈ chinois,Meat/Poultry
+11077,64,2,$33.25 ,0.029999999,64.50500488,5,Wimmers gute Semmelkn√∂del,Grains/Cereals
+11077,55,2,$24.00 ,0,48,6,P√¢t√© chinois,Meat/Poultry
 11077,7,1,$30.00 ,0.050000001,28.5,7,Uncle Bob's Organic Dried Pears,Produce
 11077,14,1,$23.25 ,0.029999999,22.55249977,7,Tofu,Produce
 11077,10,1,$31.00 ,0,31,8,Ikura,Seafood
 11077,13,4,$6.00 ,0,24,8,Konbu,Seafood
 11077,41,3,$9.65 ,0,28.95000076,8,Jack's New England Clam Chowder,Seafood
 11077,46,3,$12.00 ,0.02,35.27999878,8,Spegesild,Seafood
-11077,73,2,$15.00 ,0.01,29.70000076,8,Rˆd Kaviar,Seafood
+11077,73,2,$15.00 ,0.01,29.70000076,8,R√∂d Kaviar,Seafood
