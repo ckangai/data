@@ -1,3 +1,5 @@
+CREATE DATABASE dbGoogle;
+
 CREATE TABLE OrderDetails 
 (
 	OrderID INT NOT NULL PRIMARY KEY
@@ -11,3 +13,4 @@ CREATE TABLE OrderDetails
 	,CategoryName VARCHAR(20)
 
 )
+;
